@@ -1,8 +1,12 @@
 ---
-layout: article
 title: Curriculum Vitae
-sidebar:
-  nav: layouts
+tags: CV, curriculum vitae
+article_header:
+  type: cover
+  image:
+    src: /PMC banner.png
 ---
+
+# Curriculum Vitae
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQzfJyUIULwaIWgW4KwPWMer95N1s59NUWtqbXhia4lEGdsyKQCUEfucrhOxrELeOCPkBrRilV2V_SG/pub?embedded=true"></iframe>
