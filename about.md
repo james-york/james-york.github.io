@@ -27,8 +27,11 @@ key: page-about
 ---
 
 I am a lecturer at [Tokyo Denki University](https://ra-data.dendai.ac.jp/tduhp/KgApp?kyoinId=ymbsgsyoggy) in Japan. 
+
 I am actively exploring the application of various games in language and literacry teaching.
+
 I co-edit the open-access online journal: [Ludic Language Pedagogy](https://www.llpjournal.org/) with my colleague Jonathan deHaan.
+
 ![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png)
 
 My hobbies
