@@ -34,7 +34,7 @@ timezone: JP # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : organization # "person" (default), "organization"
   name      : Ludic Language Pedagogy
   url       : https://www.llpjournal.org
   avatar    : https://avatars3.githubusercontent.com/u/45161866?s=400&v=4 # path or url of avatar image (square)
