@@ -1,11 +1,16 @@
 ---
 layout: article
-title: Curriculum Vitae
+title: Teaching English communication skills with Captain Sonar
 tags:
 - step by step
 - lesson plan
 - test
 - 👽
+- Captain Sonar
+- Board Game
+- English
+- Speaking
+- CLT
 article_header:
   type: cover
   image:
@@ -14,17 +19,33 @@ article_header:
 
 # Teaching English communication skills with Captain Sonar!
 
-##Author: James York
+## Author: James York
 
-|---
+### History
+
+|WIP Shared   | *date*   |
 |:-:|:-:|
-| ![](https://www.llpjournal.org/wp-content/uploads/2019/05/LLP-PETSCII-color-no-backgroud-LARGE.png){:width="128px"} | Ludic Language Pedagogy
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|---
+|CC Requested?  | ❌✅  |
+| Peer-reviewed?  | ❌✅  |
+| OPR finished  | *date*  |
+| Published  | *date*  |
+
+
+### Keywords
+
+- Captain Sonar
+- Board Game
+- English
+- Speaking
+- CLT
+
+### Peer reviewers
+
+- 1
+- 2
+- 3
+
+## Key points
 
 - 📍 **What is this?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - 📍 **Why was this made?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
