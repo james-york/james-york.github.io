@@ -24,22 +24,38 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+aside:
+  toc: true
 ---
 
-I am a lecturer at [Tokyo Denki University](https://ra-data.dendai.ac.jp/tduhp/KgApp?kyoinId=ymbsgsyoggy) in Japan. 
+![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png =400x)
 
-I am actively exploring the application of various games in language and literacry teaching.
+# What are playgrounds?
 
-I co-edit the open-access online journal: [Ludic Language Pedagogy](https://www.llpjournal.org/) with my colleague Jonathan deHaan.
+- Spaces and tools that help people play; to exercise ideas and build up strengths
+- An element of danger, uncertainty, hopefulness.
+- Social. Playing with others
+- Sitting quietly. Watching. thinking.
+- Flexible. Allow for Structured and unstructured play
 
-![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png)
+# What is the LLP playground?
+- A place to play, to share, to gather, to explore.
+- A place to experiment with playful, atypical, radical, or modern yet impactful academic publication formats
+- Encourage rapid prototyping and sharing
+- A place to share WIPs to get ideas out in the open
+- A place where WIPs can be peer-reviewed and published (let us give you the badge you deserve!)
 
-My hobbies
----
+# LLP playground pieces assume many forms:
 
-- Creating chiptune music
-- Running a chiptune label ([CheapBeats](https://cheapbeatsmusic.bandcamp.com/)) and annual event in Tokyo ([Square Sounds Tokyo](https://sst2019.cheapbeats.net/))
-- Playing taiko drums with my family ([和太鼓円](https://sites.google.com/view/wadaiko-en))
-- Creating [PETSCII](https://en.wikipedia.org/wiki/PETSCII) art (as you can see above).
-
-You can find out more using the social media links in the footer to this page.
+- Short essays
+- Napkins sketches
+- Charts, tables, data
+- Annotated photos
+- Opinion pieces
+- Competitions
+- Lesson plans
+- Discussion notes
+- Interviews
+- Workspaces for brainstorming (teaching, research, design)
+- Game prototypes
+- Etc
