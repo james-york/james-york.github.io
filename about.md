@@ -28,7 +28,7 @@ aside:
   toc: true
 ---
 
-![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png =400x)
+![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="128px".rounded}
 
 # What are playgrounds?
 
