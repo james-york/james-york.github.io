@@ -48,10 +48,11 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
 docs-en:
   - title: Home
-      url: /index.html
+    url: /index.html
   - title: All Items
-      url: /archive.html
+    url: /archive.html
   - title: About
-      url: /about.html
+    url: /about.html
