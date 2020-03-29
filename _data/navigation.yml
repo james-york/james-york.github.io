@@ -54,7 +54,11 @@ docs-en:
     children:
     - title: Home
       url: /index.html
-    - title: All Items
-      url: /archive.html
     - title: About
       url: /about.html
+  - title: Playground Pieces
+    children:
+      - title: Archive
+      url: /archive.html
+      - title: Recent
+      url: /_posts/2020-03-29-recent.md
