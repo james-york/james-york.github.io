@@ -58,7 +58,7 @@ docs-en:
       url: /about.html
   - title: Playground Pieces
     children:
-    - title: Archive
-    url: /archive.html
+    - title: All pieces
+      url: /archive.html
     - title: Recent
-    url: /_posts/2020-03-29-recent.md
+      url: /_posts/2020-03-29-recent.html
