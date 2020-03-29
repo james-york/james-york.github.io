@@ -24,8 +24,8 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
-aside:
-  toc: true
+sidebar:
+  nav: docs-en
 ---
 
 ![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded}

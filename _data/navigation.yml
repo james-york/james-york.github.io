@@ -1,4 +1,6 @@
 header:
+  - title: Back to LLP
+    url: https://www.llpjournal.org
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -50,15 +52,20 @@ header:
     url: /about.html
 
 docs-en:
-  - title: Navigation
+  - title: Homepages
     children:
-    - title: Home
-      url: /index.html
-    - title: About
+    - title: LLP Homepage
+      url: https://www.llpjournal.org
+    - title: Playground Homepage
       url: /about.html
-  - title: Playground Pieces
+
+  - title: Playground Publications
     children:
-    - title: All pieces
+    - title: All pubs
       url: /archive.html
-    - title: Recent
-      url: /_posts/2020-03-29-recent.md
+    - title: Board Games
+      url: /archive.html?tag=board+game
+    - title: Video Games
+      url: /archive.html?tag=video+game
+    - title: Zines
+      url: /archive.html?tag=zine
