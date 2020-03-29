@@ -50,9 +50,11 @@ header:
     url: /about.html
 
 docs-en:
-  - title: Home
-    url: /index.html
-  - title: All Items
-    url: /archive.html
-  - title: About
-    url: /about.html
+  - title: Navigation
+    children:
+    - title: Home
+      url: /index.html
+    - title: All Items
+      url: /archive.html
+    - title: About
+      url: /about.html
