@@ -11,15 +11,13 @@ tags:
 - English
 - Speaking
 - CLT
-article_header:
-  type: cover
-  image:
-    src: /docs/assets/images/llp-street-2.jpg
 ---
 
 # Teaching English communication skills with Captain Sonar!
 
 ## Author: James York
+
+<!--more-->
 
 ### History
 
