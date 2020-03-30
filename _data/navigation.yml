@@ -52,11 +52,11 @@ header:
     url: /about.html
 
 docs-en:
-  - title: Homepages
+  - title: Home
     children:
-    - title: 🏠 LLP Homepage
+    - title: 🏠 LLP Home
       url: https://www.llpjournal.org
-    - title: 🏞 Playground Homepage
+    - title: 🏞 Playground Home
       url: /about.html
 
   - title: Playground Submissions
@@ -72,7 +72,5 @@ docs-en:
 
   - title: Submit your work!
     children:
-    - title: 📝 LLP Article/Walkthrough
-      url: https://www.llpjournal.org/submission-guidelines/submit-your-manuscript/
-    - title: ♟ Playground Submissions 
+    - title: 👾 Submission info
       url: /
