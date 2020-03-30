@@ -52,22 +52,24 @@ header:
     url: /about.html
 
 docs-en:
-  - title: Home
+  - title: Links
     children:
     - title: 🏠 LLP Home
       url: https://www.llpjournal.org
     - title: 🏞 Playground Home
       url: /about.html
+    - title: 💬 LLP Slack
+      url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
 
-  - title: Playground Submissions
+  - title: Playground Items
     children:
-    - title: 🎴 All submissions
+    - title: 🎴 All Items
       url: /archive.html
-    - title: 🎲 Board Games
+    - title: — 🎲 Board Games
       url: /archive.html?tag=board+game
-    - title: 🕹 Video Games
+    - title: — 🕹 Video Games
       url: /archive.html?tag=video+game
-    - title: 📓 Zines
+    - title: — 📓 Zines
       url: /archive.html?tag=zine
 
   - title: Submit your work!
