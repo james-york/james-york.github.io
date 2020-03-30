@@ -24,11 +24,21 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+show_title: false
 sidebar:
   nav: docs-en
 ---
 
 ![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded}
+
+# 👈 Start here
+
+On the sidebar you can find all of the playground publications. Alternatively, click the button below:
+
+<a class="button button--success button--rounded button--lg" href="#"><i class="far fa-play-circle"></i> To the archives </a>
+
+Below, you will find our philosophy and rationale for starting this area of the LLP journal.
+
 
 # What are playgrounds?
 

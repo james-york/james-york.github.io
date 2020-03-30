@@ -54,18 +54,25 @@ header:
 docs-en:
   - title: Homepages
     children:
-    - title: LLP Homepage
+    - title: 🏠 LLP Homepage
       url: https://www.llpjournal.org
-    - title: Playground Homepage
+    - title: 🏞 Playground Homepage
       url: /about.html
 
-  - title: Playground Publications
+  - title: Playground Submissions
     children:
-    - title: All pubs
+    - title: 🎴 All submissions
       url: /archive.html
-    - title: Board Games
+    - title: 🎲 Board Games
       url: /archive.html?tag=board+game
-    - title: Video Games
+    - title: 🕹 Video Games
       url: /archive.html?tag=video+game
-    - title: Zines
+    - title: 📓 Zines
       url: /archive.html?tag=zine
+
+  - title: Submit your work!
+    children:
+    - title: 📝 LLP Article/Walkthrough
+      url: https://www.llpjournal.org/submission-guidelines/submit-your-manuscript/
+    - title: ♟ Playground Submissions 
+      url: /
