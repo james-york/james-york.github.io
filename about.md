@@ -35,7 +35,7 @@ sidebar:
 
 On the sidebar you can find all of the playground publications. Alternatively, click the button below:
 
-<a class="button button--success button--rounded button--lg" href="https://playground.llpjournal.org/archive.html"><i class="far fa-play-circle"></i> To the archives </a>
+<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="far fa-play-circle"></i> To the archives </a>
 
 Below, you will find our philosophy and rationale for starting this area of the LLP journal.
 
