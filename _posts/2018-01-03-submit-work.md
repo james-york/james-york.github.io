@@ -21,7 +21,7 @@ aside:
 
 ## 1. 📖 Read the submission guidelines information
 
-You can find the submission guidelines over [here](/2018/01/02/submission-guidelines.md).
+You can find the submission guidelines over [here]({% post_url 2018-01-02-submission-guidelines}).
 
 ## 2. 📧 Contact the editors
 
