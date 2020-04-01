@@ -27,6 +27,8 @@ key: page-about
 show_title: false
 sidebar:
   nav: docs-en
+aside:
+  toc: true
 ---
 
 ![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded}
@@ -37,35 +39,40 @@ On the sidebar you can find all of the playground publications. Alternatively, c
 
 <a class="button button--success button--rounded button--lg" href="/archive.html"><i class="far fa-play-circle"></i> To the archives </a>
 
-Below, you will find our philosophy and rationale for starting this area of the LLP journal.
+# Latest submissions
 
+## 📔 Recent Articles and Walthroughs
 
-# What are playgrounds?
+<ul>{% for post in site.posts limit: 3 %}
+  {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
+  <li>
+    <a href="{{ post.url }}"> {{ post.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
 
-- Spaces and tools that help people play; to exercise ideas and build up strengths
-- An element of danger, uncertainty, hopefulness.
-- Social. Playing with others
-- Sitting quietly. Watching. thinking.
-- Flexible. Allow for Structured and unstructured play
+## 🏞 Recent Playground Items
 
-# What is the LLP playground?
-- A place to play, to share, to gather, to explore.
-- A place to experiment with playful, atypical, radical, or modern yet impactful academic publication formats
-- Encourage rapid prototyping and sharing
-- A place to share WIPs to get ideas out in the open
-- A place where WIPs can be peer-reviewed and published (let us give you the badge you deserve!)
+<ul>{% for post in site.posts  limit: 3 %}
+  {% if post.tags contains 'playground' %}
+  <li>
+    <a href="{{ post.url }}"> {{ post.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
 
-# LLP playground pieces assume many forms:
+## 🎙 Recent Podcasts
 
-- Short essays
-- Napkins sketches
-- Charts, tables, data
-- Annotated photos
-- Opinion pieces
-- Competitions
-- Lesson plans
-- Discussion notes
-- Interviews
-- Workspaces for brainstorming (teaching, research, design)
-- Game prototypes
-- Etc
+<ul>{% for post in site.posts  limit: 3 %}
+  {% if post.tags contains 'podcast' %}
+  <li>
+    <a href="{{ post.url }}"> {{ post.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

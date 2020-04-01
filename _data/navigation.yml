@@ -1,6 +1,4 @@
 header:
-  - title: Back to LLP
-    url: https://www.llpjournal.org
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -52,27 +50,50 @@ header:
     url: /about.html
 
 docs-en:
-  - title: Links
-    children:
-    - title: 🏠 LLP Home
-      url: https://www.llpjournal.org
-    - title: 🏞 Playground Home
-      url: /about.html
-    - title: 💬 LLP Slack
-      url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
 
-  - title: Playground Items
+  - title: About Us
+    children:
+    - title: Mission
+      url: /2018/01/01/llp-mission.html
+    - title: Editors
+      url: /2018/01/24/editors.html
+    - title: Authors
+      url: /2018/01/24/authors.html
+    - title: Reviewers
+      url: /2018/01/24/reviewers.html
+
+
+  - title: Submissions
     children:
     - title: 🎴 All Items
       url: /archive.html
-    - title: — 🎲 Board Games
-      url: /archive.html?tag=board+game
-    - title: — 🕹 Video Games
-      url: /archive.html?tag=video+game
-    - title: — 📓 Zines
-      url: /archive.html?tag=zine
+    - title: — 📔 Articles
+      url: /2018/02/01/articles.html
+    - title: — 🚶‍♂️ Walkthroughs
+      url: /2018/02/01/walkthroughs.html
+    - title: — 🏞 Playground Items
+      url: /2018/02/01/playground-items.html
+    - title: — 🎙 Podcasts
+      url: /2018/02/01/podcasts.html
 
-  - title: Submit your work!
+  - title: How to submit
     children:
-    - title: 👾 Submission info
-      url: /
+    - title: 👾 Submission Guidelines
+      url: /2018/01/02/submission-guidelines.html
+    - title: 📤 Submit your work
+      url: /2018/01/03/submit-work.html
+
+  - title: Review with us
+    children:
+    - title: How to become a reviewer
+      url: /2018/01/04/review-with-us.html
+    - title: Reviewer Guidelines
+      url: /2018/01/04/reviewer-guidelines.html
+
+
+  - title: External Links
+    children:
+    - title: 💬 LLP Slack
+      url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
+    - title: 🐦 LLP Twitter
+      url: Twitter https://twitter.com/llpjournal

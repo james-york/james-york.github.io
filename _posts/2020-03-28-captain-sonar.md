@@ -4,18 +4,21 @@ title: Teaching English communication skills with Captain Sonar
 tags:
 - step by step
 - lesson plan
-- test
 - captain sonar
 - board game
 - english
 - speaking
-- CLT
+- clt
+- playground
+- 🏞
 key: captain-sonar-speaking
 show_title: false
 pageview: true
 sidebar:
   nav: docs-en
 sharing: true
+aside:
+  toc: true
 ---
 
 # Teaching English communication skills with Captain Sonar!

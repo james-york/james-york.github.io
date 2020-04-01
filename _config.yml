@@ -20,9 +20,11 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : LLP Playground
+title   : Ludic Language Pedagogy
 description: > # this means to ignore newlines until "Language & timezone"
-  For the exploration of disruptive, playful, and innovative academic publishing formats
+  An open-access refereed journal dedicated to promoting innovative and thoughtful integrations of games and play in language teaching contexts.
+
+  ISSN: 2435-2349
 
 
 ## => Language and Timezone
@@ -37,7 +39,7 @@ author:
   type      : organization # "person" (default), "organization"
   name      : Ludic Language Pedagogy
   url       : https://www.llpjournal.org
-  avatar    : https://avatars3.githubusercontent.com/u/45161866?s=400&v=4 # path or url of avatar image (square)
+  avatar    : /assets/images/llp-twitter.jpg # path or url of avatar image (square)
   bio       : An open-access refereed journal dedicated to promoting innovative and thoughtful integrations of games and play in language teaching contexts.
   email     : contact@llpjournal.org
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -68,13 +70,23 @@ paths:
   rss     : # "/feed.xml" (default)
 
 
+# jekyll-archives:
+#  enabled: true
+#  layout: archive
+#  permalinks:
+#    year: '/:year/'
+#    month: '/:year/:month/'
+#    day: '/:year/:month/:day/'
+#    tag: '/tag/:name/'
+#    category: '/category/:name/'
+
 ## => Post
 ##############################
 ## excerpt
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license: CC-BY-SA-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -223,3 +235,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+#  - jekyll-archive
