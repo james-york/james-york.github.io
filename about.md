@@ -41,7 +41,7 @@ On the sidebar you can find all of the playground publications. Alternatively, c
 
 # Latest submissions
 
-## 📔 Recent Articles and Walthroughs
+## 📔 Recent Articles and Walkthroughs
 
 <ul>{% for post in site.posts limit: 3 %}
   {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
