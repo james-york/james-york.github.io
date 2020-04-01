@@ -235,4 +235,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-twitter-plugin
 #  - jekyll-archive

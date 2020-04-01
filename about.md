@@ -47,7 +47,7 @@ On the sidebar you can find all of the playground publications. Alternatively, c
   {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
   <li>
     <a href="{{ post.url }}"> {{ post.title }}
-    </a>
+    </a> [Published: {{ post.date | date_to_string }}]
   </li>
   {% endif %}
   {% endfor %}
@@ -59,20 +59,24 @@ On the sidebar you can find all of the playground publications. Alternatively, c
   {% if post.tags contains 'playground' %}
   <li>
     <a href="{{ post.url }}"> {{ post.title }}
-    </a>
+    </a> [Published: {{ post.date | date_to_string }}]
   </li>
   {% endif %}
   {% endfor %}
 </ul>
 
 ## 🎙 Recent Podcasts
-
-<ul>{% for post in site.posts  limit: 3 %}
+<ul>
+  {% for post in site.posts %}
   {% if post.tags contains 'podcast' %}
   <li>
-    <a href="{{ post.url }}"> {{ post.title }}
-    </a>
+  <a href="{{ post.url }}">
+    {{ post.title }}</a> [Published: {{ post.date | date_to_string }}]
   </li>
   {% endif %}
   {% endfor %}
 </ul>
+
+# On the web:
+
+<a class="twitter-timeline" data-width="500" data-height="300" data-theme="dark" href="https://twitter.com/llpjournal?ref_src=twsrc%5Etfw">Tweets by llpjournal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

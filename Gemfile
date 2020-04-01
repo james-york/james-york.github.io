@@ -8,5 +8,6 @@ source "https://rubygems.org"
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
-gem  'jemoji'
+gem 'jemoji'
+gem 'jekyll-twitter-plugin'
 gemspec
