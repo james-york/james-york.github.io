@@ -3,14 +3,13 @@ layout: article
 title: deHaan, J. (2019). Teaching language and literacy with games - What? How? Why?
 article_header:
   type: overlay
-  theme: dark
+  theme: light
   background_color: '#000'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(178, 236, 145 , .9), rgba(147, 81, 182, .9))'
     src: /assets/images/dehaan-feature.jpg
 tags:
 - article
-- jonathan dehaan
 - 📔
 - academic work 
 - affinity spaces
@@ -36,8 +35,8 @@ sharing: true
 
 ## Metadata
 
-- Author: Jonathan deHaan
-- Reviewed by: Benjamin Thanyawatpokin, [James York]({% post_url 2019-03-28-james-york %})
+- Author: [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %})
+- Reviewed by: [Benjamin Thanyawatpokin]({% post_url 2019-03-28-ben-thanyawatpokin %}), [James York]({% post_url 2019-03-28-james-york %})
 - Volume and page numbers: 1 (p. 1 – 57)
 - Date of publication: 2019/09/18
 - Keywords: Academic work, Affinity spaces, Multiliteracies, Participation, Pedagogy, Tabletop games, Transformation
@@ -46,7 +45,8 @@ sharing: true
 
 ## Download
 
-<a class="button button--success button--rounded button--lg" href="https://www.llpjournal.org/wp-content/uploads/2019/11/dehaan-teaching-language-and-literacy-with-games-what-how-why.pdf"><i class="fas fa-file-download"></i> Download the PDF </a>
+<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/dehaan-teaching-language-and-literacy-with-games-what-how-why.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
 
 ## References
 

@@ -32,7 +32,7 @@ We welcome papers that aim to:
 - end with more questions than they started with
 - create a manifesto or a call to action.
 
-<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="fas fa-file-download"></i> Download the template </a>
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
 
 
 
@@ -67,7 +67,7 @@ We advise teachers to include extensive media and teaching materials, such as:
 Curriculum and syllabus, lesson plans, teacher notes (e.g., diaries and observations), worksheets, student work (e.g., projects, reports, presentations, completed worksheets), tests, quizzes, grading rubrics, photos, videos, example interactions, and anecdotes.
 We encourage authors to look at these for inspiration.
 
-<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="fas fa-file-download"></i> Download the template </a>
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
 
 # 🏞 Playground items
 
@@ -80,4 +80,4 @@ We encourage authors to look at these for inspiration.
 | Are often outdoors  	|  A place outside of typical academia. Experiment with playful, atypical, radical, or modern yet impactful academic publication formats 	|
 |   Flexible. Allow for structured and unstructured play.	|   Flexible. Submitted items can be: *works in progress (WIPs), conversation starters, think pieces*, but may also be **peer-reviewed and published** (let us give you the badge you deserve!)|
 
-<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="fas fa-file-download"></i> Download the template </a>
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/11AB5_GXLi3EouET7H-rs3lmhM-8-pjn5qauF6mUFRmE/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>

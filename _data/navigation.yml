@@ -49,6 +49,9 @@ header:
       # @end locale config
     url: /about.html
 
+  - title: 'ISSN: 2435-2349'
+    url: '/about.html'
+
 docs-en:
   - title: About Us
     children:
@@ -64,16 +67,18 @@ docs-en:
 
   - title: Publications
     children:
-    - title: 📔 Articles and walkthroughs
+    - title: 📔 Articles and Walkthroughs
       url: /2018/02/01/articles.html
     - title: 🏞 Playground Items
       url: /2018/02/01/playground-items.html
     - title: 🎙 Podcasts
       url: /2018/02/01/podcasts.html
-    - title: 🎴 Site archive
+    - title: 🆓 LLP Compendium
+      url: /2020/04/03/llp-compendium.html
+    - title: 🎴 Site Archive
       url: /archive.html
 
-  - title: How to submit
+  - title: How to Submit
     children:
     - title: 👾 Submission Guidelines
       url: /2018/01/02/submission-guidelines.html
@@ -82,11 +87,8 @@ docs-en:
 
   - title: Review with us
     children:
-    - title: How to become a reviewer
+    - title: 🤝 How to join
       url: /2018/01/04/review-with-us.html
-    - title: Reviewer Guidelines
-      url: /2018/01/04/reviewer-guidelines.html
-
 
   - title: External Links
     children:
@@ -94,8 +96,5 @@ docs-en:
       url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
     - title: 🐦 LLP Twitter
       url: https://twitter.com/llpjournal
-
-  - title: Contact 
-    children:
-    - title: 🏢 Contact details
+    - title: 🏢 Contact Details
       url: /2018/01/01/contact-us.html

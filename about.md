@@ -31,9 +31,18 @@ aside:
   toc: true
 ---
 
-| *ISSN: 2435-2349* |  |
-|:---|:------------------|
-|![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded}   | **Start Here!**  <br> <br> On the sidebar you can find all of our publications. <br> Alternatively, click here: <br> <br> <a class="button button--success button--rounded button--lg" href="/archive.html"><i class="far fa-play-circle"></i> To the archives </a> |
+![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded} 
+
+## Useful links:
+
+<ul>
+  <li><a href="/2018/01/01/llp-mission.html"> Mission</a></li>
+  <li><a href="/2018/01/24/reviewers.html"> Reviewers </a></li>
+  <li><a href="2018/01/02/submission-guidelines.html"> Submission Guidelines </a></li>
+  <li><a href="/2018/02/01/articles.html"> Articles and walkthroughs</a></li>
+  <li><a href="/2018/02/01/articles.html"> About the LLP Playground!</a></li>
+
+</ul> 
 
 
 # Latest submissions
@@ -43,7 +52,7 @@ aside:
 <ul>{% for post in site.posts limit: 3 %}
   {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
   <li>
-    <a href="{{ post.url }}"> {{ post.title }}
+    <a href="{{ post.url }}"> 📔 {{ post.title }}
     </a> [Published: {{ post.date | date_to_string }}]
   </li>
   {% endif %}
@@ -55,7 +64,7 @@ aside:
 <ul>{% for post in site.posts  limit: 3 %}
   {% if post.tags contains 'playground' %}
   <li>
-    <a href="{{ post.url }}"> {{ post.title }}
+    <a href="{{ post.url }}"> 🏞 {{ post.title }}
     </a> [Published: {{ post.date | date_to_string }}]
   </li>
   {% endif %}
@@ -67,7 +76,7 @@ aside:
   {% for post in site.posts %}
   {% if post.tags contains 'podcast' %}
   <li>
-  <a href="{{ post.url }}">
+  <a href="{{ post.url }}"> 🎙
     {{ post.title }}</a> [Published: {{ post.date | date_to_string }}]
   </li>
   {% endif %}
