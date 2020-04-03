@@ -12,6 +12,12 @@ aside:
 sharing: false
 ---
 
+# Interested in becoming a reviewer?
+
+We are always accepting new reviewers to join us at LLP. 
+
+Please check how to apply here: <a class="button button--action button--rounded button--lg" href="/2018/01/04/review-with-us.html"><i class="far fa-play-circle"></i> Review with us! </a>
+
 # 🔎 List of reviewers
 
 <ul>

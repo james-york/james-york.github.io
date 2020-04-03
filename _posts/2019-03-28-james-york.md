@@ -26,7 +26,7 @@ sharing: false
   </div>
 </div>
 
-Email: [jamesyorkjp@gmail.com](mailto:dehaan@jamesyorkjp@gmail.com)
+Email: [jamesyorkjp@gmail.com](mailto:jamesyorkjp@gmail.com)
 
 - **Ludic keywords**: *Board games, social deduction, party games, family games, Minecraft*
 - **Language keywords**: *Speaking, communication, Japanese, community*
