@@ -44,41 +44,54 @@ aside:
 
 </ul> 
 
-
 # Latest submissions
 
 ## 📔 Recent Articles and Walkthroughs
 
-<ul>{% for post in site.posts limit: 3 %}
-  {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
-  <li>
-    <a href="{{ post.url }}"> 📔 {{ post.title }}
-    </a> [Published: {{ post.date | date_to_string }}]
-  </li>
-  {% endif %}
+<ul>
+  {% assign articles_found = 0 %}
+  {% for post in site.posts %}
+    {% if articles_found <= 2 %}
+      {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
+      {% assign articles_found = articles_found | plus: 1 %}
+      <li>
+        <a href="{{ post.url }}"> 📔 {{ post.title }}
+        </a> [Published: {{ post.date | date_to_string }}]
+      </li>
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </ul>
 
 ## 🏞 Recent Playground Items
 
-<ul>{% for post in site.posts  limit: 3 %}
+<ul>
+  {% assign playgrounds_found = 0 %}
+  {% for post in site.posts %}
+  {% if playgrounds_found <= 2 %}
   {% if post.tags contains 'playground' %}
+  {% assign playgrounds_found = playrounds_found | plus: 1 %}
   <li>
     <a href="{{ post.url }}"> 🏞 {{ post.title }}
     </a> [Published: {{ post.date | date_to_string }}]
   </li>
+  {% endif %}
   {% endif %}
   {% endfor %}
 </ul>
 
 ## 🎙 Recent Podcasts
 <ul>
+  {% assign pods_found = 0 %}
   {% for post in site.posts %}
+  {% if pods_found <= 2 %}
   {% if post.tags contains 'podcast' %}
+  {% assign pods_found = pods_found | plus: 1 %}
   <li>
   <a href="{{ post.url }}"> 🎙
     {{ post.title }}</a> [Published: {{ post.date | date_to_string }}]
   </li>
+  {% endif %}
   {% endif %}
   {% endfor %}
 </ul>
