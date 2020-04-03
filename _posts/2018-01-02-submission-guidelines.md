@@ -17,7 +17,7 @@ aside:
 
 <div class="hero" style="background-color: #9351b6; height: 100px;">
   <div class="hero__content">
-    <p>We accept three different types of submissions. Please check the details for each to see where your work "fits" into the LLP universe.</p>
+    <p>We have three submission types. Please check the details for each to see where your work "fits" into the LLP universe.</p>
   </div>
 </div>
 

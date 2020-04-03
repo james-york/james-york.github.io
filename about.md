@@ -31,13 +31,10 @@ aside:
   toc: true
 ---
 
-![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded}
+| *ISSN: 2435-2349* |  |
+|:---|:------------------|
+|![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded}   | **Start Here!**  <br> <br> On the sidebar you can find all of our publications. <br> Alternatively, click here: <br> <br> <a class="button button--success button--rounded button--lg" href="/archive.html"><i class="far fa-play-circle"></i> To the archives </a> |
 
-# 👈 Start here
-
-On the sidebar you can find all of the playground publications. Alternatively, click the button below:
-
-<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="far fa-play-circle"></i> To the archives </a>
 
 # Latest submissions
 

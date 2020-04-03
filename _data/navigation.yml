@@ -50,7 +50,6 @@ header:
     url: /about.html
 
 docs-en:
-
   - title: About Us
     children:
     - title: Mission
@@ -63,18 +62,16 @@ docs-en:
       url: /2018/01/24/reviewers.html
 
 
-  - title: Submissions
+  - title: Publications
     children:
-    - title: 🎴 All Items
-      url: /archive.html
-    - title: — 📔 Articles
+    - title: 📔 Articles and walkthroughs
       url: /2018/02/01/articles.html
-    - title: — 🚶‍♂️ Walkthroughs
-      url: /2018/02/01/walkthroughs.html
-    - title: — 🏞 Playground Items
+    - title: 🏞 Playground Items
       url: /2018/02/01/playground-items.html
-    - title: — 🎙 Podcasts
+    - title: 🎙 Podcasts
       url: /2018/02/01/podcasts.html
+    - title: 🎴 Site archive
+      url: /archive.html
 
   - title: How to submit
     children:
@@ -97,3 +94,8 @@ docs-en:
       url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
     - title: 🐦 LLP Twitter
       url: https://twitter.com/llpjournal
+
+  - title: Contact 
+    children:
+    - title: 🏢 Contact details
+      url: /2018/01/01/contact-us.html

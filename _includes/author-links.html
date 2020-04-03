@@ -44,6 +44,14 @@
       </li>
     {%- endif -%}
 
+    {%- if _author.slack -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Slack' }}">
+        <a class="button button--circle slack-button" itemprop="sameAs" href="{{ _author.slack }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/slack.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
     {%- if _author.weibo -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Weibo' }}">
         <a class="button button--circle weibo-button" itemprop="sameAs" href="https://weibo.com/{{ _author.weibo }}" target="_blank">

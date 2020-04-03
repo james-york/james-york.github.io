@@ -12,7 +12,7 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
-sharing: true
+sharing: false
 ---
 
 # James York
@@ -26,7 +26,7 @@ sharing: true
   </div>
 </div>
 
-Email: [dehaan@u-shizuoka-ken.ac.jp](mailto:dehaan@jamesyorkjp@gmail.com)
+Email: [jamesyorkjp@gmail.com](mailto:dehaan@jamesyorkjp@gmail.com)
 
 - **Ludic keywords**: *Board games, social deduction, party games, family games, Minecraft*
 - **Language keywords**: *Speaking, communication, Japanese, community*

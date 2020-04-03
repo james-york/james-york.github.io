@@ -12,7 +12,7 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
-sharing: true
+sharing: false
 ---
 
 # Jonathan deHaan

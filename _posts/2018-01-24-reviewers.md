@@ -9,13 +9,14 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
-sharing: true
+sharing: false
 ---
 
 # 🔎 List of reviewers
 
 <ul>
-  {% for post in site.posts %}
+  {% assign sorted_posts = site.posts | sort: 'title' %}
+  {% for post in  sorted_posts %}
   {% if post.tags contains 'reviewer' %}
   <li>
   <a href="{{ post.url }}">

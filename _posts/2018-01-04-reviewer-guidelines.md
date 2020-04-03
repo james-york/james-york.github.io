@@ -11,6 +11,7 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
+sharing: false
 ---
 As a reviewer for LLP, you are not a gatekeeper. Rather, you work closely with authors to help them develop their ideas and experiences in line with the mission of the journal. Your work, alongside theirs, helps to develop the field and to inspire, educate and support teachers and researchers. In order for this to happen, reviewers need to:
 
@@ -34,4 +35,4 @@ We are committed to:
 
 ---------------------------------------
 
-<a class="button button--success button--rounded button--lg" href="mailto:contact@llpjournal.org"><i class="fas fa-file-download"></i> 📧 Contact the editors </a>
+<div align="center"><a class="button button--success button--rounded button--lg" href="mailto:contact@llpjournal.org"><i class="fas fa-file-download"></i>📧 Contact the editors</a></div>

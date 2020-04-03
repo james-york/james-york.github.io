@@ -1,6 +1,13 @@
 ---
 layout: article
 title: deHaan, J. (2019). Teaching language and literacy with games - What? How? Why?
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#000'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(178, 236, 145 , .9), rgba(147, 81, 182, .9))'
+    src: /assets/images/dehaan-feature.jpg
 tags:
 - article
 - jonathan dehaan
@@ -12,6 +19,7 @@ tags:
 - pedagogy
 - tabletop games
 - transformation
+- volume 1
 key: dehaan-what-how-why
 show_title: false
 pageview: true
@@ -21,6 +29,10 @@ aside:
   toc: true
 sharing: true
 ---
+
+# deHaan, J. (2019). Teaching language and literacy with games - What? How? Why?
+
+<!--more-->
 
 ## Metadata
 

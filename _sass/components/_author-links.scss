@@ -11,6 +11,9 @@
       .twitter-button {
         @include clickable($text-color-1, $twitter-color);
       }
+      .slack-button {
+        @include clickable($text-color-1, $slack-color);
+      }
       .weibo-button {
         @include clickable($text-color-1, $weibo-color);
       }
