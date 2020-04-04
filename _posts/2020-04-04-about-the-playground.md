@@ -37,7 +37,7 @@ Want to share a Playground Item?
 
 <!--more-->
 
-| Playground  	| LLP Playground  	|
+| Playgrounds  	| LLP Playground  	|
 |---	|---	|
 | Are public  	| **Is public**  	|
 | Are free to use.   	|  Is open-access. Anyone can submit or access. 	|
