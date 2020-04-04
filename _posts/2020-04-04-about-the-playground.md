@@ -1,13 +1,6 @@
 ---
 layout: article
-title: About the playground
-article_header:
-  type: overlay
-  theme: light
-  background_color: '#000'
-  background_image:
-    gradient: 'linear-gradient(35deg, rgba(178, 236, 145 , .8), rgba(147, 81, 182, .8))'
-    src: /assets/images/LLPStreet.png
+title: What is the playground
 tags:
 - playground
 key: about-playground
@@ -17,10 +10,30 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
-sharing: true
+sharing: false
 ---
 
 # What is the LLP Playground?
+
+The LLP Playground is full of amazing teaching and research Items such as: 
+
+- Lesson plans, Game Prototypes, Short essays, Annotated photos, Opinion pieces, Interviews, Discussion notes, Competitions, etc.
+- In many forms (Google docs, itch.io games, physical zines, etc.)
+
+… which can be shared, discussed, reviewed and **published.**[^1]
+
+## Wanna play?
+
+Check out our collection of playground items:
+
+<a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 Current playground items </a>
+
+Want to share a Playground Item?
+
+<a class="button button--success button--rounded button--lg" href="/2018/01/02/submission-guidelines.html#-playground-items"><i class="far fa-play-circle"></i> 👾 Submission guidelines and template </a>
+
+
+## Why it is called the playground
 
 <!--more-->
 
@@ -32,3 +45,5 @@ sharing: true
 | Provide spaces and tools to encourage play, to exercise ideas, and build up strengths.   	| Provides a space and tools, linked by tags, to help practitioners play, share, and build ideas with others.  	|
 | Are often outdoors  	|  A place outside of typical academia. Experiment with playful, atypical, radical, or modern yet impactful academic publication formats 	|
 |   Flexible. Allow for structured and unstructured play.	|   Flexible. Submitted items can be: *works in progress (WIPs), conversation starters, think pieces*, but may also be **peer-reviewed and published** (let us give you the badge you deserve!)|
+
+[^1]: Yes, your lesson plans, games, and other playful pieces can count towards your academic level up!
