@@ -11,17 +11,38 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
+sharing: false
 ---
+
+# Submission process
+
+###  1. 📖 Read the submission guidelines information
+
+We accept three different submission types. You can find out more with the submission guidelines below.
+
+### 2. 📧 Contact the editors
+
+Before going through the process of formatting your manuscript, please get in touch with us informally to check suitablility first.
+
+- 📧 [Email](mailto:contact@llpjournal.org)[^1]
+- 💬 [Slack](http://bit.ly/LLPSlack)
+- 🐦 [Twitter](https://twitter.com/llpjournal)
+
+[^1]: First preference
+
+### 3. 📝 Create your manuscript
+
+We created a template for each submission type. Please check below.
+
+### 4. 📤 Submit your manuscript
+
+Please click the button below to submit your manuscript.
+
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/forms/d/e/1FAIpQLSed6v13qJNjwTBrvTcqcsm3t4vOanGh3l80OQLje6__DpBXEA/viewform"><i class="fas fa-file-upload"></i> 📤 Submit here </a>
 
 # Submission types
 
-<div class="hero" style="background-color: #9351b6; height: 100px;">
-  <div class="hero__content">
-    <p>We have three submission types. Please check the details for each to see where your work "fits" into the LLP universe.</p>
-  </div>
-</div>
-
-# 📔 Articles 
+## 📔 Articles 
 
 Submissions in this category typically map out and find gaps in relevant scholarly literature, have clear and compelling research questions, present a procedure and data to answer those questions, and end with a thoughtful discussion related to continued research and teaching. Alternatively, a submission might explain or critique a phenomenon or trend in the field. Topics include research, pedagogy, theory, and practice. Manuscripts should have clear implications for practice. We welcome all research approaches, methods, and contexts.
 
@@ -36,7 +57,7 @@ We welcome papers that aim to:
 
 
 
-# 🚶‍♂️ Walkthroughs
+## 🚶‍♂️ Walkthroughs
 
 Submissions in this category show what ludic language pedagogy looks like in hi-resolution. We appropriate the game design metaphor of iterative playtesting; where teachers actively improve their teaching through a process of iteration. Walkthroughs are organised into the following key sections: 
 
@@ -69,15 +90,8 @@ We encourage authors to look at these for inspiration.
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
 
-# 🏞 Playground items
+## 🏞 Playground items
 
-| Playground  	| LLP Playground  	|
-|---	|---	|
-| Are public  	| **Is public**  	|
-| Are free to use.   	|  Is open-access. Anyone can submit or access. 	|
-|   Inspire new ways of playing, and there are always other people around to play with.	|  Encourage rapid prototyping and sharing with a growing community of teachers and researchers.  	|
-| Provide spaces and tools to encourage play, to exercise ideas, and build up strengths.   	| Provides a space and tools, linked by tags, to help practitioners play, share, and build ideas with others.  	|
-| Are often outdoors  	|  A place outside of typical academia. Experiment with playful, atypical, radical, or modern yet impactful academic publication formats 	|
-|   Flexible. Allow for structured and unstructured play.	|   Flexible. Submitted items can be: *works in progress (WIPs), conversation starters, think pieces*, but may also be **peer-reviewed and published** (let us give you the badge you deserve!)|
+The LLP Playground is full of amazing teaching and research items which can be shared, discussed, reviewed and **published.**
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/11AB5_GXLi3EouET7H-rs3lmhM-8-pjn5qauF6mUFRmE/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>

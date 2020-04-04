@@ -13,34 +13,23 @@ aside:
   toc: true
 ---
 
-<div class="hero" style="background-color: #9351b6; height: 100px;">
-  <div class="hero__content">
-    <p>Please follow the following steps to submit your work 🙏</p>
-  </div>
-</div>
+## Please check you have followed the following steps before submitting your work 🙏
 
-## 1. 📖 Read the submission guidelines information
-
-You can find the submission guidelines over [here]({% post_url 2018-01-02-submission-guidelines %}).
-
-## 2. 📧 Contact the editors
-
-Before going through the process of formatting your manuscript, please get in touch with us informally to check suitablility first.
-
-- 📧 [Email](mailto:contact@llpjournal.org)[^1]
-- 💬 [Slack](http://bit.ly/LLPSlack)
-- 🐦 [Twitter](https://twitter.com/llpjournal)
-
-[^1]: First preference
-
-## 3. 📝 Create your manuscript
+1. 📖 Read the [submission guidelines information]({% post_url 2018-01-02-submission-guidelines %}).
+2. 📧 Contact the editors with an abstract:
+  - 📧 [Email](mailto:contact@llpjournal.org)[^1]
+  - 💬 [Slack](http://bit.ly/LLPSlack)
+  - 🐦 [Twitter](https://twitter.com/llpjournal)
+3. 📝 Create your manuscript
 
 We accept manuscripts created using our Google Docs template and style guide only.
 
-<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="fas fa-file-download"></i> Download the template </a>
+<a class="button button--success button--rounded button--lg" href="https://playground.llpjournal.org/2018/01/02/submission-guidelines.html#submission-types"><i class="fas fa-file-download"></i> Check the templates </a>
 
-## 4. 📤 Submit your manuscript
+## 📤 Submit your manuscript!
 
 Please click the button below to submit your manuscript.
 
-<a class="button button--success button--rounded button--lg" href="/archive.html"><i class="fas fa-file-upload"></i> Download the template </a>
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/forms/d/e/1FAIpQLSed6v13qJNjwTBrvTcqcsm3t4vOanGh3l80OQLje6__DpBXEA/viewform"><i class="fas fa-file-upload"></i> 📤 Submit here </a>
+
+[^1]: First preference
