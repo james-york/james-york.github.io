@@ -13,18 +13,15 @@ aside:
   toc: true
 ---
 
-## Please check you have followed the following steps before submitting your work 🙏
+Please check you have followed the following steps before submitting your work:
 
 1. 📖 Read the [submission guidelines information]({% post_url 2018-01-02-submission-guidelines %}).
 2. 📧 Contact the editors with an abstract:
   - 📧 [Email](mailto:contact@llpjournal.org)[^1]
   - 💬 [Slack](http://bit.ly/LLPSlack)
   - 🐦 [Twitter](https://twitter.com/llpjournal)
-3. 📝 Create your manuscript
+3. 📝 Create your manuscript ([Check the templates](https://playground.llpjournal.org/2018/01/02/submission-guidelines.html#submission-types))
 
-We accept manuscripts created using our Google Docs template and style guide only.
-
-<a class="button button--success button--rounded button--lg" href="https://playground.llpjournal.org/2018/01/02/submission-guidelines.html#submission-types"><i class="fas fa-file-download"></i> Check the templates </a>
 
 ## 📤 Submit your manuscript!
 
