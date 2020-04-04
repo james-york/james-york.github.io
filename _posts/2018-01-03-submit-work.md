@@ -11,6 +11,7 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
+sharing: false
 ---
 
 Please check you have followed the following steps before submitting your work:
