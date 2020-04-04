@@ -12,9 +12,9 @@ sharing: false
 ---
 # What is the LLP playground?
 
-... Mission here
+The LLP Playground is full of amazing teaching and research items which can be shared, discussed, reviewed and **published.**
 
-<a class="button button--action button--rounded button--lg" href="/archive.html"><i class="far fa-play-circle"></i> Learn more here </a>
+<a class="button button--action button--rounded button--lg" href="/2020/04/04/about-the-playground.html"><i class="far fa-play-circle"></i> Learn more here </a>
 
 
 # 🏞 Playground items by date

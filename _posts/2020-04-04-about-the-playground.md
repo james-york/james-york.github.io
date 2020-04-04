@@ -15,9 +15,9 @@ sharing: false
 
 # What is the LLP Playground?
 
-The LLP Playground is full of amazing teaching and research Items such as: 
+The LLP Playground is full of amazing teaching and research items such as: 
 
-- Lesson plans, Game Prototypes, Short essays, Annotated photos, Opinion pieces, Interviews, Discussion notes, Competitions, etc.
+- Lesson plans, game prototypes, short essays, annotated photos, opinion pieces, interviews, discussion notes, competitions, etc.
 - In many forms (Google docs, itch.io games, physical zines, etc.)
 
 … which can be shared, discussed, reviewed and **published.**[^1]
