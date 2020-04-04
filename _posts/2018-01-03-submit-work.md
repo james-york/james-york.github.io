@@ -32,4 +32,11 @@ Please click the button below to submit your manuscript.
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/forms/d/e/1FAIpQLSed6v13qJNjwTBrvTcqcsm3t4vOanGh3l80OQLje6__DpBXEA/viewform"><i class="fas fa-file-upload"></i> 📤 Submit here </a>
 
+# Submission Process
+
+A step-by-step guide to our open peer review process:
+
+![](/assets/images/LLP-review-process.png)
+
+
 [^1]: First preference
