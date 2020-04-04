@@ -28,12 +28,12 @@ Check out our collection of playground items:
 
 <a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 Current playground items </a>
 
-Want to share a Playground Item?
+Want to share a playground item?
 
 <a class="button button--success button--rounded button--lg" href="/2018/01/02/submission-guidelines.html#-playground-items"><i class="far fa-play-circle"></i> 👾 Submission guidelines and template </a>
 
 
-## Why it is called the playground
+## Why it is called the LLP Playground
 
 <!--more-->
 
