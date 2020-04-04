@@ -40,7 +40,7 @@ aside:
   <li><a href="/2018/01/24/reviewers.html"> Reviewers </a></li>
   <li><a href="2018/01/02/submission-guidelines.html"> Submission Guidelines </a></li>
   <li><a href="/2018/02/01/articles.html"> Articles and walkthroughs</a></li>
-  <li><a href="/2018/02/01/articles.html"> About the LLP Playground!</a></li>
+  <li><a href="/2020/04/04/playground-landing.html"> About the LLP Playground!</a></li>
 
 </ul> 
 
