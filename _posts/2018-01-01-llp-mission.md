@@ -11,6 +11,7 @@ sidebar:
   nav: docs-en
 aside:
   toc: true
+sharing: false
 ---
 
 LLP is a non-profit project to bring together people and conversations around how best to integrate games and play into language teaching and learning.
@@ -43,3 +44,11 @@ We are committed to:
 # Review Policy
 
 We practice open, not blind, peer review. Peer review happens with the editors and then 1 to 3 reviewers who work with and support submitting authors, inside of a private Google Document, to discuss and make the submission ready for publication with LLP as soon as possible. We have designed and will continue to work with this process to make submissions simple and collaborative.
+
+# Other information
+
+- LLP does not mandate word counts.
+- LLP only publishes articles in English.
+- LLP encourages authors to use “I” or “we” in their submissions.
+- LLP is open access. There are no publication or access fees.
+- LLP operates under a CC BY-NC-ND license. Authors maintain the copyright of their original work. Please credit the original appearance on LLP if you republish somewhere else.
