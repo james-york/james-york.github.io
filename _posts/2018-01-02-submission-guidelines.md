@@ -63,32 +63,12 @@ Submissions in this category show what ludic language pedagogy looks like in hi-
 
 **Background → Design → Playtest → Evaluation → Next steps.**
 
-**Guiding questions for each section are provided below.**
-
-- **Background:**
-  - Who are you and your students? Where did you teach? What literature, ideas or experiences influenced or inspired you? What was your goal? Why that goal?
-
-- **Design:**
-  - How did the background influence your design decisions? Describe your lesson plans, materials, game choices, etc.
-
-- **Playtest:** 
-  - What happened? Narrate the intervention from start to finish. What did you and the students do?
-
-- **Evaluation:** 
-  - Critically reflect on the playtest. Support your reflections with specific examples.
-    - The good/epic: What was a success? What went well? What worked?
-	- The bad/ugly: What was a failure? What didn’t go well? What didn’t work?
-	- What are the practical implications for other teachers’ classrooms?
-
-- **Next steps:** 
-  - Will you continue (or is it GAME OVER)? What does the next stage look like?
-
 We advise teachers to include extensive media and teaching materials, such as:
 
 Curriculum and syllabus, lesson plans, teacher notes (e.g., diaries and observations), worksheets, student work (e.g., projects, reports, presentations, completed worksheets), tests, quizzes, grading rubrics, photos, videos, example interactions, and anecdotes.
 We encourage authors to look at these for inspiration.
 
-<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1Qz2ATeEKxd5do4mwcLSuyG98HuvEUgTFx0uLI9Nri7g/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
 
 ## 🏞 Playground items
 
