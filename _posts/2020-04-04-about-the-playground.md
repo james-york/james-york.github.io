@@ -2,7 +2,7 @@
 layout: article
 title: What is the playground
 tags:
-- playground
+- meta
 key: about-playground
 show_title: false
 pageview: true
