@@ -92,6 +92,6 @@ We encourage authors to look at these for inspiration.
 
 ## 🏞 Playground items
 
-The LLP Playground is full of amazing teaching and research items which can be shared, discussed, reviewed and **published.**
+The LLP Playground is full of amazing teaching and research items which can be shared, discussed, reviewed and **published.** Want to know more? Head over to the <a href="/2020/04/04/playground-landing.html">playground page</a>
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/11AB5_GXLi3EouET7H-rs3lmhM-8-pjn5qauF6mUFRmE/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
