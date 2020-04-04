@@ -87,8 +87,10 @@ docs-en:
 
   - title: Review with us
     children:
-    - title: 🤝 How to join
+    - title: 🤝 Become a reviewer
       url: /2018/01/04/review-with-us.html
+    - title: 👁 Open Peer Review
+      url: /2018/01/04/review-with-us.html#-we-practice-open-not-blind-peer-review
 
   - title: External Links
     children:

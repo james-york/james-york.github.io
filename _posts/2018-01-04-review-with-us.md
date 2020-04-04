@@ -32,7 +32,14 @@ If you would like to have an active voice in shaping the future of Ludic Languag
 
 # Reviewer guidelines
 
-As a reviewer for LLP, you are not a gatekeeper. Rather, you work closely with authors to help them develop their ideas and experiences in line with the mission of the journal. Your work, alongside theirs, helps to develop the field and to inspire, educate and support teachers and researchers. In order for this to happen, reviewers need to:
+## 👁 We practice **open, not blind, peer review.** 
+
+In line with the [F1000 Research OPR oath](https://f1000research.com/articles/3-271/v2), we expect reviewers to conduct themselves based on the following four principles.
+
+- Principle 1: I will sign my name to my review
+- Principle 2: I will review with integrity
+- Principle 3: I will treat the review as a discourse with you; in particular, I will provide constructive criticism
+- Principle 4: I will be an ambassador for the practice of open science
 
 ## Be supportive. 
 
