@@ -17,8 +17,9 @@ tags:
 - practice
 - materials
 - professional development
+- dm jones
 key: dm-jones-juice
-show_title: false
+show_title: true
 pageview: true
 sidebar:
   nav: docs-en
@@ -27,7 +28,7 @@ aside:
 sharing: true
 ---
 
-# Jones, D. M. (2020). Games in the language learning classroom: Is the juice worth the squeeze?
+
 
 <!--more-->
 
@@ -43,6 +44,10 @@ sharing: true
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/dm-jones-juice.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+## Abstract
+
+This paper introduces a playful framing device, owning and operating a juice stand, to explore the costs and benefits of using games in language learning classrooms. Throughout, the needs of new and experienced game-based language teachers are addressed directly and reflective prompts from the field of business and economics are used to encourage game-based language teaching (GBLT) practice reflection. The paper begins by introducing a heuristic model to help you, language teachers, to carefully consider whether games are really worth implementing in your practice. To explore this question, this paper looks at game use costs and benefits, classroom implementation, teaching practice, personal/professional satisfaction, and professional development. In the penultimate section, the model’s treatment of GBLT costs and benefits is summarized and two bulleted-checklists are provided to help you quickly evaluate and/or assess your GBLT practice. The final section acknowledges caveats and limitations related to the framing device used in this paper. The appendix provides a list of helpful GBLT resources for both new and experienced GBLT teachers under the heading ‘GBLT Ingredients.’ These items can be perused and used as desired. General categories and short summaries of resources have been provided to make the list more useful as a general GBLT practice reference tool. 
 
 
 ## References

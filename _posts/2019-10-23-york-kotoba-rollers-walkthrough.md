@@ -17,7 +17,7 @@ tags:
 - board games
 - volume 1
 key: dehaan-what-how-why
-show_title: false
+show_title: true
 pageview: true
 sidebar:
   nav: docs-en
@@ -25,8 +25,6 @@ aside:
   toc: true
 sharing: true
 ---
-
-# York, J. (2019). “Kotoba Rollers” walkthrough: Board games, TBLT, and player progression in a university EFL classroom
 
 <!--more-->
 
@@ -43,6 +41,10 @@ sharing: true
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-j-2019-kotoba-rollers-walkthrough.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+## Abstract
+
+This paper presents a detailed walkthrough of a pedagogical intervention that utilizes board games as part of a TBLT approach to language teaching in a compulsory university classroom context. The context, teacher and participants are introduced before a thorough explanation of the intervention. Theoretical underpinnings and teacher decisions are introduced including how the model relates to broad literature on education, particularly Squire’s (2011) conceptualization of learners and player progression. Subsequently, a “playtest” of the model is presented with a focus on teacher mediation and students’ progression. Student work appears in the form of presentation slides, survey data, photos of the accompanying workbook (made specifically for this context), and final project products. The model, materials, and teacher mediation promoted students to become self-directed learners, successfully carrying out gameplay and analysis activities which led to language and 21st Century skills development. Successful (and not so successful) examples of student progression from learner to content creator are provided. Finally, a critical analysis of the model is presented, and it is proposed that the model could be developed to focus on specific skills or help learners engage in English-speaking communities outside the classroom.
 
 
 ## References

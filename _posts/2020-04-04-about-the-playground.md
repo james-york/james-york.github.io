@@ -15,12 +15,26 @@ sharing: false
 
 # What is the LLP Playground?
 
+<!--more-->
+
 The LLP Playground is full of amazing teaching and research items such as: 
 
-- Lesson plans, game prototypes, short essays, annotated photos, opinion pieces, interviews, discussion notes, competitions, etc.
-- In many forms (Google docs, itch.io games, physical zines, etc.)
+- Lesson plans, 
+- game prototypes, 
+- short essays,
+- annotated photos, 
+- opinion pieces, 
+- interviews, 
+- discussion notes, 
+- competitions, etc.
 
-… which can be shared, discussed, reviewed and **published.**[^1]
+In many forms 
+
+- Google docs, 
+- itch.io games, 
+- physical zines, etc.
+
+These items are shared here and can be discussed, remixed, reviewed and **published.**[^1]
 
 ## Wanna play?
 
@@ -35,7 +49,7 @@ Want to share a playground item?
 
 ## Why it is called the LLP Playground
 
-<!--more-->
+The LLP Playground is a place to experiment and play which mimics real-life playgrounds on many levels:
 
 | Playgrounds  	| LLP Playground  	|
 |---	|---	|

@@ -20,7 +20,7 @@ tags:
 - transformation
 - volume 1
 key: dehaan-what-how-why
-show_title: false
+show_title: true
 pageview: true
 sidebar:
   nav: docs-en
@@ -28,9 +28,6 @@ aside:
   toc: true
 sharing: true
 ---
-
-# deHaan, J. (2019). Teaching language and literacy with games - What? How? Why?
-
 <!--more-->
 
 ## Metadata
@@ -46,6 +43,10 @@ sharing: true
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/dehaan-teaching-language-and-literacy-with-games-what-how-why.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+## Abstract
+
+In this successful one-year extracurricular project, I implemented the pedagogy of multiliteracies to address discouraging trends and under-recognized ideas uncovered by asking critical questions about the practices and purposes of teaching language and literacy with games. The student, with my help, played games, analyzed texts, explored academic concepts, and actively participated on a gaming website. What and how she learned was investigated using session transcripts, textual analysis work, the participatory project, concept maps, questionnaires, interviews, and language tests. Key findings were: (1) careful integration of goals, activities and games resulted in literacy, intellectual and participatory development, (2) materials and teacher mediation helped her learn and accomplish more than she could individually, (3) learning occurred mostly around games, not during games, (4) multimodality and affinity spaces contributed to broad linguistic exploration and better understanding, (5) learning repertoires were extended and elements were transferred, (6) she struggled with some textual meanings, some sociocultural connections and some assignments. The teacher’s role is described in detail. Language teaching and learning with games can evolve by integrating important aspects of goal-setting, pedagogical frameworks, materials, active teacher mediation, multimodality, multiple learning spaces and a broader consideration of games. I challenge researchers to broaden their horizons. I guide teachers by sharing frameworks, materials and accounts of interactions with the student.
 
 
 ## References
