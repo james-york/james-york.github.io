@@ -24,79 +24,54 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /about.html
-
-  - title: 'ISSN: 2435-2349'
-    url: '/about.html'
-
 docs-en:
-  - title: About Us
-    children:
-    - title: Mission
-      url: /2018/01/01/llp-mission.html
-    - title: Editors
-      url: /2018/01/24/editors.html
-    - title: Authors
-      url: /2018/01/24/authors.html
-    - title: Reviewers
-      url: /2018/01/24/reviewers.html
+
+- title: Quick links
+  children:
+  - title: Home
+    url: /about.html
+  - title: Mission
+    url: /2018/01/01/llp-mission.html
+  - title: Editors
+    url: /2018/01/24/editors.html
+  - title: Authors
+    url: /2018/01/24/authors.html
+  - title: Reviewers
+    url: /2018/01/24/reviewers.html
 
 
-  - title: Publications
-    children:
-    - title: 📔 Articles and Walkthroughs
-      url: /2018/02/01/articles.html
-    - title: 🏞 Playground Items
-      url: /2018/02/01/playground-items.html
-    - title: 🎙 Podcasts
-      url: /2018/02/01/podcasts.html
-    - title: 🆓 LLP Compendium
-      url: /2020/04/03/llp-compendium.html
-    - title: 🎴 Site Archive
-      url: /archive.html
+- title: Publications
+  children:
+  - title: 📔 Articles and Walkthroughs
+    url: /2018/02/01/articles.html
+  - title: 🏞 Playground Items
+    url: /2018/02/01/playground-items.html
+  - title: 🎙 Podcasts
+    url: /2018/02/01/podcasts.html
+  - title: 🆓 LLP Compendium
+    url: /2020/04/03/llp-compendium.html
+  - title: 🎴 Site Archive
+    url: /archive.html
 
-  - title: How to Submit
-    children:
-    - title: 👾 Submission Guidelines
-      url: /2018/01/02/submission-guidelines.html
-    - title: 📤 Submit your work
-      url: /2018/01/03/submit-work.html
+- title: How to Submit
+  children:
+  - title: 👾 Submission Guidelines
+    url: /2018/01/02/submission-guidelines.html
+  - title: 📤 Submit your work
+    url: /2018/01/03/submit-work.html
 
-  - title: Review with us
-    children:
-    - title: 🤝 Become a reviewer
-      url: /2018/01/04/review-with-us.html
-    - title: 👁 Open Peer Review
-      url: /2018/01/04/review-with-us.html#-we-practice-open-not-blind-peer-review
+- title: Review with us
+  children:
+  - title: 🤝 Become a reviewer
+    url: /2018/01/04/review-with-us.html
+  - title: 👁 Open Peer Review
+    url: /2018/01/04/review-with-us.html#-we-practice-open-not-blind-peer-review
 
-  - title: External Links
-    children:
-    - title: 💬 LLP Slack
-      url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
-    - title: 🐦 LLP Twitter
-      url: https://twitter.com/llpjournal
-    - title: 🏢 Contact Details
-      url: /2018/01/01/contact-us.html
+- title: External Links
+  children:
+  - title: 💬 LLP Slack
+    url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
+  - title: 🐦 LLP Twitter
+    url: https://twitter.com/llpjournal
+  - title: 🏢 Contact Details
+    url: /2018/01/01/contact-us.html
