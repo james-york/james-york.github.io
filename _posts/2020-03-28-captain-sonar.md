@@ -24,32 +24,34 @@ aside:
 
 # Teaching English communication skills with Captain Sonar!
 
-## Author
-James York [(Bio on LLP)](https://www.llpjournal.org/2019/03/01/james-york/)
-
-
 <!--more-->
 
-## Details
+## Metadata
 
-| History  | Keywords | Peer Reviewers
-|---   |---   |---   |
-|WIP Shared: *date*  | Pico8 | 1. |
-|CC Requested? ❌✅   | video games | 2. |
-| Peer-reviewed? ❌✅  | music | 3. |
-| OPR finished:   *date*  | game development | |
-| Published: *date* | | |
+- **Author:** [James York]({% post_url 2019-03-28-james-york %})
+- **Peer-reviewed:** ❌
+- **Date of publication:** 2020/04/07
+- **Keywords:** *Step-by-step, Lesson plan, Captain Sonar, Kotoba Rollers, Board game, English, Speaking, CLT, TBLT, Task-repetition*
+
+## Tweet Synopsis 
+
+> There are few practical guides to teaching specific skills with specific games. This is one. You don’t need computers, or tablets, just a board game which you could make yourself. This is how to put games at the core of your language class. *#GBLT #KotobaRollers*
 
 
 ## Key points
 
-- 📍 **What is this?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 📍 **Why was this made?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 📍 **Who is it for?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 📍 **What change do you want to see in the world?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 📍 **Next steps?** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- 📍 What is this? A short, easy-to-read example of my Kotoba Rollers framework for teaching English with the game Captain Sonar.
+- 📍 Why did you make it? My Kotoba Rollers walkthrough paper in LLP is a deep dive and covers the whole framework from 10,000m up. With this, I wanted to create a simpler, easily implementable lesson plan around a single game.
+- 📍 Who is it for? Teachers that are interested in teaching with games and are looking for a concise, practical and usable guide with a specific game.
+- 📍 What’s next? If the reception to this piece is positive, I would like to continue making guides for teaching with various games.
 
 # The Playground Item ↯
+
+## Download
+
+<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/York-Captain-Sonar-LLP-Playground.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+## Preview
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSefKl9m0CX9wufcOuiv8sa6XHTbznh1lRaCoU9zW5vK_n3wKXEqKthFCcSwAuV2a4pAbPPyKfFHeHp/pub?embedded=true" style="height:500px;width:100%" align="center" ></iframe>
 
