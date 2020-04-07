@@ -34,7 +34,7 @@ In many forms
 - itch.io games, 
 - physical zines, etc.
 
-These items are shared here and can be discussed, remixed, reviewed and **published.**[^1]
+These items are published here and can be discussed, remixed and **peer-reviewed.**[^1]
 
 ## Wanna play?
 

@@ -10,11 +10,10 @@ aside:
   toc: true
 sharing: false
 ---
-# What is the LLP playground?
 
-The LLP Playground is full of amazing teaching and research items which can be shared, discussed, reviewed and **published.**
+The LLP Playground is full of amazing teaching and research items which can be shared, discussed, and *peer-reviewed.*
 
-<a class="button button--action button--rounded button--lg" href="/2020/04/04/about-the-playground.html"><i class="far fa-play-circle"></i> Learn more here </a>
+<a class="button button--success button--rounded button--lg" href="/2020/04/04/about-the-playground.html"><i class="far fa-play-circle"></i> Learn more here </a>
 
 
 # 🏞 Playground items by date

@@ -31,7 +31,7 @@ aside:
   toc: true
 ---
 
-![LLP logo](https://www.llpjournal.org/wp-content/uploads/2020/02/LLP-bold-slant.png){:width="400px"}{:.rounded} 
+{% include carousel.html height="32" unit="%" duration="3" %}
 
 ## Useful links:
 
