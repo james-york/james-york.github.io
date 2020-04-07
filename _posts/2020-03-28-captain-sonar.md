@@ -1,6 +1,13 @@
 ---
 layout: article
 title: Teaching English communication skills with Captain Sonar
+article_header:
+  type: overlay
+  theme: light
+  background_color: '#000'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(147, 81, 182, .9), rgba(178, 236, 145 , .9))'
+    src: /assets/images/captain-sonar-blurred.jpg
 tags:
 - step by step
 - volume 2
