@@ -1,6 +1,6 @@
 ---
 layout: article
-title: deHaan, J. (2019). Teaching language and literacy with games - What? How? Why?
+title: "deHaan, J. (2019). Teaching language and literacy with games: What? How? Why?"
 article_header:
   type: overlay
   theme: light
