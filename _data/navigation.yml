@@ -23,6 +23,9 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
+  - title: 'ISSN:2345-2349'
+    url: /about.html
+
 
 docs-en:
 
