@@ -17,6 +17,7 @@ tags:
 - english
 - speaking
 - clt
+- tblt
 - playground
 - 🏞
 key: captain-sonar-speaking
@@ -47,10 +48,10 @@ aside:
 
 ## Key points
 
-- 📍 What is this? A short, easy-to-read example of my Kotoba Rollers framework for teaching English with the game Captain Sonar.
-- 📍 Why did you make it? My Kotoba Rollers walkthrough paper in LLP is a deep dive and covers the whole framework from 10,000m up. With this, I wanted to create a simpler, easily implementable lesson plan around a single game.
-- 📍 Who is it for? Teachers that are interested in teaching with games and are looking for a concise, practical and usable guide with a specific game.
-- 📍 What’s next? If the reception to this piece is positive, I would like to continue making guides for teaching with various games.
+- 📍 **What is this?** A short, easy-to-read example of my Kotoba Rollers framework for teaching English with the game Captain Sonar.
+- 📍 **Why did you make it?** My Kotoba Rollers walkthrough paper in LLP is a deep dive and covers the whole framework from 10,000m up. With this, I wanted to create a simpler, easily implementable lesson plan around a single game.
+- 📍 **Who is it for?** Teachers that are interested in teaching with games and are looking for a concise, practical and usable guide with a specific game.
+- 📍 **What’s next?** If the reception to this piece is positive, I would like to continue making guides for teaching with various games.
 
 # The Playground Item ↯
 
@@ -60,8 +61,4 @@ aside:
 
 ## Preview
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSefKl9m0CX9wufcOuiv8sa6XHTbznh1lRaCoU9zW5vK_n3wKXEqKthFCcSwAuV2a4pAbPPyKfFHeHp/pub?embedded=true" style="height:500px;width:100%" align="center" ></iframe>
-
-# Download
-
-
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTDp3gRk8ZGnS_nIC3s5YsXKISgINk57GEUvfHxnnY_RWNvPgPYl-C5xdl6Xm-nvehWGMGKEwMOQ519/pub?embedded=true" style="height:500px;width:100%" align="center" ></iframe>
