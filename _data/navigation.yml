@@ -23,9 +23,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
-  - title: 'ISSN:2345-2349'
-    url: /about.html
-
 
 docs-en:
 
@@ -78,3 +75,5 @@ docs-en:
     url: https://twitter.com/llpjournal
   - title: 🏢 Contact Details
     url: /2018/01/01/contact-us.html
+  - title: "📚 ISSN:2345-2349"
+    url: /about.html
