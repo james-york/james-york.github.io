@@ -6,7 +6,7 @@ excerpt: >
 
 article_header:
   actions:
-    - text: 🕹 Let's play 🎲
+    - text: Let's play!
       type: info
       url: /2020/04/04/about-the-playground.html
   height: 100vh

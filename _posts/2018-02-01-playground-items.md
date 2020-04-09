@@ -9,6 +9,7 @@ sidebar:
 aside:
   toc: true
 sharing: false
+comments: false
 ---
 
 The LLP Playground is full of amazing teaching and research items which can be shared, discussed, and *peer-reviewed.*
