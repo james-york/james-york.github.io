@@ -31,7 +31,9 @@ aside:
   toc: true
 ---
 
-{% include carousel.html height="32" unit="%" duration="3" %}
+{% include carousel.html height="32" unit="%" duration="3" %} 
+
+*ISSN: 2435-2349* 
 
 ## Useful links:
 
@@ -94,6 +96,18 @@ aside:
   {% endif %}
   {% endif %}
   {% endfor %}
+</ul>
+
+## 🏦 Previous Volumes
+
+<ul>
+  {% for post in site.posts %}
+  {% if post.tags contains 'volume archive' %}
+  <li>
+  <a href="{{ post.url }}"> <b>{{ post.title }}</b></a>
+  {% endif %}
+  {% endfor %}
+  </li>
 </ul>
 
 # On the web:

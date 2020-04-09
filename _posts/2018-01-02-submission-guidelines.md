@@ -42,22 +42,14 @@ Please click the button below to submit your manuscript.
 
 # Submission types
 
-## 📔 Articles 
+## 🏞 Playground items (Easy Mode)
 
-Submissions in this category typically map out and find gaps in relevant scholarly literature, have clear and compelling research questions, present a procedure and data to answer those questions, and end with a thoughtful discussion related to continued research and teaching. Alternatively, a submission might explain or critique a phenomenon or trend in the field. Topics include research, pedagogy, theory, and practice. Manuscripts should have clear implications for practice. We welcome all research approaches, methods, and contexts.
+The LLP Playground is full of amazing teaching and research items which can be published, discussed, reviewed and **peer-reviewed** if requested by the author. Want to know more? Head over to the <a href="/2020/04/04/playground-landing.html">playground page</a>
 
-We welcome papers that aim to:
-
-- push the field forwards
-- question the field’s current trajectory
-- end with more questions than they started with
-- create a manifesto or a call to action.
-
-<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/11AB5_GXLi3EouET7H-rs3lmhM-8-pjn5qauF6mUFRmE/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
 
 
-
-## 🚶‍♂️ Walkthroughs
+## 🚶‍♂️ Walkthroughs (Normal Mode)
 
 Submissions in this category show what ludic language pedagogy looks like in hi-resolution. We appropriate the game design metaphor of iterative playtesting; where teachers actively improve their teaching through a process of iteration. Walkthroughs are organised into the following key sections: 
 
@@ -70,11 +62,18 @@ We encourage authors to look at these for inspiration.
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1Qz2ATeEKxd5do4mwcLSuyG98HuvEUgTFx0uLI9Nri7g/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
 
-## 🏞 Playground items
+## 📔 Articles (Hard Mode)
 
-The LLP Playground is full of amazing teaching and research items which can be published, discussed, reviewed and **peer-reviewed** if requested by the author. Want to know more? Head over to the <a href="/2020/04/04/playground-landing.html">playground page</a>
+Submissions in this category typically map out and find gaps in relevant scholarly literature, have clear and compelling research questions, present a procedure and data to answer those questions, and end with a thoughtful discussion related to continued research and teaching. Alternatively, a submission might explain or critique a phenomenon or trend in the field. Topics include research, pedagogy, theory, and practice. Manuscripts should have clear implications for practice. We welcome all research approaches, methods, and contexts.
 
-<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/11AB5_GXLi3EouET7H-rs3lmhM-8-pjn5qauF6mUFRmE/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
+We welcome papers that aim to:
+
+- push the field forwards
+- question the field’s current trajectory
+- end with more questions than they started with
+- create a manifesto or a call to action.
+
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
 
 ## 📺 How to copy the template
 

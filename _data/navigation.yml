@@ -32,13 +32,8 @@ docs-en:
     url: /about.html
   - title: Mission
     url: /2018/01/01/llp-mission.html
-  - title: Editors
-    url: /2018/01/24/editors.html
-  - title: Authors
-    url: /2018/01/24/authors.html
-  - title: Reviewers
-    url: /2018/01/24/reviewers.html
-
+  - title: People
+    url: /2018/01/24/people.html
 
 - title: Publications
   children:
@@ -46,6 +41,8 @@ docs-en:
     url: /2018/02/01/articles.html
   - title: 🏞 Playground Items
     url: /2018/02/01/playground-items.html
+  - title: 🏦 Previous Volumes
+    url: /2018/02/01/volume-archives.html
   - title: 🎙 Podcasts
     url: /2018/02/01/podcasts.html
   - title: 🆓 LLP Compendium
