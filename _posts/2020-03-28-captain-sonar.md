@@ -55,10 +55,10 @@ aside:
 
 # The Playground Item ↯
 
+## 💬 The live document
+
+<a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/17ZaX_qWfGlPi8BcRxl8d5UnEwlLmK4E0Tgki3yuWaP4/edit?usp=sharing">👀 View and 📝 comment here </a> 
+
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/York-Captain-Sonar-LLP-Playground.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
-
-## Preview
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTDp3gRk8ZGnS_nIC3s5YsXKISgINk57GEUvfHxnnY_RWNvPgPYl-C5xdl6Xm-nvehWGMGKEwMOQ519/pub?embedded=true" style="height:500px;width:100%" align="center" ></iframe>
