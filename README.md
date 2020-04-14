@@ -1,6 +1,6 @@
 ![](https://www.llpjournal.org/assets/images/LLP-bold-slant.png)
 
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://paypal.me/cheapsh0t?locale.x=en_US)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://paypal.me/cheapsh0t?locale.x=en_US) ![Discord](https://img.shields.io/discord/523277560809783297?color=%239351b6&logo=LLP%20Discord&logoColor=%23b2ec91&style=plastic) ![Twitter Follow](https://img.shields.io/twitter/follow/llpjournal?label=LLP%20on%20Twitter&style=social)
 
 # ◺◺◱ Visit the site:
 
