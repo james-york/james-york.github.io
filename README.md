@@ -1,4 +1,5 @@
 ![](https://www.llpjournal.org/assets/images/LLP-bold-slant.png)
+
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://paypal.me/cheapsh0t?locale.x=en_US)
 
 # ◺◺◱ Visit the site:
