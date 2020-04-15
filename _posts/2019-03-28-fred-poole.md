@@ -13,7 +13,7 @@ aside:
 sharing: false
 ---
 
-# Frederick Poole
+# Fredrick Poole
 
 <div class="card">
   <div class="card__image">
