@@ -27,7 +27,7 @@ tags:
 - playground
 - 🏞
 key: jidokan-jenga
-show_title: false
+show_title: true
 pageview: true
 sidebar:
   nav: docs-en
@@ -36,16 +36,16 @@ aside:
   toc: true
 ---
 
-# Jidoukan Jenga: Teaching English through remixing games and game rules.
-
 <!--more-->
 
 ## Metadata
 
 - **Author:** [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %})
 - **Peer-reviewed:** ✅
-- **Date of publication:** 2020/04/13
+- **Peer-reviewers:** [Yiting Han]({% post_url 2019-03-28-yiting-han %}), Niall McFadyen, [Fredrick Poole]({% post_url 2019-03-28-fred-poole %}), [James York]({% post_url 2019-03-28-james-york %})
+- **Date of publication:** 2020/04/15
 - **Keywords:** *Afterschool education, Creativity, Critical thinking, EFL, Elementary school children, Game rules, Keep it super simple, L1 (Japanese), Lesson plan, Remixing, Tabletop games, Transformation*
+- **Cite:** deHaan, J. (2020). Jidoukan Jenga: Teaching English through remixing games and game rules. *Ludic Language Pedagogy* (2), 37-40.
 
 
 ## Tweet Synopsis 
@@ -71,4 +71,10 @@ aside:
 
 # The Playground Item ↯
 
+## 🎬 Live version
+
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1-IdG-Cqag9U90mgKtcC9aC02fyn38eIeC1piOrSg9Gg/edit?usp=sharing">👀 View and 📝 comment here </a> 
+
+## 📥 PDF (published) version
+
+<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/deHaan-jidokan-jenga.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
