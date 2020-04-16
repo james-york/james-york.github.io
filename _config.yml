@@ -58,8 +58,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: https://github.com/james-york/james-york.github.io.git
-repository_tree: 
+repository: james-york/james-york.github.io
+repository_tree: master
 
 
 ## => Paths
