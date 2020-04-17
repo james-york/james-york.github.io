@@ -12,15 +12,15 @@ tags:
 - walkthrough
 - 🚶‍♂️
 - creativity 
-- critical thinking, 
-- curriculum, 
-- grading, 
-- materials, 
-- multiliteracies, 
-- participation, 
-- remixing, 
-- tabletop games, 
-- teacher mediation, 
+- critical thinking 
+- curriculum 
+- grading 
+- materials 
+- multiliteracies 
+- participation 
+- remixing 
+- tabletop games 
+- teacher mediation 
 - transformation
 - volume 2
 key: dehaan-gt-class1-walkthrough
