@@ -6,7 +6,7 @@ article_header:
   theme: light
   background_color: '#000'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(178, 236, 145 , .6), rgba(147, 81, 182, .6))'
+    gradient: 'linear-gradient(135deg, rgba(178, 236, 145 , .8), rgba(147, 81, 182, .8))'
     src: /assets/images/pp_tweet.png
 tags:
 - walkthrough
