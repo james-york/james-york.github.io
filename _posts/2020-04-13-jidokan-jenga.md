@@ -26,6 +26,7 @@ tags:
 - transformation
 - playground
 - 🏞
+- peer-reviewed
 key: jidokan-jenga
 show_title: true
 pageview: true
