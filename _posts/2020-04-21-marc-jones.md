@@ -17,7 +17,7 @@ sharing: false
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/marc-jones-petscii.jpg"/>
+    <img class="image" src="/assets/images/marc-jones-petscii.png"/>
     <div class="overlay overlay--bottom">
       <p>English Instructor, Tokyo Kasei University</p>
     </div>
