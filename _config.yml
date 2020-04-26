@@ -73,8 +73,11 @@ paths:
 
 # Podcast Feed Settings
 ##############################
-subtitle:       Exploring games and play in literacy and language teaching
-copyright:      "&#x2117; &amp; &#xA9; 2020"
+podcast:
+  title:          Ludic Language Pedagogy Podcast
+  subtitle:       Exploring games and play in literacy and language teaching
+  copyright:      "&#x2117; &amp; &#xA9; 2020"
+  art:            /assets/images/llp-twitter.jpg
 
 # jekyll-archives:
 #  enabled: true

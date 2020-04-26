@@ -12,14 +12,15 @@ aside:
   toc: true
 sharing: true
 date: 2020-04-25 12:00:00
-file: /assets/podcasts/llpp04-origin-stories.mp3
+mp3: /assets/podcasts/llpp04-origin-stories.mp3
 file_itunes: /assets/podcasts/llpp04-origin-stories.m4a
 excerpt: 
 summary: 'Exploring the origin stories of GBL Teachers'
-duration: "44:07" 
+duration: "00:44:07" 
 length: "51324451" 
 explicit: "no"
 block: "no"
+number: 4
 ---
 
 ## Listen with Apple Podcasts:
