@@ -12,7 +12,7 @@ aside:
   toc: true
 sharing: true
 date: 2020-04-25 12:00:00
-podcast_link: https://archive.org/download/llpp-04/llpp04%20final%202.mp3
+file: /assets/podcasts/llpp04-origin-stories.mp3
 file_itunes: /assets/podcasts/llpp04-origin-stories.m4a
 excerpt: 
 summary: 'Exploring the origin stories of GBL Teachers'
