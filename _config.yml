@@ -78,7 +78,7 @@ podcast:
   subtitle:       Exploring games and play in literacy and language teaching
   copyright:      "&#x2117; &amp; &#xA9; 2020"
   art:            /assets/images/llp-twitter.jpg
-  url:            /2018/02/01/podcasts.html
+  url:            /podcasts.rss
 
 # jekyll-archives:
 #  enabled: true
