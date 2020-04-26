@@ -25,7 +25,7 @@
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
 			<itunes:name>"James York"</itunes:name>
-			<itunes:email>contact@llpjournal.org</itunes:email>
+			<itunes:email>"contact@llpjournal.org"</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
 		<itunes:category text="Education" />
