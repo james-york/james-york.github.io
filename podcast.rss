@@ -29,6 +29,8 @@
 </itunes:owner>
 <itunes:image href="{{ site.url }}/assets/images/llp-twitter.jpg" />
 <itunes:category text="Education">
+	<itunes:category text="Language Learning" />
+</itunes:category>
 {% for post in site.posts %}
 {% if post.tags contains 'podcast' %}
 <item>
