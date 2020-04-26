@@ -10,7 +10,7 @@
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+		<webMaster>{{ site.email }} ("James York")</webMaster>
 		<copyright>2019-{{ site.time | date_to_long_string }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -20,7 +20,7 @@
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
-		<itunes:author>{{ site.author }}</itunes:author>
+		<itunes:author>"James York"</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
@@ -28,8 +28,7 @@
 			<itunes:email>"contact@llpjournal.org"</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/assets/images/llp-twitter.jpg" />
-		<itunes:category text="Education" />
-		<itunes:category text="Language Learning" />
+		<itunes:category text="Education">
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 		{% if post.tags contains 'podcast' %}
@@ -40,7 +39,7 @@
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="http:{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-				<itunes:author>{{ site.author }}</itunes:author>
+				<itunes:author>"Ludic Language Pedagogy</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
