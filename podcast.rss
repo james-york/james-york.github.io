@@ -9,8 +9,8 @@
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
-		<managingEditor>"LLP Journal: James York"</managingEditor>
-		<webMaster>{{ site.email }} ("James York")</webMaster>
+		<managingEditor>James York</managingEditor>
+		<webMaster>contact@llpjournal.org</webMaster>
 		<copyright>2019-{{ site.time | date_to_long_string }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -20,16 +20,15 @@
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
-		<itunes:author>"James York"</itunes:author>
+		<itunes:author>James York</itunes:author>
 		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
-			<itunes:name>"James York"</itunes:name>
-			<itunes:email>"contact@llpjournal.org"</itunes:email>
+			<itunes:name>James York</itunes:name>
+			<itunes:email>contact@llpjournal.org</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/assets/images/llp-twitter.jpg" />
 		<itunes:category text="Education">
-		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 		{% if post.tags contains 'podcast' %}
 			<item>
