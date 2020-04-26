@@ -71,6 +71,11 @@ paths:
   rss     : # "/feed.xml" (default)
 
 
+# Podcast Feed Settings
+##############################
+subtitle:       Exploring games and play in literacy and language teaching
+copyright:      "&#x2117; &amp; &#xA9; 2020"
+
 # jekyll-archives:
 #  enabled: true
 #  layout: archive
