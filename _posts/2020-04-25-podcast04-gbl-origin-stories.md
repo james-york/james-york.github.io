@@ -25,7 +25,7 @@ number: 5
 
 ## Listen with Apple Podcasts:
 
-SOON
+<a href="https://podcasts.apple.com/jp/podcast/llp-podcast-04-origin-stories-part-1/id1480071532?i=1000472658468&l=en" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-02-27T00:00:00Z&kind=podcast&bubble=apple_music) no-repeat;width:165px;height:40px;"></a>
 
 
 ## Listen directly here:
