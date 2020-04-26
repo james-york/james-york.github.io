@@ -9,7 +9,7 @@
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
-		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
+		<managingEditor>"LLP Journal: James York"</managingEditor>
 		<webMaster>{{ site.email }} ("James York")</webMaster>
 		<copyright>2019-{{ site.time | date_to_long_string }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
