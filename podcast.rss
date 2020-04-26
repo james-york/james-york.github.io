@@ -27,14 +27,9 @@
 			<itunes:name>"James York"</itunes:name>
 			<itunes:email>"contact@llpjournal.org"</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/images/itunes.png" />
+		<itunes:image href="{{ site.url }}/assets/images/llp-twitter.jpg" />
 		<itunes:category text="Education" />
-		<itunes:category text="Language Learning">
-		<itunes:category text="Podcasting" />
-		</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-		<itunes:category text="Philosophy" />
-		</itunes:category>
+		<itunes:category text="Language Learning" />
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 		{% if post.tags contains 'podcast' %}
