@@ -23,6 +23,7 @@
 <itunes:author>James York</itunes:author>
 <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 <itunes:keywords>{{ site.keywords }}</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
 <itunes:owner>
 <itunes:name>James York</itunes:name>
 <itunes:email>contact@llpjournal.org</itunes:email>
@@ -46,7 +47,7 @@
 <itunes:duration>{{ post.duration }}</itunes:duration>
 <itunes:keywords>{{ post.keywords }}</itunes:keywords>
 <itunes:image href="{{ site.url }}/images/itunes.png" />
-<itunes:explicit>{{ post.explicit }}</itunes:explicit>
+<itunes:explicit>no</itunes:explicit>
 <itunes:block>{{ post.block }}</itunes:block>
 </item>
 {% endif %}
