@@ -36,7 +36,7 @@ Email: [jamesyorkjp@gmail.com](mailto:jamesyorkjp@gmail.com)
 
 ## 👨‍🏫 Profile
 
-James is a lecturer at Tokyo Denki University where he conducts research on the pedagogical application of games for language learning. His current main focus is a curriculum development project using tabletop games as the centrepiece of a task-based language teaching and multiliteracies approach to second language acquisition. James is also the founder of the Japan Game Lab, a meeting place for language researchers based in Japan. James’s previous projects include the development and management of an online Japanese learning community which utilized Minecraft as the domain for interactive, experiential learning activities.
+James conducts research on the application of games in language teaching. He is currently exploring the use of tabletop games in a TBLT context. James also edits Ludic Language Pedagogy, an open-access journal which publishes research on the integration of games and play into language teaching practices. 
 
 ## 🧪 Research connections
 
