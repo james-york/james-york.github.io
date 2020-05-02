@@ -14,29 +14,7 @@ aside:
 
 LLP is a non-profit project to bring together people and conversations around how best to integrate games and play into language teaching and learning.
 
-# Contact Us
-
-## 🏢 Address
-
-Tokyo Denki University
-
-Ishizaka
-
-Hatoyama-machi
-
-Hiki-gun
-
-Saitama
-
-Japan
-
-350-0394
-
-## 📧 Email
-
-[contact@llpjournal.org](mailto:contact@llpjournal.org)
-
-## 📰 Newsletter
+# 📰 Newsletter
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
@@ -67,3 +45,25 @@ Japan
 </div>
 
 <!--End mc_embed_signup-->
+
+# Contact Us
+
+## 🏢 Address
+
+Tokyo Denki University
+
+Ishizaka
+
+Hatoyama-machi
+
+Hiki-gun
+
+Saitama
+
+Japan
+
+350-0394
+
+## 📧 Email
+
+[contact@llpjournal.org](mailto:contact@llpjournal.org)
