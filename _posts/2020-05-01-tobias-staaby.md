@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Niall McFadyen
+title: Tobias Staaby
 tags:
 - reviewer
-key: marc-jones
+key: tobias-staaby
 show_title: false
 pageview: true
 sidebar:
@@ -13,33 +13,35 @@ aside:
 sharing: false
 ---
 
-# Niall McFadyen
+# Tobias Staaby
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/LLP-Niall.png"/>
+    <img class="image" src="/assets/images/LLP-Tobias.png"/>
     <div class="overlay overlay--bottom">
-      <p>Middle Years Multimedia Teacher</p>
+      <p>PhD canditate at the University of Bergen</p>
     </div>
   </div>
 </div>
 
-Email: [niallmcfadyen@gmail.com](mailto:niallmcfadyen@gmail.com)
+Email: [tobiasstaaby@gmail.com](mailto:tobiasstaaby@gmail.com)
 
-- **Ludic keywords**: *Game-based Learning, Situated Learning, Tabletop Games, Digital Games*
-- **Language keywords**: *Literacy, English, Digital Literacy, Multimedia Literacy*
-- **Pedagogy keywords**: *Situated Learning*
+- **Ludic keywords**: *Digital games, tabletop games, board games, RPGs, games as narrative machines*
+- **Language keywords**: *Sociolinguistics, social semiotics, interactive narratives, literacy*
+- **Pedagogy keywords**: *Design theory, sociocultural theory, affordance theory, experiential teachingSituated Learning*
 
 <!--more-->
 
 ## 👨‍🏫 Profile
 
-Niall McFadyen is currently a multimedia production teacher at Leila North Middle School in the Seven Oaks School Division. Niall has taught multiple subject areas including math, language arts, basic French, guitar, social studies, and more. Niall has completed his Master of Education degree from the University of Saskatchewan in Educational Technology and Design, as well as his Post Baccalaureate Diploma, Bachelor of Education, and Bachelor of Arts degrees from the University of Winnipeg. Niall's educational areas of interest include game-based learning, media literacy, e-sports in education, project-based learning, and multimedia production in school.
+I've taught Norwegian language and literature, history and religious studies at Nordahl Grieg high school in Bergen, Norway for the past eight years. I'm currently doing writing my dissertation on how teachers at my school use The Walking Dead by Telltale Games as a tool for dialogue and discussion when teaching moral philosophy.
 
 ## 🧪 Research connections
 
-- [Homepage](https://www.niallmcfadyen.ca)
+- [ResearchGate](https://www.researchgate.net/profile/Tobias_Staaby)
+- [Academia.edu](https://independent.academia.edu/TStaaby)
+- [Personal website](https://www.spillpedagogene.no/)
 
 ## 💬 Social connections
 
-- [Twitter](https://www.twitter.com/McfWpg)
+- [Twitter](https://www.twitter.com/tobiasstaaby)
