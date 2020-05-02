@@ -34,7 +34,7 @@ Email: [tobiasstaaby@gmail.com](mailto:tobiasstaaby@gmail.com)
 
 ## 👨‍🏫 Profile
 
-I've taught Norwegian language and literature, history and religious studies at Nordahl Grieg high school in Bergen, Norway for the past eight years. I'm currently doing writing my dissertation on how teachers at my school use The Walking Dead by Telltale Games as a tool for dialogue and discussion when teaching moral philosophy.
+I've taught Norwegian language and literature, history and religious studies at Nordahl Grieg high school in Bergen, Norway for the past eight years. I'm currently writing my dissertation on how teachers at my school use The Walking Dead by Telltale Games as a tool for dialogue and discussion when teaching moral philosophy.
 
 ## 🧪 Research connections
 
