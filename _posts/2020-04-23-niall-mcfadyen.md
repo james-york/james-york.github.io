@@ -17,7 +17,7 @@ sharing: false
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/niall-mcfadyen-profile.jpg"/>
+    <img class="image" src="/assets/images/LLP-Niall.png"/>
     <div class="overlay overlay--bottom">
       <p>Middle Years Multimedia Teacher</p>
     </div>
