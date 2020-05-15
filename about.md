@@ -46,7 +46,7 @@ aside:
 
 </ul> 
 
-# Latest submissions
+# Latest releases 🎉
 
 ## 📔 Recent Articles and Walkthroughs
 
