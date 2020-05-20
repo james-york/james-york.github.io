@@ -58,7 +58,6 @@ Submissions in this category show what ludic language pedagogy looks like in hi-
 We advise teachers to include extensive media and teaching materials, such as:
 
 Curriculum and syllabus, lesson plans, teacher notes (e.g., diaries and observations), worksheets, student work (e.g., projects, reports, presentations, completed worksheets), tests, quizzes, grading rubrics, photos, videos, example interactions, and anecdotes.
-We encourage authors to look at these for inspiration.
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1Qz2ATeEKxd5do4mwcLSuyG98HuvEUgTFx0uLI9Nri7g/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
 
