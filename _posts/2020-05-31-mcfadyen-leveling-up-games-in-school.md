@@ -36,7 +36,7 @@ aside:
 
 ## Metadata
 
-- **Author:** [Niall Mcfayden]({% post_url 2020-04-23-niall-mcfadyen %})
+- **Author:** [Niall McFadyen]({% post_url 2020-04-23-niall-mcfadyen %})
 - **Peer-reviewed:** ✅
 - **Peer-reviewers:** [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Frederick Poole]({% post_url 2019-03-28-fred-poole %}), [Mona Zawdeh]({% post_url 2020-05-02-mona-zawdeh %})
 - **Date of publication:** 2020/05/31
