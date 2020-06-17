@@ -17,7 +17,7 @@ sharing: false
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/evan-b.jpg"/>
+    <img class="image" src="/assets/images/EvanPET.png"/>
     <div class="overlay overlay--bottom">
       <p>French and English Educator</p>
     </div>
