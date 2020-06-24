@@ -47,9 +47,8 @@ James conducts research on the application of games in language teaching. He is 
 
 ## 💬 Social connections
 
-- [Twitter](https://twitter.com/cheapshot)
 - [Telegram](https://t.me/cheapshot)
-- Discord ID: Cheapshot#4786
+- Discord ID: Cheapshot#0001
 - [Steam](https://steamcommunity.com/id/cheapsh0t/)
 
 
