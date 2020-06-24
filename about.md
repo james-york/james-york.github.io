@@ -35,18 +35,19 @@ aside:
 
 *ISSN: 2435-2349* 
 
-## Useful links:
+# 🔗 Useful links
 
-<ul>
-  <li><a href="/2018/01/01/llp-mission.html"> Mission</a></li>
-  <li><a href="/2018/01/24/reviewers.html"> Reviewers </a></li>
-  <li><a href="2018/01/02/submission-guidelines.html"> Submission Guidelines </a></li>
-  <li><a href="/2018/02/01/articles.html"> Articles and walkthroughs</a></li>
-  <li><a href="/2020/04/04/playground-landing.html"> About the LLP Playground!</a></li>
+<table>
+  <tr>
+    <th><a href="/2018/01/01/llp-mission.html"> Mission</a></th>
+    <th><a href="/2020/06/23/llp-inclusivity-statement.html"> Inclusivity Statement</a></th>
+    <th><a href="2018/01/02/submission-guidelines.html"> Submission Guidelines </a></th>
+    <th><a href="/2018/02/01/articles.html"> Articles and walkthroughs</a></th>
+    <th><a href="/2020/04/04/playground-landing.html"> About the LLP Playground</a></th>
+  </tr>
+ </table>
 
-</ul> 
-
-# Latest releases 🎉
+# 🆕 Latest releases
 
 ## 📔 Recent Articles and Walkthroughs
 
@@ -70,9 +71,9 @@ aside:
 <ul>
   {% assign playgrounds_found = 0 %}
   {% for post in site.posts %}
-  {% if playgrounds_found <= 2 %}
+    {% if playgrounds_found <= 2 %}
   {% if post.tags contains 'playground' %}
-  {% assign playgrounds_found = playrounds_found | plus: 1 %}
+  {% assign playgrounds_found = playgrounds_found | plus: 1 %}
   <li>
     <a href="{{ post.url }}"> 🏞 {{ post.title }}
     </a> [Published: {{ post.date | date_to_string }}]
@@ -98,18 +99,19 @@ aside:
   {% endfor %}
 </ul>
 
-## 🏦 Previous Volumes
+# 🏦 Previous Volumes
 
 <ul>
   {% for post in site.posts %}
   {% if post.tags contains 'volume archive' %}
   <li>
-  <a href="{{ post.url }}"> <b>{{ post.title }}</b></a>
+    <a href="{{ post.url }}"> <b>{{ post.title }}</b></a>
+  </li>
   {% endif %}
   {% endfor %}
-  </li>
 </ul>
 
-# On the web:
 
-<a class="twitter-timeline" data-width="500" data-height="300" data-theme="dark" href="https://twitter.com/llpjournal?ref_src=twsrc%5Etfw">Tweets by llpjournal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# 🌐 On the web
+
+<a class="twitter-timeline" data-width="500" data-height="300" data-theme="dark" href="https://twitter.com/llpjournal">Tweets by llpjournal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
