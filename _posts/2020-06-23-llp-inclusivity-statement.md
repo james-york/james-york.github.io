@@ -25,7 +25,7 @@ comments: true
 
 Ludic Language Pedagogy is an open-access journal and community dedicated to promoting explorations of teaching and learning using games. We play, we explore, we share, we discuss. We are serious about our community being a space (a “magic circle”) where our members can play, explore, share and discuss ideas safely and freely. And where **anyone is welcome to come and play.**
 
-We are committed to **including and promoting any voice,** especially of people who find it difficult to make their voices heard. We encourage anyone, to submit their experiences of using games and play in language teaching and learning to the journal.
+We are committed to **including and promoting any voice,** especially of people who find it difficult to make their voices heard. We encourage anyone to submit their experiences of using games and play in language teaching and learning to the journal.
 
 The journal **rejects practices that engage in prejudice based on race, sex, religion, gender, sexual orientation, nationality, socioeconomic status, body type, or age.** By challenging and critiquing such forms of oppression, we contribute to a more just vision of society.
 
