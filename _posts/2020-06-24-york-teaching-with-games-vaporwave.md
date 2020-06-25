@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "York, J. (2020). “It's your mooooove: Why teaching with games should be like ｖａｐｏｒｗａｖｅ (and not nightcore)"
+title: "It's your mooooove: Why teaching with games should be like ｖａｐｏｒｗａｖｅ (and not nightcore)"
 article_header:
   type: overlay
   theme: light
