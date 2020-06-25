@@ -76,6 +76,12 @@ aside:
 
 # The Playground Item ↯
 
+## 📥 PDF (published) version
+
+<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-its-your-move-vaporwave.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+---
+
 ## 🎬 Live (PLAIN) version
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1hgFF7kP8lV36SVAIilqaIqd55j8-973IyIKYFyma_QA/edit?usp=sharing">👀 View and 📝 comment here </a> 
@@ -84,6 +90,4 @@ aside:
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1i7Y6NR_CM2MvTfvZC9mvvC7m-9_Vrw5C--K6KXd5KQI/edit?usp=sharing">👀 View and 📝 comment here </a> 
 
-## 📥 PDF (published) version
 
-<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-its-your-move-vaporwave.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
