@@ -3,7 +3,6 @@ layout: article
 title: 'LLP Podcast 06 - Jonathan deHaan - Game Terakoya Walkthrough interview'
 tags:
 - podcast
-- walkthrough
 - 🚶‍♂️
 - jonathan dehaan
 key: podcast06
