@@ -78,7 +78,7 @@ aside:
 
 ## 📥 PDF (published) version
 
-<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-its-your-move-vaporwave.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+<a class="button button--success button--rounded button--lg" href="/assets/publication-pdfs/york-its-your-move-vaporwave.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
 
 ---
 
