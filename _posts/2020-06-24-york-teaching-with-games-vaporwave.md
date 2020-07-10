@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "York, J. (2020). “It's your mooooove: Why teaching with games should be like ｖａｐｏｒｗａｖｅ (and not nightcore)"
+title: "It's your mooooove: Why teaching with games should be like ｖａｐｏｒｗａｖｅ (and not nightcore)"
 article_header:
   type: overlay
   theme: light
@@ -48,7 +48,7 @@ aside:
 
 - **Author:** [James York]({% post_url 2019-03-28-james-york %})
 - **Peer-reviewed:** ✅
-- **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), Paul Darvasi, [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), Peter Hourdequin, [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Mona Zawdeh]({%post_url 2020-05-02-mona-zawdeh %}). 
+- **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), Paul Darvasi, [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Peter Hourdequin]({% post_url 2020-05-08-peter-hourdequin %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Mona Zawdeh]({%post_url 2020-05-02-mona-zawdeh %}). 
 - **Date of publication:** 2020
 - **Keywords:** ｖａｐｏｒｗａｖｅ, Aesthetic, Translanguaging, L1 use, Mother tongue use, Languaging, Nightcore 
 - **Cite:** York, J. (2020). It's your mooooove: Why teaching with games should be like vaporwave (and not nightcore).
@@ -76,6 +76,12 @@ aside:
 
 # The Playground Item ↯
 
+## 📥 PDF (published) version
+
+<a class="button button--success button--rounded button--lg" href="/assets/publication-pdfs/york-its-your-move-vaporwave.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+---
+
 ## 🎬 Live (PLAIN) version
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1hgFF7kP8lV36SVAIilqaIqd55j8-973IyIKYFyma_QA/edit?usp=sharing">👀 View and 📝 comment here </a> 
@@ -84,6 +90,4 @@ aside:
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1i7Y6NR_CM2MvTfvZC9mvvC7m-9_Vrw5C--K6KXd5KQI/edit?usp=sharing">👀 View and 📝 comment here </a> 
 
-## 📥 PDF (published) version
 
-<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-its-your-move-vaporwave.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>

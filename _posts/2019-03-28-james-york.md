@@ -54,6 +54,8 @@ James conducts research on the application of games in language teaching. He is 
 
 # 📰 Publications
 
+For an updated list of publications, please check James's CV [here](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing).
+
 ## Books
 
 - York, J. (2019). English at Play. Tokyo Denki University Press, Tokyo, Japan.
