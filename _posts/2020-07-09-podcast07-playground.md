@@ -3,7 +3,6 @@ layout: article
 title: 'LLP Podcast 07 - The LLP Playgrounds'
 tags:
 - podcast
-- playground
 - 🏞
 - fred
 - james
