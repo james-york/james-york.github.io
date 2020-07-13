@@ -3,7 +3,6 @@ layout: article
 title: 'LLP Podcast 07 - The LLP Playgrounds'
 tags:
 - podcast
-- playground
 - 🏞
 - fred
 - james
@@ -15,11 +14,11 @@ sidebar:
 aside:
   toc: true
 sharing: true
-date: 2020-07-09 12:00:00
-file: /assets/podcasts/LLPP07-Playgrounds.mp3
+date: 2020-07-11 12:00:00
+file: /assets/podcasts/LLPP07-Playground-FINAL.mp3
 excerpt: 
 summary: "In this episode, James and Jonathan are joined by Fred Poole to discuss the new submission type: 'Playground items.' Do you have something that you'd like to share with others? Find out how to submit at https://www.llpjournal.org/2018/01/02/submission-guidelines.html#-playground-items-easy-mode" 
-duration: "00:23:59"  
+duration: "00:23:59"
 explicit: "no"
 block: "no"
 number: 7
