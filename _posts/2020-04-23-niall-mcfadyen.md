@@ -3,6 +3,7 @@ layout: article
 title: Niall McFadyen
 tags:
 - reviewer
+- author
 key: marc-jones
 show_title: false
 pageview: true
