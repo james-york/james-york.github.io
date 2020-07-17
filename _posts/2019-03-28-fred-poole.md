@@ -3,6 +3,7 @@ layout: article
 title: Frederick Poole
 tags:
 - reviewer
+- author
 key: fred-poole
 show_title: false
 pageview: true
