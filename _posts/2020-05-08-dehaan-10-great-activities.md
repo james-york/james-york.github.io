@@ -30,6 +30,7 @@ tags:
 - playground
 - 🏞
 - peer-reviewed
+- jonathan-dehaan
 key: 10-great-activities
 show_title: true
 pageview: true

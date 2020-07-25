@@ -14,11 +14,11 @@ tags:
 - volume 2
 - gblt
 - hype cycle
-- ntegration
+- integration
 - normalization
 - pedagogy
 - praxis
-- jonathan dehaan
+- jonathan-dehaan
 
 key: dehaan-gblt-vaporware-one
 show_title: true

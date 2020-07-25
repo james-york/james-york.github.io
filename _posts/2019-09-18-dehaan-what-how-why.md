@@ -19,6 +19,7 @@ tags:
 - tabletop games
 - transformation
 - volume 1
+- jonathan-dehaan
 key: dehaan-what-how-why
 show_title: true
 pageview: true

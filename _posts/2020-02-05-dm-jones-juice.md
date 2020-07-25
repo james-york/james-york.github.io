@@ -17,7 +17,7 @@ tags:
 - practice
 - materials
 - professional development
-- dm jones
+- dm-jones
 key: dm-jones-juice
 show_title: true
 pageview: true
