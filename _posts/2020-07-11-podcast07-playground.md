@@ -4,9 +4,6 @@ title: 'LLP Podcast 07 - The LLP Playgrounds'
 tags:
 - podcast
 - 🏞
-- fred
-- james
-- jonathan
 key: podcast07
 show_title: true
 sidebar:
