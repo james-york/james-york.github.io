@@ -67,4 +67,4 @@ In this episode, host [James]({% post_url 2019-03-28-james-york %}) interviews A
 
 - [https://www.twitter.com/llpjournal](https://www.twitter.com/llpjournal)
 - [https://twitter.com/cheapshot](https://twitter.com/cheapshot) -- James
-- [https://www.twitter.com/jonathandehaan](https://www.twitter.com/jonathandehaan) -- Jonatahn
+- [https://www.twitter.com/jonathandehaan](https://www.twitter.com/jonathandehaan) -- Jonathan
