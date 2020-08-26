@@ -43,4 +43,4 @@ I work at a university in Japan where I teach undergraduate courses in English i
 
 ## 💬 Social connections
 
-- [Twitter](https://twitter.com/thorkthork)
+- [Twitter](https://twitter.com/tugamelab)
