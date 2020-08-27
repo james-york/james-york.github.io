@@ -39,10 +39,10 @@ docs-en:
 
 - title: Publications
   children:
-  - title: 📔 Articles and Walkthroughs
-    url: /2018/02/01/articles.html
   - title: 🏞 Playground Items
     url: /2018/02/01/playground-items.html
+  - title: 📔 Articles and Walkthroughs
+    url: /2018/02/01/articles.html
   - title: 🏦 Previous Volumes
     url: /2018/02/01/volume-archives.html
   - title: 🎙 Podcasts
