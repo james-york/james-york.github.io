@@ -49,23 +49,6 @@ aside:
 
 # 🆕 Latest releases
 
-## 📔 Recent Articles and Walkthroughs
-
-<ul>
-  {% assign articles_found = 0 %}
-  {% for post in site.posts %}
-    {% if articles_found <= 2 %}
-      {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
-      {% assign articles_found = articles_found | plus: 1 %}
-      <li>
-        <a href="{{ post.url }}"> 📔 {{ post.title }}
-        </a> [Published: {{ post.date | date_to_string }}]
-      </li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-</ul>
-
 ## 🏞 Recent Playground Items
 
 <ul>
@@ -80,6 +63,23 @@ aside:
   </li>
   {% endif %}
   {% endif %}
+  {% endfor %}
+</ul>
+
+## 📔 Recent Articles and Walkthroughs
+
+<ul>
+  {% assign articles_found = 0 %}
+  {% for post in site.posts %}
+    {% if articles_found <= 2 %}
+      {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
+      {% assign articles_found = articles_found | plus: 1 %}
+      <li>
+        <a href="{{ post.url }}"> 📔 {{ post.title }}
+        </a> [Published: {{ post.date | date_to_string }}]
+      </li>
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </ul>
 
