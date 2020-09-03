@@ -35,7 +35,15 @@ aside:
 
 *ISSN: 2435-2349* 
 
-# 🔗 Useful links
+## 🤝 Join us!
+<table>
+	<tr>
+		<th><a href="http://bit.ly/LLPSlack"><img alt="!!!!!!!!!!!!!!" src="/assets/images/llp-join-slack-image.png" height="250"></a><br> Main communication hub</th>
+		<th><iframe src="https://discordapp.com/widget?id=523277560809783297&theme=dark" width="250" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> <br> Used for conferences </th>
+	</tr>
+</table>
+
+## 🔗 Useful links
 
 <table>
   <tr>
@@ -47,6 +55,7 @@ aside:
   </tr>
  </table>
 
+ 
 # 🆕 Latest releases
 
 ## 🏞 Recent Playground Items
