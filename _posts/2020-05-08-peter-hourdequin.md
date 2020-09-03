@@ -3,6 +3,7 @@ layout: article
 title: Peter Hourdequin
 tags:
 - reviewer
+- author
 key: peter-hourdequin
 show_title: false
 pageview: true
