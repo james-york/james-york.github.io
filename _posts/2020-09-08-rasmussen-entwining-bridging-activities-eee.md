@@ -39,7 +39,7 @@ aside:
 
 ## Metadata
 
-- **Author:** Mark Rasmussen
+- **Author:** [Mark Rasmussen]({% post_url 2020-08-08-mark-rasmussen %})
 - **Peer-reviewed:** ✅
 - **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Frederick Poole]({% post_url 2019-03-28-fred-poole %}), [Ben Thanyawatpokin]({%post_url 2019-03-28-ben-thanyawatpokin %}), [James York]({% post_url 2019-03-28-james-york %}).
 - **Date of publication:** 2020/09/07
