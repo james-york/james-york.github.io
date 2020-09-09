@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Arthur Rasmussen
+title: Mark Rasmussen
 tags:
 - reviewer
 - author
-key: arthur-rasmussen
+key: mark-rasmussen
 show_title: false
 pageview: true
 sidebar:
@@ -14,7 +14,7 @@ aside:
 sharing: false
 ---
 
-# Arthur Rasmussen
+# Mark Rasmussen
 
 <div class="card">
   <div class="card__image">
