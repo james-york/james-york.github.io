@@ -27,6 +27,15 @@ aside:
 sharing: true
 ---
 
+<meta name="citation_title" content="Kotoba Rollers walkthrough: Board games, TBLT, and player progression in a university EFL classroom">
+<meta name="citation_author" content="York, James">
+<meta name="citation_publication_date" content="2019/10/23">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="1">
+<meta name="citation_firstpage" content="58">
+<meta name="citation_lastpage" content="114">
+<meta name="citation_pdf_url" content="https://www.llpjournal.org/assets/publication-pdfs/york-j-2019-kotoba-rollers-walkthrough.pdf">
+
 <!--more-->
 
 ## Metadata
