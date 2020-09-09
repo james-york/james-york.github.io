@@ -18,7 +18,7 @@ sharing: false
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/mark-rasmussen.png"/>
+    <img class="image" src="/assets/images/mark-r-petscii.png"/>
     <div class="overlay overlay--bottom">
       <p>Graduate Student</p>
     </div>
