@@ -34,12 +34,38 @@ If you would like to have an active voice in shaping the future of Ludic Languag
 
 ## 👁 We practice **open, not blind, peer review.** 
 
-In line with the [F1000 Research OPR oath](https://f1000research.com/articles/3-271/v2), we expect reviewers to conduct themselves based on the following four principles.
+Dear reviewers, 
 
-- Principle 1: I will sign my name to my review
-- Principle 2: I will review with integrity
-- Principle 3: I will treat the review as a discourse with you; in particular, I will provide constructive criticism
-- Principle 4: I will be an ambassador for the practice of open science
+Our driving philosophy/slogan for the open-peer review (OPR) process is:
+
+![](/assets/images/opr-ring.png){:.rounded.shadow}
+
+By this, we mean that all communication should, where possible, occur on the submitted manuscript itself.
+
+
+# OPRing an LLP Google Document Submission
+
+## Initial review 
+
+1. Use comments directly on the manuscript to:
+
+- Ask questions
+- Make suggestions
+- Give praise
+
+2. Complete a formal review **at the end of the manuscript**
+
+- ✅ Complete the reviewer form.
+- ✅ Complete the box "Initial Recommendation."
+- ✅ Complete the box “Review Stage.” 
+- ✅ Message the custom slack channel when the steps have been completed.
+
+## Revision stage
+
+- ✅ Check and resolve the authors revisions (as suggestions in GDocs).
+- ✅ Resolve any of your comments that have been addressed by the author.
+- ✅ Once all your comments are closed, complete the "Revised Manuscript Recommendation" section.
+- ✅ Message the custom slack channel when the steps have been completed.
 
 ## Be supportive. 
 
