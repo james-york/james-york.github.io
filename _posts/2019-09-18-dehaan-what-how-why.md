@@ -31,6 +31,16 @@ sharing: true
 ---
 <!--more-->
 
+<meta name="citation_title" content="Teaching language and literacy with games: What? How? Why?">
+<meta name="citation_author" content="deHaan, J.">
+<meta name="citation_publication_date" content="2019/09/18">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="1">
+<meta name="citation_firstpage" content="1">
+<meta name="citation_lastpage" content="57">
+<meta name="citation_pdf_url" content="https://www.llpjournal.org/assets/publication-pdfs/dehaan-teaching-language-and-literacy-with-games-what-how-why.pdf">
+
+
 ## Metadata
 
 - Author: [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %})
