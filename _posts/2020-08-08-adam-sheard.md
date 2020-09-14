@@ -19,12 +19,12 @@ sharing: false
   <div class="card__image">
     <img class="image" src="/assets/images/llp-adam.png"/>
     <div class="overlay overlay--bottom">
-      <p>Researcher, instructor at the University of British Columbia</p>
     </div>
   </div>
 </div>
 
-Email: [edtechwithadam@gmail.com](mailto:edtechwithadam@gmail.com)
+- Researcher, instructor at the University of British Columbia
+- Email: [edtechwithadam@gmail.com](mailto:edtechwithadam@gmail.com)
 
 - **Ludic keywords**: *TTRPG, Other Table Top Games, Console Games, PC Games, RPG, D&D*
 - **Language keywords**: *English, Japanese, Korean, Norwegian, Chinese, French*
