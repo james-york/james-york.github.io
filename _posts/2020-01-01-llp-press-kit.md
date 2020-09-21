@@ -19,7 +19,7 @@ sharing: false
 Hello! 
 
 This page is a "press kit" of sorts. 
-It's place where we are hosting LLP art assets that we hope you will use in your presentations or talks to help spread the word about the journal and hopefully bring more people into our community.
+It's a place where we are hosting LLP art assets that we hope you will use in your presentations or talks to help spread the word about the journal and hopefully bring more people into our community.
 
 Some quick details:
 
