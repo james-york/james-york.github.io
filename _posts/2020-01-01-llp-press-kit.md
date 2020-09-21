@@ -46,7 +46,7 @@ Each of the LLP letters, downloadable by **right-clicking and "saving as"**
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/press-kit/l1.png"/>
+    <img class="image" src="/assets/images/press-kit/L1.png"/>
     <div class="overlay">
       <p>The hexcode colour is <span style="color:#867ade;">#867ade</span></p>
     </div>
@@ -55,7 +55,7 @@ Each of the LLP letters, downloadable by **right-clicking and "saving as"**
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/press-kit/l2.png"/>
+    <img class="image" src="/assets/images/press-kit/L2.png"/>
     <div class="overlay">
       <p>The hexcode colour is <span style="color:#9351b6;">#9351b6</span></p>
     </div>
