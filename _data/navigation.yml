@@ -49,8 +49,6 @@ docs-en:
     url: /2018/02/01/podcasts.html
   - title: 🆓 LLP Compendium
     url: /2020/04/03/llp-compendium.html
-  - title: 🎴 Site Archive
-    url: /archive.html
 
 - title: How to Submit
   children:
@@ -66,11 +64,13 @@ docs-en:
   - title: 👁 Open Peer Review
     url: /2018/01/04/review-with-us.html#-we-practice-open-not-blind-peer-review
 
-- title: External Links
+- title: Community
   children:
   - title: 💬 LLP Slack
     url: https://join.slack.com/t/llpjournal/shared_invite/zt-8zezzsvk-khXGq4jyrxRk0AEfUX3HTA
   - title: 🐦 LLP Twitter
     url: https://twitter.com/llpjournal
-  - title: 🏢 Contact Details
+  - title: 🎨 LLP Art assets
+    url: /2020/01/01/llp-press-kit.html
+  - title: 🏢 Contact Us
     url: /2018/01/01/contact-us.html

@@ -67,15 +67,15 @@ By this, we mean that all communication should, where possible, occur on the sub
 - ✅ Once all your comments are closed, complete the "Revised Manuscript Recommendation" section.
 - ✅ Message the custom slack channel when the steps have been completed.
 
-## Be supportive. 
+### Be supportive
 
 Criticism is incredibly important. The field has no chance to grow if we only congratulate each other, and ignore troublesome topics. However, criticisms should be as constructive as possible. Consider adding recommendations or advice when critiquing authors’ work.
 
-## Be engaged and responsible. 
+### Be engaged and responsible
 
 Unlike traditional review processes, LLP utilizes OPR, which allows for a conversation between reviewers and authors about the manuscript, on the manuscript. This has the potential to rapidly decrease the length of time for reviews. However, this depends on your cooperation!
 
-## Be true to the LLP mission.
+### Be true to the LLP mission
 
 The mission of Ludic Language Pedagogy is to promote open, scholarly and practical conversations around purposeful and progressive uses of games and play in language teaching and learning.
 
