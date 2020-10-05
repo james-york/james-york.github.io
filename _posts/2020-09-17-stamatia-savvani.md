@@ -3,7 +3,6 @@ layout: article
 title: Stamatia Savvani
 tags:
 - reviewer
-- author
 key: stamatia-savvani
 show_title: false
 pageview: true
