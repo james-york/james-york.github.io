@@ -15,6 +15,8 @@ sharing: false
 
 # Adam Sheard
 
+## [Minister of Silly Walks](https://www.youtube.com/watch?v=eCLp7zodUiI&feature=youtu.be)
+
 <div class="card">
   <div class="card__image">
     <img class="image" src="/assets/images/llp-adam.png"/>
