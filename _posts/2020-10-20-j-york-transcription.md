@@ -56,7 +56,7 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/j-york-transcription.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
 
-KEY POINTS
+## Abstract
 
 - **Background:** Board games were utilized with rigorous pre and post-play activities in an EFL classroom context to promote L2 development.
 - **Aim:** The aim of this paper is to assess whether the post-play activities improved participants’ speaking skill.

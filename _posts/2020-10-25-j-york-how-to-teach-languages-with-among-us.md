@@ -61,7 +61,7 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/j-york-among-us.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
 
-KEY POINTS
+## Abstract
 
 - **What is this**? A guide to using the popular multiplayer game “Among Us” for teaching languages
 - **Why did you make it?** Having played the game myself, I recognised its potential as a language learning tool and expect other teachers would appreciate a guide on how to use it.

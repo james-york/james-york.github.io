@@ -60,7 +60,7 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/n-mcfadyen-game-and-literacy-remixes.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
 
-KEY POINTS
+## Abstract
 
 - **What is this?** This is a narrative explaining my development of an asynchronous learning activity that used student gameplay as a reflective learning activity targeting media literacy and multiliteracies.
 - **Why did you make it?** I made it to share my experiences and resources for other teachers and educators while exploring how video games can be used for literacy instruction.
