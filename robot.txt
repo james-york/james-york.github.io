@@ -3,3 +3,6 @@
 
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
