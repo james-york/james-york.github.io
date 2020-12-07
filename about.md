@@ -75,6 +75,8 @@ aside:
   {% endfor %}
 </ul>
 
+<a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 All playground items </a>
+
 ## 📔 Recent Articles and Walkthroughs
 
 <ul>
@@ -91,6 +93,8 @@ aside:
     {% endif %}
   {% endfor %}
 </ul>
+
+<a class="button button--success button--rounded button--lg" href="/2018/02/01/articles.html"><i class="far fa-play-circle"></i> 📔 All articles and walkthroughs </a>
 
 ## 🎙 Recent Podcasts
 <ul>
