@@ -24,8 +24,9 @@ We accept three different submission types. You can find out more with the submi
 
 Before going through the process of formatting your manuscript, please get in touch with us informally to check suitablility first.
 
-- 📧 [Email](mailto:contact@llpjournal.org)[^1]
-- 💬 [Slack](http://bit.ly/LLPSlack)
+
+- 💬 [Slack](http://bit.ly/LLPSlack)[^1]
+- 📧 [Email](mailto:contact@llpjournal.org)
 - 🐦 [Twitter](https://twitter.com/llpjournal)
 
 [^1]: First preference
