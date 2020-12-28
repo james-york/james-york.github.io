@@ -75,7 +75,7 @@ We welcome papers that aim to:
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
 
-## Small print and malpractice statement
+# Small print and malpractice statement
 
 - All articles should be written in English.
 - We do not accept book reviews.
