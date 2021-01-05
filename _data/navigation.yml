@@ -37,7 +37,7 @@ docs-en:
   - title: People
     url: /2018/01/24/people.html
 
-- title: Publications
+- title: Content
   children:
   - title: 🏞 Playground Items
     url: /2018/02/01/playground-items.html
@@ -49,6 +49,8 @@ docs-en:
     url: /2020/10/07/LLPx.html
   - title: 🎙 Podcasts
     url: /2018/02/01/podcasts.html
+  - title: 📺 Videos
+    url: /2021/01/05/videos.html
   - title: 🆓 LLP Compendium
     url: /2020/04/03/llp-compendium.html
 

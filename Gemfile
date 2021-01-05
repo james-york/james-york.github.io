@@ -11,3 +11,5 @@ gem 'jekyll-sitemap'
 gem 'jemoji'
 gem 'jekyll-twitter-plugin'
 gemspec
+
+gem "jekyll", "~> 4.1"

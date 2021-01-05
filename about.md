@@ -56,7 +56,7 @@ aside:
  </table>
 
  
-# 🆕 Latest releases
+# 🆕 Latest publications
 
 ## 🏞 Recent Playground Items
 
