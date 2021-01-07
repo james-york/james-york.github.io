@@ -55,7 +55,7 @@ sharing: true
 - **Volume and page numbers:** 2 (p. 269 – 283)
 - **Date of publication:** 2020/10/25
 - **Keywords:** Among Us, Casual game, Discord, Empowering Teachers, Game-based teaching, Guide, How to, Mobile game.
-- **Cite:** York, J. (2020). 👩‍🚀 How to teach languages with “Among Us” *Ludic Language Pedagogy* (2), 269-283.
+- **Cite:** York, J. (2020). 👩‍🚀 How to teach languages with “Among Us.” *Ludic Language Pedagogy*, *2*, 269-283.
 
 ## Download
 
