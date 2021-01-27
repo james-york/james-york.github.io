@@ -58,14 +58,14 @@ By this, we mean that all communication should, where possible, occur on the sub
 - ✅ Complete the reviewer form.
 - ✅ Complete the box "Initial Recommendation."
 - ✅ Complete the box “Review Stage.” 
-- ✅ Message the custom slack channel when the steps have been completed.
+- ✅ Message the custom Discord channel when the steps have been completed.
 
 ## Revision stage
 
 - ✅ Check and resolve the authors revisions (as suggestions in GDocs).
 - ✅ Resolve any of your comments that have been addressed by the author.
 - ✅ Once all your comments are closed, complete the "Revised Manuscript Recommendation" section.
-- ✅ Message the custom slack channel when the steps have been completed.
+- ✅ Message the custom Discord channel when the steps have been completed.
 
 ### Be supportive
 
@@ -83,7 +83,7 @@ We are committed to:
 
 - Promoting ideas, experiences and research that investigate the mindful intersection of games and language teaching and learning,
 - Curating materials (submitted in conjunction with manuscripts) that other teachers and researchers can use in their contexts,
-- Communicating with the community, not only through this journal but via SNS and regular public connections (podcast, webinars, Slack channels, etc.).
+- Communicating with the community, not only through this journal but via SNS and regular public connections (podcast, webinars, Discord channels, etc.).
 
 ---------------------------------------
 
