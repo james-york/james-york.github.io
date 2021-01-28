@@ -14,6 +14,9 @@
       .slack-button {
         @include clickable($text-color-1, $slack-color);
       }
+      .discord-button {
+        @include clickable($text-color-1, $discord-color);
+      }
       .weibo-button {
         @include clickable($text-color-1, $weibo-color);
       }

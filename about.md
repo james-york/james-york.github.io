@@ -35,13 +35,12 @@ aside:
 
 *ISSN: 2435-2349* 
 
-## 🤝 Join us!
-<table>
-	<tr>
-		<th><a href="http://bit.ly/LLPSlack"><img alt="!!!!!!!!!!!!!!" src="/assets/images/llp-join-slack-image.png" height="250"></a><br> Main communication hub</th>
-		<th><iframe src="https://discordapp.com/widget?id=523277560809783297&theme=dark" width="250" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> <br> Used for conferences </th>
-	</tr>
-</table>
+
+ <style>
+         table, td, th {
+            text-align: left;
+         }
+      </style>
 
 ## 🔗 Useful links
 
@@ -95,6 +94,22 @@ aside:
 </ul>
 
 <a class="button button--success button--rounded button--lg" href="/2018/02/01/articles.html"><i class="far fa-play-circle"></i> 📔 All articles and walkthroughs </a>
+
+## 🤝 Join us!
+<table>
+  <tr>
+    <th>
+      LLP is not only a journal, but a community of practice. We use Discord as "our place to talk and hang out." Participate in discussions such as:
+      <ul>
+      <li>Introduce your LLP context, </li>
+      <li>Recieve advice from practicing LLPers,</li>
+      <li>Propose and collaborative research projcets,</li>
+      <li>Discuss topics related to games, play, language teaching, pedagogy and more,</li>
+      <li>Stay up to date regarding reviewing opportunities (such as any 🆕 <a href="/2018/01/02/submission-guidelines.html#-playground-items-easy-mode">playground</a> submissions).</li></ul>
+    </th>
+    <th>Join our Discord community here: <iframe src="https://discordapp.com/widget?id=523277560809783297&theme=dark" width="250" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></th>
+  </tr>
+</table>
 
 ## 🎙 Recent Podcasts
 <ul>
