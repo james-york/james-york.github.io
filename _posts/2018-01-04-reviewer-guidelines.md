@@ -31,6 +31,6 @@ We are committed to:
 
 - Promoting ideas, experiences and research that investigate the mindful intersection of games and language teaching and learning,
 - Curating materials (submitted in conjunction with manuscripts) that other teachers and researchers can use in their contexts,
-- Communicating with the community, not only through this journal but via SNS and regular public connections (podcast, webinars, Discord channels, etc.).
+- Communicating with the community, not only through this journal but via SNS and regular public connections (podcast, webinars, Slack channels, etc.).
 
 <div align="center"><a class="button button--success button--rounded button--lg" href="mailto:contact@llpjournal.org"><i class="fas fa-file-download"></i>📧 Contact the editors</a></div>

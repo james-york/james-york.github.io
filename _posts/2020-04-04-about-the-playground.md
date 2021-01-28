@@ -64,8 +64,8 @@ The LLP Playground is a place to experiment and play which mimics real-life play
 1. Playground items are submitted via the submission Google Form, and the author decides if they would like OPR or not.
 2. The editors look at the submission and decide if it fits LLP.
 3. If it fits, 
-  - [NOT PEER REVIEWED] it is published on the site and announced on Discord, Twitter and possibly our monthly newsletter.
-  - [PEER REVIEWED] the call for reviewers is announced on Discord and Twitter, and possibly the monthly newsletter.
+  - [NOT PEER REVIEWED] it is published on the site and announced on Slack, Twitter and possibly our monthly newsletter.
+  - [PEER REVIEWED] the call for reviewers is announced on Slack and Twitter, and possibly the monthly newsletter.
 
 There is a 2-week OPR period. Anyone can be a reviewer.
 
@@ -85,7 +85,7 @@ Peer reviewers can
 
 If someone reads the paper but does not comment, this is not considered peer-review.
 
-Reviewers may give additional comments in the #playground Discord channel.
+Reviewers may give additional comments in the #playground slack channel.
 
 
 ## After the review period is over

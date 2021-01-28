@@ -36,16 +36,12 @@ aside:
 *ISSN: 2435-2349* 
 
 ## 🤝 Join us!
-
-LLP is not only a journal, but a community of practice. We use Discord as "our place to talk and hang out." Participate in discussions such as:
-
-- Introduce your LLP context, 
-- Recieve advice from practicing LLPers,
-- Propose and collaborative research projcets,
-- Discuss topics related to games, play, language teaching, pedagogy and more,
-- Stay up to date regarding reviewing opportunities (such as any 🆕 <a href="/2018/01/02/submission-guidelines.html#-playground-items-easy-mode">playground</a> submissions).
-
-<iframe src="https://discordapp.com/widget?id=523277560809783297&theme=dark" width="250" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<table>
+	<tr>
+		<th><a href="http://bit.ly/LLPSlack"><img alt="!!!!!!!!!!!!!!" src="/assets/images/llp-join-slack-image.png" height="250"></a><br> Main communication hub</th>
+		<th><iframe src="https://discordapp.com/widget?id=523277560809783297&theme=dark" width="250" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> <br> Used for conferences </th>
+	</tr>
+</table>
 
 ## 🔗 Useful links
 
