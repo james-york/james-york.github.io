@@ -2,7 +2,7 @@
 layout: article
 title: Mark Rasmussen
 tags:
-- reviewer
+- previous reviewer
 - author
 key: mark-rasmussen
 show_title: false

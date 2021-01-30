@@ -2,7 +2,7 @@
 layout: article
 title: Simone Bregni
 tags:
-- reviewer
+- previous reviewer
 key: simone-bregni
 show_title: false
 pageview: true

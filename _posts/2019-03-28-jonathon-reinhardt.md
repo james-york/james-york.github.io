@@ -2,7 +2,7 @@
 layout: article
 title: Jonathon Reinhardt
 tags:
-- reviewer
+- previous reviewer
 key: jon-reinhardt
 show_title: false
 pageview: true

@@ -2,7 +2,7 @@
 layout: article
 title: Vita V. Kogan
 tags:
-- reviewer
+- previous reviewer
 key: vita-kogan
 show_title: false
 pageview: true
