@@ -102,8 +102,8 @@ aside:
       LLP is not only a journal, but a community of practice. We use Discord as "our place to talk and hang out." Participate in discussions such as:
       <ul>
       <li>Introduce your LLP context, </li>
-      <li>Recieve advice from practicing LLPers,</li>
-      <li>Propose and collaborative research projcets,</li>
+      <li>Receive advice from practicing LLPers,</li>
+      <li>Propose and collaborative research projects,</li>
       <li>Discuss topics related to games, play, language teaching, pedagogy and more,</li>
       <li>Stay up to date regarding reviewing opportunities (such as any 🆕 <a href="/2018/01/02/submission-guidelines.html#-playground-items-easy-mode">playground</a> submissions).</li></ul>
     </th>
