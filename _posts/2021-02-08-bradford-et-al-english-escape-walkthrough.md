@@ -55,4 +55,4 @@ sharing: true
 - **Aim**: The aim of this paper is to identify factors we need to consider when designing breakout games for the EFL classroom.
 - **Methods**: We developed and play tested four EFL breakout games, and reflect on the lessons learned.
 - **Results**: Breakout games provide opportunities for cooperation and collaboration. Key challenges in designing breakout games are: balancing difficulty, encouraging target language use, and dealing with attempts at ‘game hacking.’
-- **Conclusion**: We make some practical suggestions on how to sup- port cooperation and collaboration, balance game difficulty, en- courage target language use, and reduce ‘hacking’ the game.
+- **Conclusion**: We make some practical suggestions on how to support cooperation and collaboration, balance game difficulty, encourage target language use, and reduce ‘hacking’ the game.
