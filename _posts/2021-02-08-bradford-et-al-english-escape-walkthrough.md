@@ -32,6 +32,22 @@ aside:
 sharing: true
 ---
 
+
+<meta name="citation_title" content="English Escape! Using breakout games in the intermediate to advanced EFL classroom">
+<meta name="citation_author" content="Bradford, Coleen Cheryl">
+<meta name="citation_author" content="Brown, Vanessa">
+<meta name="citation_author" content="El Houari, Meriam">
+<meta name="citation_author" content="Trakis, Jason Minh">
+<meta name="citation_author" content="Weber, Julia Aroha">
+<meta name="citation_author" content="Buendgens-Kosten, Judith">
+<meta name="citation_publication_date" content="2021/02/08">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="3">
+<meta name="citation_firstpage" content="1">
+<meta name="citation_lastpage" content="20">
+<meta name="citation_pdf_url" content="https://llpjournal.org/assets/publication-pdfs/Buendgens-Kosten-English-Escape-Walkthrough-LLPJournal.pdf">
+
+
 ## Bradford, C.C., Brown, V., El Houari, M., Trakis, J. M., Weber, J. A., & Buendgens-Kosten, J. (2021). English Escape! Using breakout games in the intermediate to advanced EFL classroom.
 
 <!--more-->
