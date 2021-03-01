@@ -61,7 +61,7 @@ sharing: true
 There is a physical version of this paper available for printing.
 Please head over to our itch.io page to find the template.
 
-<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/j-york-j-dehaan-llp-is-mmm.pdf"><i class="fas fa-file-download"></i> 🖨 Print the zine </a>
+<a class="button button--action button--rounded button--lg" href="https://llpjournal.itch.io/llp-zine-01"><i class="fas fa-file-download"></i> 🖨 Print the zine </a>
 
 
 <img class="image image--lg" src="/assets/images/llp-mmm-front.jpg"/>
