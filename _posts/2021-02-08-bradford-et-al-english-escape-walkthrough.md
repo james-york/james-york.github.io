@@ -32,7 +32,7 @@ aside:
 sharing: true
 ---
 
-
+<head>
 <meta name="citation_title" content="English Escape! Using breakout games in the intermediate to advanced EFL classroom">
 <meta name="citation_author" content="Bradford, Coleen Cheryl">
 <meta name="citation_author" content="Brown, Vanessa">
@@ -46,6 +46,7 @@ sharing: true
 <meta name="citation_firstpage" content="1">
 <meta name="citation_lastpage" content="20">
 <meta name="citation_pdf_url" content="https://llpjournal.org/assets/publication-pdfs/Buendgens-Kosten-English-Escape-Walkthrough-LLPJournal.pdf">
+</head>
 
 
 ## Bradford, C.C., Brown, V., El Houari, M., Trakis, J. M., Weber, J. A., & Buendgens-Kosten, J. (2021). English Escape! Using breakout games in the intermediate to advanced EFL classroom.
