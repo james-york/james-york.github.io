@@ -42,6 +42,15 @@ Our driving philosophy/slogan for the open-peer review (OPR) process is:
 
 By this, we mean that all communication should, where possible, occur on the submitted manuscript itself.
 
+# Open Peer Review Principles
+
+Authors and reviewers must agree to the Open Peer Review Principles.
+
+- Principle 1: I will sign my name to my review.
+- Principle 2: I will review with integrity.
+- Principle 3: I will treat the review as a discourse with you (the authors); in particular, I will provide constructive criticism.
+- Principle 4: I will be an ambassador for the practice of open science.
+
 
 # OPRing an LLP Google Document Submission
 
