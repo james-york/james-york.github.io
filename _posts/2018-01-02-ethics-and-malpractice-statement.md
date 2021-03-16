@@ -22,7 +22,6 @@ sharing: false
 - There are no fees for publishing in LLP. We are an open-access, open peer-reviewed journal.
 - All articles should be written in English.
 - We do not accept book reviews.
-- We will not consider submissions that are 1) under review for publication or 2) have already been published elsewhere. Previously rejected manuscripts will be considered if you have reworked them based on previous comments.
 - Authors are obliged to participate in the open peer review process.
 - All authors must have contributed significantly to the submitted research.
 - All authors are obliged to provide retractions or corrections of mistakes.
