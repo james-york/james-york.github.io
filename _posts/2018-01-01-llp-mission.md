@@ -14,7 +14,7 @@ aside:
 sharing: false
 ---
 
-LLP is a non-profit project to bring together people and conversations around how best to integrate games and play into language teaching and learning.
+LLP is a non-profit project to bring together people and promote conversations around how best to integrate games and play into language teaching and learning.
 
 # Mission
 

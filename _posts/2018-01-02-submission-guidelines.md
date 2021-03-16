@@ -75,14 +75,6 @@ We welcome papers that aim to:
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/1gldlz16YizOBW4LRL2nG5CPq72eOGUZhwlIWQE59YmU/edit"><i class="fas fa-file-download"></i> Copy the template </a>
 
-# Small print and malpractice statement
-
-- All articles should be written in English.
-- We do not accept book reviews.
-- We will not consider submissions that are 1) under review for publication or 2) have already been published elsewhere. Previously rejected manuscripts will be considered if you have reworked them based on previous comments. 
-- Manuscripts are reviewed according to our open-peer review guidelines, thus anonymity is not preserved. You will be in conversation with reviewers throughout the review and revision process. (https://llpjournal.org/2018/01/04/review-with-us.html#-we-practice-open-not-blind-peer-review). 
-- Manuscripts that contain large portions of the author’s previous published work are considered self-plagiarism and will not be considered. Authors will be banned from submitting their work for a one-year period in such instances.
-- Manuscripts that contain large portions of another author’s published work(s) are considered plagiarism and will not be considered. Authors will be permanently banned from submitting their work to the journal in such instances.
 
 ## 📺 How to copy the template
 
