@@ -61,7 +61,7 @@ sharing: true
 There is a physical version of this paper available for printing.
 Please head over to our itch.io page to find the template.
 
-<a class="button button--action button--rounded button--lg" href="https://llpjournal.itch.io/llp-zine-01"><i class="fas fa-file-download"></i> 🖨 Print the zine </a>
+<iframe frameborder="0" src="https://itch.io/embed/940342?linkback=true" width="552" height="167"><a href="https://llpjournal.itch.io/llp-zine-01">Ludic Language Pedagogy is MMM … way more delicious than digital game-based language learning by Ludic Language Pedagogy</a></iframe>
 
 
 <img class="image image--lg" src="/assets/images/llp-mmm-front.jpg"/>
