@@ -40,7 +40,7 @@ I work at a university in Japan where I teach undergraduate courses in English i
 ## 🧪 Research connections
 
 - [Homepage](https://sites.google.com/view/tokoha-game-lab/home)
-- [ResearchMap](https://researchmap.jp/read0150176)
+- [ResearchMap](https://researchmap.jp/read0150176?lang=en)
 
 ## 💬 Social connections
 
