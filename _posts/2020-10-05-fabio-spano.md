@@ -23,7 +23,7 @@ sharing: false
   </div>
 </div>
 
-English Language teacher at the junior high school level in Japan
+MA student at ICU Graduate School of Education and Psychology
 
 Email: [fabiospanox@gmail.com](mailto:fabiospanox@gmail.com)
 
@@ -35,7 +35,7 @@ Email: [fabiospanox@gmail.com](mailto:fabiospanox@gmail.com)
 
 ## 👨‍🏫 Profile
 
-I am a game-based education enthusiast, currently having GBLT classes in a JHS, and I am working on finding ways to connect GBL theories to actual practice. I tend to focus on the roles of teachers in GBL and with my work I am trying to bypass the common issue of teachers lack of game literacy.
+My main area of interest is game-based language teaching (GBLT) with a big stress on the T. Like the other fellows here on LLP I am trying to fight the misconceptions that games are easy-to-use teaching shortcuts. I am currently researching teacher agency in game-based classes and trying to create new ways to make pedagogically solid ludic teaching solutions involving games which are accessible to teachers with low game literacy.
 
 ## 🧪 Research connections
 
