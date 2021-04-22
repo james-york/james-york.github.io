@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Kneoh, J. W. T. & Mirua, S. (2021) Teaching students English idioms through a memory game'
+title: 'Kneoh, J. W. T. & Miura, S. (2021) Teaching students English idioms through a memory game'
 article_header:
   type: overlay
   theme: light
