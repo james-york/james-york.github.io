@@ -35,7 +35,7 @@ We are also committed to helping anyone, especially minorities and people of col
 
 Given the importance of play as a universal activity, and how both play and language are socially and culturally mediated, the topics we engage with are especially relevant areas of study for contributing to more just societies. Who plays, and how and what they play, and how these activities shape language learning and use, are questions closely related to issues of identity, both individual and collective, and therefore integral aspects of understanding and shaping the worlds in which we live. We cannot ignore how racism and gender-related intolerance endanger children and youth at play, nor are we unaware of the ways in which (language) play enables vulnerable groups to resist oppression. Understanding play as part of the human condition imbues us with a moral obligation to support game studies, and scholars of game studies, especially from those BIPOC and LGBTQIA* scholars whose voices have not been adequately amplified. We equally support access to education about, with, and through games for all learners as a means to ensure equitable participation in and beyond the language learning classroom.
 
-**We stand in solidarity with Black Lives Matter in the fight against systemic racism.**
+**We are against any injustices and LLP stands to protect the rights of all.**
 
 If anyone has any suggestions about how Ludic Language Pedagogy can do better in society, please let us know and work with us to see that happen.
 
