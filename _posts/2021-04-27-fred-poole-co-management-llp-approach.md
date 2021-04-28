@@ -17,7 +17,6 @@ tags:
 - co-management
 - pedagogy
 
-
 key: poole-co-management
 show_title: true
 pageview: true
@@ -35,7 +34,7 @@ sharing: true
 <meta name="citation_volume" content="3">
 <meta name="citation_firstpage" content="48">
 <meta name="citation_lastpage" content="59">
-<meta name="citation_pdf_url" content="">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/poole-co-management-llp-approach.pdf">
 
 <!--more-->
 
