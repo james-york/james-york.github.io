@@ -60,23 +60,4 @@ James also edits Ludic Language Pedagogy, an open-access journal which publishes
 
 # 📰 Publications
 
-For an updated list of publications, please check James's CV [here](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing).
-
-## Books
-
-- York, J. (2019). English at Play. Tokyo Denki University Press, Tokyo, Japan.
-
-## Book Chapters
-
-- York, J. & Gestwick, P. (forthcoming) Two Rooms and a Boom. In K, Shrier (Ed.), 100 Games to Use in the Classroom & Beyond. ETC Press, Carnegie Mellon University, USA.
-- York, J., deHaan, J., & Hourdequin, P. (2019) It’s Your Turn: EFL Teaching and Learning with Tabletop Games. In H. Reinders, S. Ryan, & S. Nakamura, (Eds.), Innovation in Language Teaching and Learning: The Case of Japan (pp. 117-139). Springer International Publishing. https://doi.org/10.1007/978-3-030-12567-7
-- York, J. (2014). Minecraft and language learning. In C, Gallagher (Ed.), Minecraft in the Classroom: Ideas, inspiration, and student projects for teachers. Peachpit Press, Berkeley, CA, USA.
-
-## Refereed Journal Articles
-
-- York, J. & deHaan, J. (2018) A constructivist approach to game-based language learning. International Journal of Game-Based Learning 8(1).
-- York, J. & Stillar, S. (2013) Comics, crowdsourcing and up-votes: EFL on the front page of the Internet. JALT CALL Journal 9(1).
-- York, J. (2012) English Quest: Implementing game mechanics in a university EFL classroom. Modern English Teacher 21(4).
-- York, J. (2011) Reasons for using Youtube in the language classroom. JALT CALL Journal 7(2).
-- York, J. (2011) Music and MEXT: Using songs to aid non-native primary school teachers. The Language Teacher 35(4), 62-67.
-- York, J. (2011) Teaching Opposites Through Quiz-making. The Language Teacher 35(2), 49-50.
+For an updated list of publications, please check James's CV [here](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing).z
