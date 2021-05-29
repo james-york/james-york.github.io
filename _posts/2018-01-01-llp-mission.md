@@ -43,12 +43,16 @@ We are committed to:
 
 # Review Policy
 
-We practice open, not blind, peer review. Peer review happens with the editors and then 1 to 3 reviewers who work with and support submitting authors, inside of a private Google Document, to discuss and make the submission ready for publication with LLP as soon as possible. We have designed and will continue to work with this process to make submissions simple and collaborative.
+We practice **open peer review**. Peer review happens with the editors and then 1 to 3 reviewers who work with and support submitting authors, inside of a private Google Document, to discuss and make the submission ready for publication with LLP as soon as possible. We have designed and will continue to work with this process to make submissions simple and collaborative.
+
+
+# Open Access Policy
+LLP operates under a CC BY-NC-ND license. Authors maintain the copyright of their original work. Please credit the original appearance on LLP if you republish somewhere else.
+
+LLP is an open access journal which means that all content is freely available without charge to the user or his/her institution. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles, or use them for any other lawful purpose, without asking prior permission from the publisher or the author. This is in accordance with the BOAI definition of open access. 
 
 # Other information
 
 - LLP does not mandate word counts.
 - LLP only publishes articles in English.
 - LLP encourages authors to use “I” or “we” in their submissions.
-- LLP is open access. There are no publication or access fees.
-- LLP operates under a CC BY-NC-ND license. Authors maintain the copyright of their original work. Please credit the original appearance on LLP if you republish somewhere else.
