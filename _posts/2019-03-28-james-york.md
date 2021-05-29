@@ -38,9 +38,9 @@ Email: [jamesyorkjp@gmail.com](mailto:jamesyorkjp@gmail.com)
 
 James conducts research on the application of games in language teaching. He is currently exploring research on the following areas:
 
-- The use of tabletop games in a TBLT curriculum. 
-- A Bridging Activities curriculum using Reddit as a platform for participation in English speaking communities.
-- The affordances of VR and AR for language learning ([more details](http://mediacom.ne.jp/york/))
+- The use of tabletop games in a TBLT curriculum.
+- A multiliteracies-inspired curriculum using Reddit as a platform for participation in English speaking communities.
+- The affordances of VR, AR and Interactive Fiction for language learning ([more details](http://mediacom.ne.jp/york/))
 
 James also edits Ludic Language Pedagogy, an open-access journal which publishes research on the integration of games and play into language teaching practices. 
 
