@@ -62,4 +62,4 @@ sharing: true
 - **Aim:** The aim of this paper is to assess whether the post-play activities improved participants’ speaking skill.
 - **Methods:** Using complexity, accuracy and fluency measures, as well as reference to learners’ completed workbooks, output performance was analysed quantitatively.
 - **Results:** Output accuracy was significantly improved in the second gameplay session, however complexity and fluency dimensions were not affected. A number of common morphosyntactic errors were also left unnoticed.
-- **Conclusion:** Whilst student-driven post-tasks aided learners’ L2 development; particularly along the fluency dimension, additional teacher instruction is required. 
+- **Conclusion:** Whilst student-driven post-tasks aided learners’ L2 development; particularly along the accuracy dimension, additional teacher instruction is required. 
