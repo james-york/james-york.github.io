@@ -13,3 +13,5 @@ gem 'jekyll-twitter-plugin'
 gemspec
 
 gem "jekyll", "~> 4.1"
+
+gem "webrick", "~> 1.7"
