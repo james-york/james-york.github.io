@@ -2,7 +2,6 @@
 layout: article
 title: Judith Buendgens-Kosten
 tags:
-- reviewer
 - author
 key: judith-bk
 show_title: false
