@@ -28,11 +28,11 @@ sharing: false
 Email: [ajwoodsum@gmail.com](mailto:ajwoodsum@gmail.com)
 
 - **Ludic keywords**: 
-  - *gamification, roleplaying games*
+  - *roleplaying games*
 - **Language keywords**: 
   - *pushed output, sla*
 - **Pedagogy keywords**: 
-  - *task-based teaching, learning management systems, informal language learning, mobile assisted language learning, and computer assisted language learning*
+  - *task-based teaching, learning management systems, informal language learning, mobile assisted language learning, and computer assisted language learning, game-based learning, ludic language pedagogy*
 <!--more-->
 
 ## 👨‍🏫 Profile
