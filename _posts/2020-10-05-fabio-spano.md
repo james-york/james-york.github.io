@@ -3,6 +3,7 @@ layout: article
 title: Fabio Spano
 tags:
 - reviewer
+- author
 key: fabio-spano
 show_title: false
 pageview: true

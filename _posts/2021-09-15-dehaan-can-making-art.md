@@ -56,7 +56,7 @@ sharing: true
 - **Reviewed by:** [Peter Hourdequin]({% post_url 2020-05-08-peter-hourdequin %}), Paul Johnson, [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [James York]({% post_url 2019-03-28-james-york %}).
 - **Volume and page numbers:** 3 (p. 134 – 152)
 - **Date of publication:** 2021/09/15
-- **Keywords:** Bad research, Entrepreneurship, Experiential learning, Games for change, Language play, Lesson plans, Little steps,Media
+- **Keywords:** Bad research, Entrepreneurship, Experiential learning, Games for change, Language play, Lesson plans, Little steps, Media
 Media literacy, Multimodal communication, Participation, Pedagogy of Multiliteracies, Social impact games, So what?
 - **Cite:** deHaan, J. (2021). Can making art lead to making change in the world? “I don’t know how to do what I drew.” (Bad teacher-researcher! No 🍪🍪! 😉). *Ludic Language Pedagogy*, 3, 134-152.
 
