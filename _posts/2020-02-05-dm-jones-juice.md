@@ -28,6 +28,14 @@ aside:
 sharing: true
 ---
 
+<meta name="citation_title" content="Games in the language learning classroom: Is the juice worth the squeeze?">
+<meta name="citation_author" content="Jones, DM">
+<meta name="citation_publication_date" content="2020/02/05">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="1">
+<meta name="citation_lastpage" content="36">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/dm-jones-juice.pdf">
 
 
 <!--more-->

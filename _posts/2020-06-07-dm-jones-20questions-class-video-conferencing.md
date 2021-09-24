@@ -35,6 +35,15 @@ aside:
   toc: true
 ---
 
+<meta name="citation_title" content="Are you bigger than an Xbox?: ‘20 Questions’ used in a class delivered via video conferencing">
+<meta name="citation_author" content="Jones, DM">
+<meta name="citation_publication_date" content="2020/06/07">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="95">
+<meta name="citation_lastpage" content="103">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/dm-jones-20questions-class-video-conferencing.pdf">
+
 <!--more-->
 
 ## Metadata

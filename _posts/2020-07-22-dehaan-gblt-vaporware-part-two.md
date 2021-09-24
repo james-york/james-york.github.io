@@ -32,6 +32,15 @@ sharing: true
 
 <!--more-->
 
+<meta name="citation_title" content="Game-based language teaching is vaporware (Part 2 of 2): It’s time to ship or shut down">
+<meta name="citation_author" content="deHaan, Jonathan">
+<meta name="citation_publication_date" content="2020/07/22">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="140">
+<meta name="citation_lastpage" content="161">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/dehaan-vaporware-part-two.pdf">
+
 ## Metadata
 
 - **Author:** [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %})
@@ -39,7 +48,7 @@ sharing: true
 - **Volume and page numbers:** 2 (p. 140 – 161)
 - **Date of publication:** 2020/07/22
 - **Keywords:** GBLT, Hype cycle, Integration, Normalization, Pedagogy, Praxis
-- **Cite:** deHaan, J. (2020). Game-based language teaching is vaporware (Part 2 of 2): It’s time to ship or shut down *Ludic Language Pedagogy* (2), 140-161.
+- **Cite:** deHaan, J. (2020). Game-based language teaching is vaporware (Part 2 of 2): It’s time to ship or shut down. *Ludic Language Pedagogy* (2), 140-161.
 
 ## Download
 

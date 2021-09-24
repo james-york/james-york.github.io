@@ -34,6 +34,15 @@ aside:
 sharing: true
 ---
 
+<meta name="citation_title" content="“Game Terakoya class 1” walkthrough: Directing students’ post-game discussions, academic work and participatory work through goals, curriculum, materials and interactions">
+<meta name="citation_author" content="deHaan, Jonathan">
+<meta name="citation_publication_date" content="2020/04/17">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="41">
+<meta name="citation_lastpage" content="69">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/dehaan-gtclass1-walkthrough.pdf">
+
 ## deHaan, J. (2020). “Game Terakoya class 1” walkthrough: Directing students’ post-game discussions, academic work and participatory work through goals, curriculum, materials and interactions
 
 <!--more-->

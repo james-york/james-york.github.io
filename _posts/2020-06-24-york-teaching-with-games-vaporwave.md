@@ -30,6 +30,15 @@ aside:
   toc: true
 ---
 
+<meta name="citation_title" content="It's your mooooove: Why teaching with games should be like ｖａｐｏｒｗａｖｅ (and not nightcore)">
+<meta name="citation_author" content="York, James">
+<meta name="citation_publication_date" content="2020/06/24">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="104">
+<meta name="citation_lastpage" content="114">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/york-its-your-move-vaporwave.pdf">
+
 <style type="text/css">
   li,body,head,footer,b,i,br,div.page,div,div.root,button,div.page__sidebar, div.page__main-inner,blockquote,p,div.page__footer {
     background-color: #F2739C;
@@ -50,7 +59,7 @@ aside:
 - **Author:** [James York]({% post_url 2019-03-28-james-york %})
 - **Peer-reviewed:** ✅
 - **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), Paul Darvasi, [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Peter Hourdequin]({% post_url 2020-05-08-peter-hourdequin %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Mona Zawdeh]({%post_url 2020-05-02-mona-zawdeh %}). 
-- **Date of publication:** 2020
+- **Date of publication:** 2020/06/24
 - **Keywords:** ｖａｐｏｒｗａｖｅ, Aesthetic, Translanguaging, L1 use, Mother tongue use, Languaging, Nightcore 
 - **Cite:** York, J. (2020). It's your mooooove: Why teaching with games should be like vaporwave (and not nightcore).
 *Ludic Language Pedagogy, 2*, 104-114.

@@ -35,6 +35,15 @@ aside:
 
 <!--more-->
 
+<meta name="citation_title" content="Leveling Up: A Teacher’s Personal Journey of Bringing Video Games Into a School and Classroom">
+<meta name="citation_author" content="McFadyen, Niall">
+<meta name="citation_publication_date" content="2020/05/31">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="86">
+<meta name="citation_lastpage" content="94">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/mcfadyen-leveling-up-games-in-school.pdf">
+
 ## Metadata
 
 - **Author:** [Niall McFadyen]({% post_url 2020-04-23-niall-mcfadyen %})

@@ -44,6 +44,15 @@ aside:
 
 <!--more-->
 
+<meta name="citation_title" content="Language and literacy teaching with games: the “who” and transformative actions">
+<meta name="citation_author" content="deHaan, Jonathan">
+<meta name="citation_publication_date" content="2020/08/26">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="162">
+<meta name="citation_lastpage" content="186">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/dehaan-the-who-and-transformative-actions-of-teaching-with-games.pdf">
+
 ## Metadata
 
 - **Author:** [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %})

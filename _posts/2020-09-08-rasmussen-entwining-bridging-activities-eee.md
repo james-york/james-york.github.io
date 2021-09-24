@@ -37,6 +37,15 @@ aside:
 
 <!--more-->
 
+<meta name="citation_title" content="Entwining Bridging Activities, the EEE framework, and Coup in a 6th grade advanced EFL writing class">
+<meta name="citation_author" content="Rasmussen, Mark">
+<meta name="citation_publication_date" content="2020/09/08">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="203">
+<meta name="citation_lastpage" content="224">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/rasmussen-entwining-bridging-activities-eee.pdf">
+
 ## Metadata
 
 - **Author:** [Mark Rasmussen]({% post_url 2020-08-08-mark-rasmussen %})

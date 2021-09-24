@@ -38,6 +38,15 @@ aside:
   toc: true
 ---
 
+<meta name="citation_title" content="Jidoukan Jenga: Teaching English through remixing games and game rules">
+<meta name="citation_author" content="deHaan, Jonathan">
+<meta name="citation_publication_date" content="2020/04/15">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="37">
+<meta name="citation_lastpage" content="40">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/deHaan-jidokan-jenga.pdf">
+
 <!--more-->
 
 ## Metadata

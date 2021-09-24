@@ -26,6 +26,15 @@ aside:
   toc: true
 ---
 
+<meta name="citation_title" content="Exploring authentic language use in the classroom">
+<meta name="citation_author" content="Poole, Fred">
+<meta name="citation_publication_date" content="2020/05/13">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="75">
+<meta name="citation_lastpage" content="85">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/Poole_Authentic.pdf">
+
 <!--more-->
 
 ## Metadata

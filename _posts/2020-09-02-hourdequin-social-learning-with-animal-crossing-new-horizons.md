@@ -31,6 +31,15 @@ aside:
 
 <!--more-->
 
+<meta name="citation_title" content="Social learning and literacy affordances in Animal Crossing: New Horizons">
+<meta name="citation_author" content="Hourdequin, Peter">
+<meta name="citation_publication_date" content="2020/09/02">
+<meta name="citation_journal_title" content="Ludic Language Pedagogy">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="187">
+<meta name="citation_lastpage" content="202">
+<meta name="citation_pdf_url" content="http://www.llpjournal.org/assets/publication-pdfs/hourdequin-social-learning-with-animal-crossing-new-horizons.pdf">
+
 ## Metadata
 
 - **Author:** [Peter Hourdequin]({% post_url 2020-05-08-peter-hourdequin %})
