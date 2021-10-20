@@ -85,7 +85,7 @@ We welcome papers that aim to:
 
 ### 📺 How to copy the templates
 
-<div>{%- include extensions/youtube.html id='wfkLjVRbH5Q' -%}</div>
+<div>{%- include extensions/youtube.html id='SoA33ll-F7w' -%}</div>
 
 
 ## Detailed Submission Process
