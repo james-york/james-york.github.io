@@ -19,7 +19,7 @@ sharing: false
   <div class="card__image">
     <img class="image" src="/assets/images/llp-sale.png"/>
     <div class="overlay overlay--bottom">
-      <p>Hokkaido University undergraduate</p>
+      <p></p>
     </div>
   </div>
 </div>
