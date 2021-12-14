@@ -138,7 +138,7 @@ A step-by-step guide to our open peer review process:
 
 ### 5. Copyright and Access
 - All submissions remain the property of the authors.
-- Accepted manuscripts are published under a Creative Commons CC-BY-NC 4.0 license (or another license of the author's choosing).
+- Accepted manuscripts are published under a Creative Commons CC-BY-NC-ND 4.0 license (or another license of the author's choosing).
 - When articles or walkthroughs are submitted and accepted for publication, we will ask authors to consider submitting Creative Commons licensed versions of their materials that we will host in a shared google drive folder connected to their published paper. These materials might be surveys or tests from articles that other researchers can use in their research (to help connect research in the field) or lesson plans and worksheets (to help teachers easily implement progressive practices in their contexts). Authors will determine the rights to their "donated" materials.
 - All articles are available electronically on our website for free. https://llpjournal.org/2018/02/01/volume-archives.html 
 
