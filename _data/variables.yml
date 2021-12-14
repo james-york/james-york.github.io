@@ -35,7 +35,7 @@ default:
     full_width: false
     sharing: false
     comment: true
-    license: false
+    license: true
     pageview: false
     search: default
 

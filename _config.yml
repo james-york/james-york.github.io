@@ -97,7 +97,7 @@ podcast:
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-ND-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-ND-4.0"
+license: "CC-BY-NC-ND-4.0" # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -141,7 +141,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: # disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
