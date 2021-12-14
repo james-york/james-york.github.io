@@ -47,7 +47,7 @@ We practice **open peer review**. Peer review happens with the editors and then 
 
 
 # Open Access Policy
-LLP operates under a CC BY-NC-ND license. Authors maintain the copyright of their original work. Please credit the original appearance on LLP if you republish somewhere else.
+LLP operates under a CC-BY-NC-ND license. Authors maintain the copyright of their original work. Please credit the original appearance on LLP if you republish somewhere else.
 
 LLP is an open access journal which means that all content is freely available without charge to the user or his/her institution. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles, or use them for any other lawful purpose, without asking prior permission from the publisher or the author. This is in accordance with the BOAI definition of open access. 
 
