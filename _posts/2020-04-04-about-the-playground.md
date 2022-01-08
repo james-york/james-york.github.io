@@ -71,7 +71,7 @@ There is a 2-week OPR period. Anyone can be a reviewer.
 
 After that, the author gets the chance to edit it. The author decides the time they need.
 
-Once the edits have been made by the author(s), the final piece is published on the site with pages assigned in the current volume.
+Once the edits have been made by the author(s), the editors will check to see if the playground is suitable for publication. If it is, great! The final piece is published on the site with pages assigned in the current volume. If it isn't, the author(s) will be asked to make additional edits before publishing (This may include another round of peer-review).
 
 ## Playground peer reviewing
 
