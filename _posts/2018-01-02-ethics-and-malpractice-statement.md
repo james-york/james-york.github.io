@@ -29,8 +29,11 @@ sharing: false
 - Financial support in any regard, including from funding bodies or internal grants, must be declared.
 - Acknowledgements may be placed after the conclusion.
 - We will not consider submissions that are 1) under review for publication or 2) have already been published elsewhere. Previously rejected manuscripts will be considered if you have reworked them based on previous comments.
-- Manuscripts that contain large portions of the author’s previously published work are considered self-plagiarism and will not be considered. Authors will be banned from submitting their work for a one-year period in such instances.
+
+## 3. Plagiarism
+- All articles are screened for plagiarism upon submission, using tools such as [iThenticate®](http://www.ithenticate.com/). 
 - Manuscripts that contain large portions of another author’s published work(s) are considered plagiarism and will not be considered. Authors will be permanently banned from submitting their work to the journal in such instances.
+- Manuscripts that contain large portions of the author’s previously published work are considered self-plagiarism and will not be considered. Authors will be banned from submitting their work for a one-year period in such instances.
 
 ## 3. Peer-review process
 - All of the journal's content is subjected to peer-review.
