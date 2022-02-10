@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Terry Frerickson
+title: Terry Fredrickson
 tags:
 - author
 - reviewer
