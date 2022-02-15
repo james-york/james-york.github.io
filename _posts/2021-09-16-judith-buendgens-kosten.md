@@ -3,6 +3,7 @@ layout: article
 title: Judith Buendgens-Kosten
 tags:
 - author
+- board
 key: judith-bk
 show_title: false
 pageview: true
