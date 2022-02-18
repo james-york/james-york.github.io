@@ -80,6 +80,7 @@ ul.toc--ellipsis {
     @include overflow(hidden);
     text-overflow: ellipsis;
     white-space: nowrap;
+    background-color: #282a36;
   }
 }
 
