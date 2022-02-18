@@ -3,6 +3,7 @@ layout: article
 title: Carolyn Blume
 tags:
 - reviewer
+- board
 key: caro-reviewer-page
 show_title: false
 pageview: true
