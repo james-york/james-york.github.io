@@ -13,7 +13,7 @@ aside:
 sharing: false
 ---
 
-# Yuchan Gao
+# Yuchan Gao (Blanche)
 
 <div class="card">
   <div class="card__image">
