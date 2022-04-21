@@ -40,7 +40,7 @@ James is a senior assistant professor at Meiji University where he teaches and c
 
 - Teaching cyberpragmatics through analysis and participation in Reddit communities.
 - "Doing things with games and play" (Having a societal impact with game design).
-- The language of games and play (genre analysis, game literacy, learning aboyt the games industry).
+- The language of games and play (genre analysis, game literacy, learning about the games industry).
 - A PBL class focused on the SDGs.
 - A task-based language teaching approach to learning English communication skills with board and video games. 
 
