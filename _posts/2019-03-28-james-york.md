@@ -36,13 +36,13 @@ Email: [jamesyorkjp@gmail.com](mailto:jamesyorkjp@gmail.com)
 
 ## 👨‍🏫 Profile
 
-James conducts research on the application of games in language teaching. He is currently exploring research on the following areas:
+James is a senior assistant professor at Meiji University where he teaches and conducts research on the application of games and play in language and literacy teaching. He is currently exploring projects in the following areas:
 
-- The use of tabletop games in a TBLT curriculum.
-- A multiliteracies-inspired curriculum using Reddit as a platform for participation in English speaking communities.
-- The affordances of VR, AR and Interactive Fiction for language learning ([more details](http://mediacom.ne.jp/york/))
-
-James also edits Ludic Language Pedagogy, an open-access journal which publishes research on the integration of games and play into language teaching practices. 
+- Teaching cyberpragmatics through analysis and participation in Reddit communities.
+- "Doing things with games and play" (Having a societal impact with game design).
+- The language of games and play (genre analysis, game literacy, learning aboyt the games industry).
+- A PBL class focused on the SDGs.
+- A task-based language teaching approach to learning English communication skills with board and video games. 
 
 ## 🧪 Research connections
 
