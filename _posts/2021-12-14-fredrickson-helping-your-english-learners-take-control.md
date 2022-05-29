@@ -56,7 +56,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 196 – 204)
 - **Date of publication:** 2021/12/14
 - **Keywords:** Consciousness raising, game-based learning, gaming, English for gamers, extracurricular gaming, gaming literacy, language of gaming, teaching with games, Twitch, video games, YouTube, youtuber.
-- **Cite:** Fredrickson, T. & Lotscher, S.K. (2021). Video gaming: Helping your English learners take control. *Ludic Language Pedagogy*, 3, 196-204.
+- **Cite:** Fredrickson, T. & Lotscher, S.K. (2021). Video gaming: Helping your English learners take control. *Ludic Language Pedagogy*, 3, 196-204. https://doi.org/10.55853/llp_v3Pg9
 
 ## Abstract
 

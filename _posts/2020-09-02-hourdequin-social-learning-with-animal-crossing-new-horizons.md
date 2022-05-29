@@ -47,7 +47,7 @@ aside:
 - **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Frederick Poole]({% post_url 2019-03-28-fred-poole %}).
 - **Date of publication:** 2020/09/02
 - **Keywords:** *Bilingualism, Literacy, Parenting, Play, Video games*
-- **Cite:** Hourdequin, P. (2020). Social learning and literacy affordances in *Animal Crossing: New Horizons*. *Ludic Language Pedagogy (2),* p.187-202.
+- **Cite:** Hourdequin, P. (2020). Social learning and literacy affordances in *Animal Crossing: New Horizons*. *Ludic Language Pedagogy*, 2, p.187-202. https://doi.org/10.55853/llp_v2Pg9
 
 ## Tweet Synopsis 
 

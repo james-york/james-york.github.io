@@ -60,7 +60,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 1 – 20)
 - **Date of publication:** 2021/02/08
 - **Keywords:** Breakout games, game design, secondary school, TEFL.
-- **Cite:** Bradford, C.C., Brown, V., El Houari, M., Trakis, J. M., Weber, J. A., & Buendgens-Kosten, J. (2021). English Escape! Using breakout games in the intermediate to advanced EFL classroom. *Ludic Language Pedagogy*, *3*, 1-20.
+- **Cite:** Bradford, C.C., Brown, V., El Houari, M., Trakis, J. M., Weber, J. A., & Buendgens-Kosten, J. (2021). English Escape! Using breakout games in the intermediate to advanced EFL classroom. *Ludic Language Pedagogy*, 3, 1-20. https://doi.org/10.55853/llp_v3Wt1
 
 ## Download
 

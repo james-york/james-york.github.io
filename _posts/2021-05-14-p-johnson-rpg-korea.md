@@ -53,7 +53,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 83 – 92)
 - **Date of publication:** 2021/05/14
 - **Keywords:** Gamification, Narrative uncertainty, Roll the dice, Tabletop roleplaying
-- **Cite:** Johnson, P. (2021). Playtesting tabletop roleplaying with first and second year Korean EFL university students. *Ludic Language Pedagogy*, 3, 60-82.
+- **Cite:** Johnson, P. (2021). Playtesting tabletop roleplaying with first and second year Korean EFL university students. *Ludic Language Pedagogy*, 3, 60-82. https://doi.org/10.55853/llp_v3Pg7
 
 ## Abstract
 

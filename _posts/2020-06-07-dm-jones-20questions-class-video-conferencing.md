@@ -53,7 +53,7 @@ aside:
 - **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Niall McFadyen]({% post_url 2020-04-23-niall-mcfadyen %}), [Frederick Poole]({% post_url 2019-03-28-fred-poole %}).
 - **Date of publication:** 2020/06/07
 - **Keywords:** *Collaboration, COVID-19, Creative writing, Critical thinking, GBLT, Keep It Super Simple, Parlor games, Peer editing, Practice reflection, Video conferencing*
-- **Cite:** Jones, D.M. (2020). Are you bigger than an Xbox?: ‘20 Questions’ used in a class delivered via video conferencing. *Ludic Language Pedagogy (2)*, 95-103.
+- **Cite:** Jones, D.M. (2020). Are you bigger than an Xbox?: ‘20 Questions’ used in a class delivered via video conferencing. *Ludic Language Pedagogy*, 2, 95-103. https://doi.org/10.55853/llp_v2Pg6
 
 
 ## Tweet Synopsis 

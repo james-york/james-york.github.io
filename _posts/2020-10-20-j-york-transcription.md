@@ -50,7 +50,7 @@ sharing: true
 - **Volume and page numbers:** 2 (p. 225 – 255)
 - **Date of publication:** 2020/10/20
 - **Keywords:** Board games, CAF model, Smartphones, TBLT, Transcription, YouTube
-- **Cite:** York, J. (2020). Pedagogical considerations for teaching with games: Improving oral proficiency with self-transcription, task repetition, and online video analysis. *Ludic Language Pedagogy* (2), 225-255.
+- **Cite:** York, J. (2020). Pedagogical considerations for teaching with games: Improving oral proficiency with self-transcription, task repetition, and online video analysis. *Ludic Language Pedagogy*, 2, 225-255. https://doi.org/10.55853/llp_v2Art4
 
 ## Download
 

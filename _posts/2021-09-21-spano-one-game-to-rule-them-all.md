@@ -57,7 +57,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 153 – 195)
 - **Date of publication:** 2021/09/21
 - **Keywords:** Connected Learning, GBLT, Game design, Game remixing, Monopoly, Pedagogy of Multiliteracies, PPP, TBLT.
-- **Cite:** Spano. F., York, J., deHaan, J., Bard, R. (2021). One game, many approaches: How teachers can use a single game with any teaching methodology. *Ludic Language Pedagogy*, 3, 153-195.
+- **Cite:** Spano. F., York, J., deHaan, J., Bard, R. (2021). One game, many approaches: How teachers can use a single game with any teaching methodology. *Ludic Language Pedagogy*, 3, 153-195. https://doi.org/10.55853/llp_v3Pg8
 
 ## Abstract
 

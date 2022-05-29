@@ -60,7 +60,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 60 – 82)
 - **Date of publication:** 2021/05/14
 - **Keywords:** Case study, Computer-mediated Communication, Connected learning, Discord, EFL, Emergency remote teaching, Final Fantasy 14, Interview, Journey, Kotoba Rollers, MMORPG, Multiliteracies, Reddit, Social pedagogy, Student perspectives, TBLT, Transformation
-- **Cite:** York, J. (2021). Creating playgrounds in online teaching spaces: Kanami and Nene’s “hero journeys.” *Ludic Language Pedagogy*, 3, 60-82.
+- **Cite:** York, J. (2021). Creating playgrounds in online teaching spaces: Kanami and Nene’s “hero journeys.” *Ludic Language Pedagogy*, 3, 60-82. https://doi.org/10.55853/llp_v3Pg6
 
 ## Abstract
 

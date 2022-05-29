@@ -53,7 +53,7 @@ aside:
 - **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Frederick Poole]({% post_url 2019-03-28-fred-poole %}), [Ben Thanyawatpokin]({%post_url 2019-03-28-ben-thanyawatpokin %}), [James York]({% post_url 2019-03-28-james-york %}).
 - **Date of publication:** 2020/09/07
 - **Keywords:** *Bridging activities, Coup, EEE, EFL, Examine, Explore, Extend, Lesson plan, Pedagogy, Sociocultural theory, Tabletop games*
-- **Cite:** Rasmussen, A.M. (2020). Entwining Bridging Activities, the EEE framework, and Coup in a 6th grade advanced EFL writing class. *Ludic Language Pedagogy (2)*, p.203-224.
+- **Cite:** Rasmussen, A.M. (2020). Entwining Bridging Activities, the EEE framework, and Coup in a 6th grade advanced EFL writing class. *Ludic Language Pedagogy*, 2, p.203-224. https://doi.org/10.55853/llp_v2Pg10
 
 ## Tweet Synopsis 
 

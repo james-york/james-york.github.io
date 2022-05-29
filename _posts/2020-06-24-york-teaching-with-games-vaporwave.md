@@ -62,7 +62,7 @@ aside:
 - **Date of publication:** 2020/06/24
 - **Keywords:** ｖａｐｏｒｗａｖｅ, Aesthetic, Translanguaging, L1 use, Mother tongue use, Languaging, Nightcore 
 - **Cite:** York, J. (2020). It's your mooooove: Why teaching with games should be like vaporwave (and not nightcore).
-*Ludic Language Pedagogy, 2*, 104-114.
+*Ludic Language Pedagogy*, 2, 104-114. https://doi.org/10.55853/llp_v2Pg7
 - **Header Source:** [https://www.rafaeldejongh.com/vaporwave/](https://www.rafaeldejongh.com/vaporwave/)
 
 ## Tweet Synopsis 

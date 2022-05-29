@@ -52,7 +52,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 37 – 47)
 - **Date of publication:** 2021/04/20
 - **Keywords:** English idioms, Flashcard game, Free online game, Pair work, Teacher guide, University students, Worksheet
-- **Cite:** Kneoh, J. W. T. & Miura, S. (2021). Teaching students English idioms through a memory game. *Ludic Language Pedagogy*, 3, p.37-47.
+- **Cite:** Kneoh, J. W. T. & Miura, S. (2021). Teaching students English idioms through a memory game. *Ludic Language Pedagogy*, 3, p.37-47. https://doi.org/10.55853/llp_v3Pg3
 
 ## Abstract
 

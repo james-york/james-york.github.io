@@ -48,7 +48,7 @@ sharing: true
 - **Volume and page numbers:** 2 (p. 140 – 161)
 - **Date of publication:** 2020/07/22
 - **Keywords:** GBLT, Hype cycle, Integration, Normalization, Pedagogy, Praxis
-- **Cite:** deHaan, J. (2020). Game-based language teaching is vaporware (Part 2 of 2): It’s time to ship or shut down. *Ludic Language Pedagogy* (2), 140-161.
+- **Cite:** deHaan, J. (2020). Game-based language teaching is vaporware (Part 2 of 2): It’s time to ship or shut down. *Ludic Language Pedagogy*, 2, 140-161. https://doi.org/10.55853/llp_v2Art3
 
 ## Download
 
