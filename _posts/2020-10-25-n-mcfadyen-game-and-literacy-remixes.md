@@ -54,7 +54,7 @@ sharing: true
 - **Date of publication:** 2020/10/25
 - **Keywords:** Asynchronous learning, Game Terakoya, Media literacy, Middle school, Multiliteracies, Remote learning, Teacher narrative, Video games
 
-- **Cite:** McFadyen, N. (2020). Games and literacy: Remixes in asynchronous time. *Ludic Language Pedagogy*, 2, 256-268. https://doi.org/10.55853/llp_v2Pg12
+- **Cite:** McFadyen, N. (2020). Games and literacy: Remixes in asynchronous time. *Ludic Language Pedagogy*, 2, 256-268. [https://doi.org/10.55853/llp_v2Pg12](https://doi.org/10.55853/llp_v2Pg12)
 
 ## Download
 

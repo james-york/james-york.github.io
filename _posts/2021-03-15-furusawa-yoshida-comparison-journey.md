@@ -60,7 +60,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 26 – 36)
 - **Date of publication:** 2021/03/15
 - **Keywords:** Comparison, Communication, Culture, Freedom, Game design, Health awareness, Honesty, Journey, Lifelong goals, Local event, Materials, Multiliteracies, Reflection, Self awareness, Social media, Society, Students’ voices
-- **Cite:** Furusawa, K. & Yoshida, H. (2021). How we developed both inside and outside a “games and multiliteracies” seminar: A comparison of a society-focused journey and a self-focused journey. *Ludic Language Pedagogy*, 3, 26-36. https://doi.org/10.55853/llp_v3Pg2
+- **Cite:** Furusawa, K. & Yoshida, H. (2021). How we developed both inside and outside a “games and multiliteracies” seminar: A comparison of a society-focused journey and a self-focused journey. *Ludic Language Pedagogy*, 3, 26-36. [https://doi.org/10.55853/llp_v3Pg2](https://doi.org/10.55853/llp_v3Pg2)
 
 ## Abstract
 

@@ -45,7 +45,7 @@ sharing: true
 - **Volume and page numbers:** 1 (p. 58 – 114)
 - **Date of publication:** 2019/10/23
 - **Keywords:** Game-based language teaching, teacher mediation, TBLT, board games, walkthrough
-- **Cite:** York, J. (2019). “Kotoba Rollers” walkthrough: Board games, TBLT, and player progression in a university EFL classroom. *Ludic Language Pedagogy*, 1, 58-114. https://doi.org/10.55853/llp_v1Wt1
+- **Cite:** York, J. (2019). “Kotoba Rollers” walkthrough: Board games, TBLT, and player progression in a university EFL classroom. *Ludic Language Pedagogy*, 1, 58-114. [https://doi.org/10.55853/llp_v1Wt1](https://doi.org/10.55853/llp_v1Wt1)
 - **Compendium resources:** [Available here](https://drive.google.com/drive/u/2/folders/1Nu93BRbEQQFEU4ba3AAjLnJ3xdZ2bAzp).
 
 ## Download

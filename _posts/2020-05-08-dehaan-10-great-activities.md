@@ -59,7 +59,7 @@ aside:
 - **Peer-reviewers:** Terry Fredrickon, [Marc Jones]({% post_url 2020-04-21-marc-jones %}), Esther Park, Dustin Staat, [Ben Thanyawatpokin]({% post_url 2019-03-28-ben-thanyawatpokin %}), [James York]({% post_url 2019-03-28-james-york %}), [Mona Zawdeh]({% post_url 2020-05-02-mona-zawdeh %}).
 - **Date of publication:** 2020/05/07
 - **Keywords:** *Activities, after a game, any game, before a game, CLT, discussion, during a game, lesson plan, materials, mediation, multiliteracies, planning, PPP, reflecting, scaffolding, TBLT, teacher script*
-- **Cite:** deHaan, J. (2020). 10 great classroom activities language teachers can do with games (in addition to helping students speak while playing!). *Ludic Language Pedagogy*, 2, 70-74. https://doi.org/10.55853/llp_v2Pg3
+- **Cite:** deHaan, J. (2020). 10 great classroom activities language teachers can do with games (in addition to helping students speak while playing!). *Ludic Language Pedagogy*, 2, 70-74. [https://doi.org/10.55853/llp_v2Pg3](https://doi.org/10.55853/llp_v2Pg3)
 
 
 ## Tweet Synopsis 

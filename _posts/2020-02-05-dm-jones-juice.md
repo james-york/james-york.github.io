@@ -47,7 +47,7 @@ sharing: true
 - **Volume and page numbers:** 2 (p. 1 – 36)
 - **Date of publication:** 2020/02/05
 - **Keywords:** GBLT Heuristics, Pedagogy, Practice, Materials, Professional development
-- **Cite:** Jones, D. M. (2020). Games in the language learning classroom: Is the juice worth the squeeze? *Ludic Language Pedagogy*, 2, 1-36. https://doi.org/10.55853/llp_v2Art1
+- **Cite:** Jones, D. M. (2020). Games in the language learning classroom: Is the juice worth the squeeze? *Ludic Language Pedagogy*, 2, 1-36. [https://doi.org/10.55853/llp_v2Art1](https://doi.org/10.55853/llp_v2Art1)
 
 ## Download
 

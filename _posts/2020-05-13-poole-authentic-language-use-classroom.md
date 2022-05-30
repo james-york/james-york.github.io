@@ -44,7 +44,7 @@ aside:
 - **Peer-reviewers:** [Casey Nedry]({% post_url 2019-03-28-casey-nedry %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [James York]({% post_url 2019-03-28-james-york %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}).
 - **Date of publication:** 2020/05/13
 - **Keywords:** *Authentic, GBLT*
-- **Cite:** Poole, F. (2020). Exploring authentic language use in the classroom. *Ludic Language Pedagogy*, 2, 75-85. https://doi.org/10.55853/llp_v2Pg4
+- **Cite:** Poole, F. (2020). Exploring authentic language use in the classroom. *Ludic Language Pedagogy*, 2, 75-85. [https://doi.org/10.55853/llp_v2Pg4](https://doi.org/10.55853/llp_v2Pg4)
 
 
 ## Tweet Synopsis 

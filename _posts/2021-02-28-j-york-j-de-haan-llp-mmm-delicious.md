@@ -48,7 +48,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 21 – 25)
 - **Date of publication:** 2021/02/28
 - **Keywords:** methods, materials, mediation
-- **Cite:** York, J. & deHaan, J. (2021). Ludic Language Pedagogy is MMM … way more delicious than digital game-based language learning. *Ludic Language Pedagogy*, 3, 21-25. https://doi.org/10.55853/llp_v3Pg1
+- **Cite:** York, J. & deHaan, J. (2021). Ludic Language Pedagogy is MMM … way more delicious than digital game-based language learning. *Ludic Language Pedagogy*, 3, 21-25. [https://doi.org/10.55853/llp_v3Pg1](https://doi.org/10.55853/llp_v3Pg1)
 
 ## Abstract
 

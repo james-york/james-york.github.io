@@ -48,7 +48,7 @@ sharing: true
 - Volume and page numbers: 1 (p. 1 – 57)
 - Date of publication: 2019/09/18
 - Keywords: Academic work, Affinity spaces, Multiliteracies, Participation, Pedagogy, Tabletop games, Transformation
-- Cite: deHaan, J. (2019). Teaching language and literacy with games: What? How? Why? *Ludic Language Pedagogy*, 1, 1-57. https://doi.org/10.55853/llp_v1Art1
+- Cite: deHaan, J. (2019). Teaching language and literacy with games: What? How? Why? *Ludic Language Pedagogy*, 1, 1-57. [https://doi.org/10.55853/llp_v1Art1](https://doi.org/10.55853/llp_v1Art1)
 - Compendium resources: [Available here](https://drive.google.com/open?id=1UODy98ylocZz8saRY-_u8eHO59eRYG1N).
 
 ## Download

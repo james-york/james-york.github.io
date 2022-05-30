@@ -56,7 +56,7 @@ aside:
 - **Peer-reviewers:** [Yiting Han]({% post_url 2019-03-28-yiting-han %}), Niall McFadyen, [Fredrick Poole]({% post_url 2019-03-28-fred-poole %}), [James York]({% post_url 2019-03-28-james-york %})
 - **Date of publication:** 2020/04/15
 - **Keywords:** *Afterschool education, Creativity, Critical thinking, EFL, Elementary school children, Game rules, Keep it super simple, L1 (Japanese), Lesson plan, Remixing, Tabletop games, Transformation*
-- **Cite:** deHaan, J. (2020). Jidoukan Jenga: Teaching English through remixing games and game rules. *Ludic Language Pedagogy*, 2, 37-40. https://doi.org/10.55853/llp_v2Pg2
+- **Cite:** deHaan, J. (2020). Jidoukan Jenga: Teaching English through remixing games and game rules. *Ludic Language Pedagogy*, 2, 37-40. [https://doi.org/10.55853/llp_v2Pg2](https://doi.org/10.55853/llp_v2Pg2)
 
 
 ## Tweet Synopsis 

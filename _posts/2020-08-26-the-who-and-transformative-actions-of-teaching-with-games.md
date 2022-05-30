@@ -60,7 +60,7 @@ aside:
 - **Peer-reviewers:** [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Peter Hourdequin]({% post_url 2020-05-08-peter-hourdequin %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Niall McFadyen]({% post_url 2020-04-23-niall-mcfadyen %}) [Casey Nedry]({% post_url 2019-03-28-casey-nedry %}), [James York]({% post_url 2019-03-28-james-york %}).
 - **Date of publication:** 2020/08/26
 - **Keywords:** *Activities, Agency, Curriculum, Dialogic teaching, Discussion, Materials, Mediation, Methods, Multiliteracies, Participation, Pedagogy, Planning, Student engagement, Students, Teachers, Teacher narrative, Transformation, Vaporwave*
-- **Cite:** deHaan, J. (2020). Language and literacy teaching with games: the “who” and transformative actions. *Ludic Language Pedagogy*, 2, p.162-186. https://doi.org/10.55853/llp_v2Pg8
+- **Cite:** deHaan, J. (2020). Language and literacy teaching with games: the “who” and transformative actions. *Ludic Language Pedagogy*, 2, p.162-186. [https://doi.org/10.55853/llp_v2Pg8](https://doi.org/10.55853/llp_v2Pg8)
 
 ## Tweet Synopsis 
 

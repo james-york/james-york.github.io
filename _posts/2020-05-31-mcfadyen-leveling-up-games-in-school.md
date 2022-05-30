@@ -51,7 +51,7 @@ aside:
 - **Peer-reviewers:** [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), [Evan Bostelmann]({% post_url 2020-05-08-evan-bostelmann %}), [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Frederick Poole]({% post_url 2019-03-28-fred-poole %}), [Mona Zawdeh]({% post_url 2020-05-02-mona-zawdeh %})
 - **Date of publication:** 2020/05/31
 - **Keywords:** *Education, Educational technology, Esports, Game-based learning, Gaming, Middle years education, Multimedia production, Student engagement, Teacher narrative*
-- **Cite:** McFadyen, N. (2020). Leveling Up: A Teacher’s Personal Journey of Bringing Video Games Into a School and Classroom. *Ludic Language Pedagogy*, 2, p.86-94. https://doi.org/10.55853/llp_v2Pg5
+- **Cite:** McFadyen, N. (2020). Leveling Up: A Teacher’s Personal Journey of Bringing Video Games Into a School and Classroom. *Ludic Language Pedagogy*, 2, p.86-94. [https://doi.org/10.55853/llp_v2Pg5](https://doi.org/10.55853/llp_v2Pg5)
 
 
 ## Tweet Synopsis 

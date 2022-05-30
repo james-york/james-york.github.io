@@ -45,7 +45,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 48 – 59)
 - **Date of publication:** 2021/04/27
 - **Keywords:** affordances, co-management, pedagogy
-- **Cite:** Poole, F. (2021). Co-Management: A Ludic Language Pedagogical Approach. *Ludic Language Pedagogy*, 3, 48-59. https://doi.org/10.55853/llp_v3Pg4
+- **Cite:** Poole, F. (2021). Co-Management: A Ludic Language Pedagogical Approach. *Ludic Language Pedagogy*, 3, 48-59. [https://doi.org/10.55853/llp_v3Pg4](https://doi.org/10.55853/llp_v3Pg4)
 
 ## Abstract
 
