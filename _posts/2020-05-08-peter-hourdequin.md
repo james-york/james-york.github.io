@@ -18,7 +18,7 @@ sharing: false
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/peter-h.jpg"/>
+    <img class="image" src="/assets/images/LLP-Peter.png"/>
     <div class="overlay overlay--bottom">
       <p>Associate Professor, Tokoha University</p>
     </div>
