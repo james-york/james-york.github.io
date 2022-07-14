@@ -53,7 +53,9 @@ Please click the button below to submit your manuscript.
 
 ### 🏞 Playground items (Easy Mode)
 
-The LLP Playground is full of amazing teaching and research items which can be published, discussed, reviewed and **peer-reviewed** if requested by the author. Want to know more? Head over to the <a href="/2020/04/04/playground-landing.html">playground page</a>
+A playground presents **methods**, **materials**, **concepts** or **experiences** based in practice and grounded in theory that can serve to inform, inspire or challenge practitioners and/or researchers. How a playground is based in practice, and how it is grounded in theory, can then be very individual, as long as these two things are given. There must be value in it for the reader, not only for the author.
+
+Want to know more? Head over to the <a href="/2020/04/04/playground-landing.html">playground page</a>
 
 <a class="button button--success button--rounded button--lg" href="https://docs.google.com/document/d/11AB5_GXLi3EouET7H-rs3lmhM-8-pjn5qauF6mUFRmE/edit?usp=sharing"><i class="fas fa-file-download"></i> Copy the template </a>
 
