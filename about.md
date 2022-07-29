@@ -56,44 +56,31 @@ aside:
 
  
 # 🆕 Latest publications
-
-## 🏞 Recent Playground Items
-
-<ul>
-  {% assign playgrounds_found = 0 %}
-  {% for post in site.posts %}
-    {% if playgrounds_found <= 2 %}
-  {% if post.tags contains 'playground' %}
-  {% assign playgrounds_found = playgrounds_found | plus: 1 %}
-  <li>
-    <a href="{{ post.url }}"> 🏞 {{ post.title }}
-    </a> [Published: {{ post.date | date_to_string }}]
-  </li>
-  {% endif %}
-  {% endif %}
-  {% endfor %}
-</ul>
-
-<a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 All playground items </a>
-
-## 📔 Recent Articles and Walkthroughs
-
 <ul>
   {% assign articles_found = 0 %}
   {% for post in site.posts %}
-    {% if articles_found <= 2 %}
-      {% if post.tags contains 'walkthrough' or post.tags contains 'article' %}
+  {% if articles_found <= 4 %}
+    {% if post.tags contains 'playground' or post.tags contains 'article' or post.tags contains 'walkthrough' %}
       {% assign articles_found = articles_found | plus: 1 %}
+     {% if post.tags contains 'playground' %}
+        {% assign tagger = "🏞" %}
+      {% endif %}
+      {% if post.tags contains 'walkthrough' %}
+        {% assign tagger = "🚶" %}
+      {% endif %}
+      {% if post.tags contains 'article' %}
+        {% assign tagger = "📔" %}
+      {% endif %}
       <li>
-        <a href="{{ post.url }}"> 📔 {{ post.title }}
+        {{tagger}} <a href="{{ post.url }}">{{ post.title }}
         </a> [Published: {{ post.date | date_to_string }}]
       </li>
-      {% endif %}
     {% endif %}
+  {% endif %}
   {% endfor %}
 </ul>
 
-<a class="button button--success button--rounded button--lg" href="/2018/02/01/articles.html"><i class="far fa-play-circle"></i> 📔 All articles and walkthroughs </a>
+<a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 All playground items </a> <a class="button button--success button--rounded button--lg" href="/2018/02/01/articles.html"><i class="far fa-play-circle"></i> 📔 All articles and walkthroughs </a>
 
 ## 🤝 Join us!
 <table>
