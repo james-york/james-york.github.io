@@ -42,7 +42,7 @@ sharing: true
 </head>
 
 
-## Reed, J. (2021). “This class doesn’t have a textbook?”: An overview of a TRPG course for L2 English learners in Japan
+## Reed, J. (2022). “This class doesn’t have a textbook?”: An overview of a TRPG course for L2 English learners in Japan
 <!--more-->
 
 ## Metadata
@@ -52,7 +52,7 @@ sharing: true
 - **Volume and page numbers:** 4 (p. 53–70)
 - **Date of publication:** 2022/09/06
 - **Keywords:** City of Mist, Dungeons and Dragons, EFL, Japan, Tabletop Roleplaying Games, University
-- **Cite:** Spano, F. (2021). How I taught with a game in junior high school EFL classes. *Ludic Language Pedagogy*, *3*, 53–70.
+- **Cite:** Reed, J. (2022). “This class doesn’t have a textbook?”: An overview of a TRPG course for L2 English learners in Japan. *Ludic Language Pedagogy*, *4*, 53–70.
 
 ## Download
 
