@@ -13,7 +13,7 @@ aside:
 sharing: false
 ---
 
-# James York
+# Alex Bacalja
 
 <div class="card">
   <div class="card__image">
