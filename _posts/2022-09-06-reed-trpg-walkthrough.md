@@ -52,7 +52,7 @@ sharing: true
 - **Volume and page numbers:** 4 (p. 53–70)
 - **Date of publication:** 2022/09/06
 - **Keywords:** City of Mist, Dungeons and Dragons, EFL, Japan, Tabletop Roleplaying Games, University
-- **Cite:** Reed, J. (2022). “This class doesn’t have a textbook?”: An overview of a TRPG course for L2 English learners in Japan. *Ludic Language Pedagogy*, *4*, 53–70.
+- **Cite:** Reed, J. (2022). “This class doesn’t have a textbook?”: An overview of a TRPG course for L2 English learners in Japan. *Ludic Language Pedagogy*, *4*, 53–70. https://doi.org/10.55853/llp_v4Wt1
 
 ## Download
 
