@@ -21,7 +21,7 @@ tags:
 - playtesting
 - roll the dice
 - student-to-student language assistance
-- tabletop roleplaying
+- trpg
 - university students
 - vocabulary
 
