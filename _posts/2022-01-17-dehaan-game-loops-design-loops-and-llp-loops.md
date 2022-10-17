@@ -52,7 +52,7 @@ sharing: true
 - **Volume and page numbers:** 4 (p. 1 – 13)
 - **Date of publication:** 2022/01/17
 - **Keywords:** Game design, Game loops, Iteration, Keep It Super Simple, Methods, Materials, Mediation, Pedagogy, Playtesting, Reflective questions.
-- **Cite:** deHaan, J. (2022). Game loops, Game design loops, Game Terakoya loops and Ludic Language Pedagogy loops. *Ludic Language Pedagogy*, 4, 1-13.
+- **Cite:** deHaan, J. (2022). Game loops, Game design loops, Game Terakoya loops and Ludic Language Pedagogy loops. *Ludic Language Pedagogy*, 4, 1-13. [https://doi.org/10.55853/llp_V4Pg1](https://doi.org/10.55853/llp_V4Pg1)
 
 ## Abstract
 
