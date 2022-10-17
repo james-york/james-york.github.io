@@ -53,7 +53,7 @@ sharing: true
 - **Volume and page numbers:** 4 (p. 14 – 30)
 - **Date of publication:** 2022/05/11
 - **Keywords:** Game Terakoya, Learning by design, Materials, Mediation, Methods, One page poster, Pedagogy of Multiliteracies, Simple enough yet?, Teaching in action, Worksheet
-- **Cite:** deHaan, J. (2022). Teaching language and literacy (or anything) with games (or anything): A good way (The pedagogy of multiliteracies) simplified here for teachers and students. *Ludic Language Pedagogy*, 4, 14-30.
+- **Cite:** deHaan, J. (2022). Teaching language and literacy (or anything) with games (or anything): A good way (The pedagogy of multiliteracies) simplified here for teachers and students. *Ludic Language Pedagogy*, 4, 14-30. [https://doi.org/10.55853/llp_v4Pg2](https://doi.org/10.55853/llp_v4Pg2)
 
 ## Abstract
 
