@@ -47,7 +47,7 @@ sharing: true
 - **Volume and page numbers:** 4 (p. 31 – 52)
 - **Date of publication:** 2022/07/20
 - **Keywords:** Gaming, Gaming literacy, Digital wilds, Couch coop, Towerfall Ascension
-- **Cite:** York, J. (2022). Deciding who’s a n00b: Developing multimodal and gaming literacy skills with Towerfall Ascension. *Ludic Language Pedagogy*, 4, 31-52.
+- **Cite:** York, J. (2022). Deciding who’s a n00b: Developing multimodal and gaming literacy skills with Towerfall Ascension. *Ludic Language Pedagogy*, 4, 31-52. [https://doi.org/10.55853/llp_v4Pg3](https://doi.org/10.55853/llp_v4Pg3)
 
 ## Abstract
 
