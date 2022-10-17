@@ -51,7 +51,7 @@ sharing: true
 - **Volume and page numbers:** 4 (p. 71–94)
 - **Date of publication:** 2022/09/22
 - **Keywords:** collaboration, ecolinguistics, language ecology, local practice
-- **Cite:** Hourdequin, P & Hughes, B. (2022). Places, people, practices, and play: Animal Crossing New Horizons here and there. *Ludic Language Pedagogy*, *4*, 71–94.
+- **Cite:** Hourdequin, P & Hughes, B. (2022). Places, people, practices, and play: Animal Crossing New Horizons here and there. *Ludic Language Pedagogy*, *4*, 71–94. [https://doi.org/10.55853/llp_v4Pg4 ](https://doi.org/10.55853/llp_v4Pg4)
 
 ## Download
 
