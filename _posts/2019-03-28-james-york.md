@@ -56,8 +56,3 @@ James is a senior assistant professor at Meiji University where he teaches and c
 - [Telegram](https://t.me/cheapshot)
 - Discord ID: Cheapshot#0001
 - [Steam](https://steamcommunity.com/id/cheapsh0t/)
-
-
-# 📰 Publications
-
-For an updated list of publications, please check James's CV [here](https://docs.google.com/document/d/1BBW4iZ8T_h8k40UpIBHGw3qG78sMrxfj-llTXEP_9ZA/edit?usp=sharing).z
