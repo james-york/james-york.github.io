@@ -51,7 +51,7 @@ sharing: true
 - **Volume and page numbers:** 3 (p. 93 – 133)
 - **Date of publication:** 2021/08/13
 - **Keywords:** CEFR, CEFR-J, GBT, Kotoba Rollers, LLP, TBLT.
-- **Cite:** Spano, F. (2021). How I taught with a game in junior high school EFL classes. *Ludic Language Pedagogy*, *3*, 93-133.
+- **Cite:** Spano, F. (2021). How I taught with a game in junior high school EFL classes. *Ludic Language Pedagogy*, *3*, 93-133.[https://doi.org/10.55853/llp_v3Wt2](https://doi.org/10.55853/llp_v3Wt2)
 
 ## Download
 
