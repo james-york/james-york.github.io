@@ -46,7 +46,7 @@ sharing: true
 
 ## Metadata
 
-- **Authors:** [Hourdequin, P.]({% post_url 2020-05-08-peter-hourdequin %}) & Hughes, B.
+- **Authors:** [Hourdequin, P]({% post_url 2020-05-08-peter-hourdequin %}). & [Hughes, B]({% post_url 2022-09-25-beatrice-hughes %}).
 - **Reviewed by:** [DM Jones]({% post_url 2019-03-28-dm-jones %})
 - **Volume and page numbers:** 4 (p. 71–94)
 - **Date of publication:** 2022/09/22
