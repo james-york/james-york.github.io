@@ -17,6 +17,8 @@ tags:
 - kotoba rollers
 - llp
 - tblt
+- volume 3
+
 
 key: fabio-game-jhs-walkthrough
 show_title: false
