@@ -15,7 +15,7 @@ sidebar:
 aside:
   toc: true
 sharing: true
-date: 2021-08-26 12:00:00
+date: 2022-10-18 12:00:00
 file: /assets/podcasts/LLPP13-Jake-Reed-TRPGs.mp3
 excerpt: 
 summary: "In this episode James and Jonathan interview Reed and the reviewers of his recent publication in LLP to get the behind the scenes details." 

@@ -40,17 +40,29 @@ aside:
          table, td, th {
             text-align: left;
          }
+         button {
+          text-align: center;
       </style>
 
 ## 🔗 Useful links
 
 <table>
   <tr>
-    <th><a href="/2018/01/01/llp-mission.html"> Mission</a></th>
-    <th><a href="/2020/06/23/llp-inclusivity-statement.html"> Inclusivity Statement</a></th>
-    <th><a href="2018/01/02/submission-guidelines.html"> Submission Guidelines </a></th>
-    <th><a href="/2018/02/01/articles.html"> Articles and walkthroughs</a></th>
-    <th><a href="/2020/04/04/playground-landing.html"> About the LLP Playground</a></th>
+    <th>
+      <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Check out the LLP store', '#867ade', 'F1F6HOTID');kofiwidget2.draw();</script>
+    </th>
+    <th>
+        <a class="button button--success button--rounded button--md" href="/2018/01/01/llp-mission.html">Mission</a>
+      </th>
+    <th>
+        <a class="button button--success button--rounded button--md" href="/2020/06/23/llp-inclusivity-statement.html">Inclusivity Statement</a>
+      </th>
+    <th>
+        <a class="button button--success button--rounded button--md" href="2018/01/02/submission-guidelines.html">Submission Guidelines</a>
+      </th>
+    <th>
+        <a class="button button--success button--rounded button--md" href="/2020/04/04/playground-landing.html">About the LLP Playground</a>
+    </th>
   </tr>
  </table>
 
@@ -80,7 +92,8 @@ aside:
   {% endfor %}
 </ul>
 
-<a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 All playground items </a> <a class="button button--success button--rounded button--lg" href="/2018/02/01/articles.html"><i class="far fa-play-circle"></i> 📔 All articles and walkthroughs </a>
+<a class="button button--success button--rounded button--lg" href="/2018/02/01/playground-items.html"><i class="far fa-play-circle"></i> 🏞 All playground items </a> 
+<a class="button button--success button--rounded button--lg" href="/2018/02/01/articles.html"><i class="far fa-play-circle"></i> 📔 All articles and walkthroughs </a>
 
 ## 🤝 Join us!
 <table>
