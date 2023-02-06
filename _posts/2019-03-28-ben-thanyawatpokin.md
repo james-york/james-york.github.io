@@ -2,7 +2,7 @@
 layout: article
 title: Benjamin Thanyawatpokin
 tags:
-- reviewer
+- previous reviewer
 key: ben-than-review
 show_title: false
 pageview: true

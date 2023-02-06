@@ -2,7 +2,7 @@
 layout: article
 title: Casey Nedry
 tags:
-- reviewer
+- previous reviewer
 key: casey-nedry
 show_title: false
 pageview: true

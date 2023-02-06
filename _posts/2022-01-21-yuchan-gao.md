@@ -2,7 +2,7 @@
 layout: article
 title: Yuchan Gao (Blanche)
 tags:
-- reviewer
+- previous reviewer
 key: yuchan-gao
 show_title: false
 pageview: true

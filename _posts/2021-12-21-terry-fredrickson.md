@@ -3,7 +3,7 @@ layout: article
 title: Terry Fredrickson
 tags:
 - author
-- reviewer
+- previous reviewer
 key: terry-fredrickson
 show_title: false
 pageview: true

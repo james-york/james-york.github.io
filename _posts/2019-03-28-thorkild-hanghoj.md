@@ -2,7 +2,7 @@
 layout: article
 title: Thorkild Hanghøj
 tags:
-- reviewer
+- previous reviewer
 key: thorkild-hangh0j
 show_title: false
 pageview: true

@@ -3,6 +3,7 @@ layout: article
 title: Beatrice Hughes
 tags:
 - author
+- previous reviewer
 key: beatrice-hughes
 show_title: false
 pageview: true

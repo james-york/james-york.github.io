@@ -2,7 +2,7 @@
 layout: article
 title: River Swayne
 tags:
-- reviewer
+- previous reviewer
 - associate editor
 key: river
 show_title: false

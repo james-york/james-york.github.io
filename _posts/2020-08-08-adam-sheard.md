@@ -2,7 +2,7 @@
 layout: article
 title: Adam Sheard
 tags:
-- reviewer
+- previous reviewer
 key: adam-sheard
 show_title: false
 pageview: true

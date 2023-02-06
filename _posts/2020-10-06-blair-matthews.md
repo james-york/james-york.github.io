@@ -2,7 +2,7 @@
 layout: article
 title: Blair Matthews
 tags:
-- reviewer
+- previous reviewer
 key: blair-matthews
 show_title: false
 pageview: true

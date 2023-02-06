@@ -2,7 +2,7 @@
 layout: article
 title: Cameron Sale
 tags:
-- reviewer
+- previous reviewer
 key: cameron-sale
 show_title: false
 pageview: true

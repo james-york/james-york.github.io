@@ -2,7 +2,7 @@
 layout: article
 title: Yiting Han
 tags:
-- reviewer
+- previous reviewer
 key: yiting
 show_title: false
 pageview: true

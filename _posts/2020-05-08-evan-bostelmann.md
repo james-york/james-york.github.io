@@ -2,7 +2,7 @@
 layout: article
 title: Evan Bostelmann
 tags:
-- reviewer
+- previous reviewer
 key: evan-bostelmann
 show_title: false
 pageview: true
