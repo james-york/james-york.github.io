@@ -50,19 +50,9 @@ LLP is a non-profit project to bring together people and conversations around ho
 
 ## 🏢 Address
 
-Tokyo Denki University
-
-Ishizaka
-
-Hatoyama-machi
-
-Hiki-gun
-
-Saitama
-
-Japan
-
-350-0394
+Meiji University
+1-9-1 Eifuku, Suginami-ku, Tokyo 168-8555
+TEL : +81-3-5300-1121(operator)
 
 ## 📧 Email
 
