@@ -57,13 +57,17 @@ aside:
     <th>
         <a class="button button--success button--rounded button--md" href="/2020/06/23/llp-inclusivity-statement.html">Inclusivity Statement</a>
       </th>
+  </tr>
+  <tr>
     <th>
         <a class="button button--success button--rounded button--md" href="2018/01/02/submission-guidelines.html">Submission Guidelines</a>
       </th>
-    <th>
+      <th>
         <a class="button button--success button--rounded button--md" href="/2020/04/04/playground-landing.html">About the LLP Playground</a>
     </th>
-  </tr>
+    <th>
+        <a class="button button--success button--rounded button--md" href="/2018/01/01/contact-us.html/#-newsletter">💌 Newsletter</a>
+    </th>
  </table>
 
  
