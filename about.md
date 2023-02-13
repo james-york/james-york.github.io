@@ -38,7 +38,7 @@ aside:
 
  <style>
          table, td, th {
-            text-align: left;
+            text-align: center;
          }
          button {
           text-align: center;
@@ -52,23 +52,24 @@ aside:
       <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Check out the LLP store', '#867ade', 'F1F6HOTID');kofiwidget2.draw();</script>
     </th>
     <th>
-        <a class="button button--success button--rounded button--md" href="/2018/01/01/llp-mission.html">Mission</a>
-      </th>
+      <a class="button button--success button--rounded button--md" href="/2018/01/01/contact-us.html/#-newsletter">💌 Newsletter</a>
+    </th>
     <th>
-        <a class="button button--success button--rounded button--md" href="/2020/06/23/llp-inclusivity-statement.html">Inclusivity Statement</a>
-      </th>
+      <a class="button button--success button--rounded button--md" href="/2018/01/01/llp-mission.html">Mission</a>
+    </th>
   </tr>
   <tr>
     <th>
-        <a class="button button--success button--rounded button--md" href="2018/01/02/submission-guidelines.html">Submission Guidelines</a>
-      </th>
-      <th>
-        <a class="button button--success button--rounded button--md" href="/2020/04/04/playground-landing.html">About the LLP Playground</a>
+      <a class="button button--success button--rounded button--md" href="2018/01/02/submission-guidelines.html">Submission Guidelines</a>
     </th>
     <th>
-        <a class="button button--success button--rounded button--md" href="/2018/01/01/contact-us.html/#-newsletter">💌 Newsletter</a>
+      <a class="button button--success button--rounded button--md" href="/2020/04/04/playground-landing.html">About the LLP Playground</a>
     </th>
- </table>
+    <th>
+      <a class="button button--success button--rounded button--md" href="/2020/06/23/llp-inclusivity-statement.html">Inclusivity Statement</a>
+    </th>
+  </tr>
+  </table>
 
  
 # 🆕 Latest publications
