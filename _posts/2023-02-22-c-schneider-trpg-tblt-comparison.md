@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Schneider, C. (2023). On the similarities of slaying dragons and ordering food:'
+title: 'Schneider, C. (2023). On the similarities of slaying dragons and ordering food'
 article_header:
   type: overlay
   theme: light
