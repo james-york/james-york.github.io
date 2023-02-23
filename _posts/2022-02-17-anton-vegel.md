@@ -3,6 +3,7 @@ layout: article
 title: Anton Vegel
 tags:
 - reviewer
+- board
 key: anton-vegel
 show_title: false
 pageview: true
