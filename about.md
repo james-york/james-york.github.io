@@ -71,6 +71,15 @@ aside:
   </tr>
   </table>
 
+## 👇 Read these papers first 
+
+If you want to get a good grounding on what LLP is, we recommend starting with these three papers. Let us know what you think on the [LLP Discord](https://discord.gg/je9QZsnntf).
+
+1. [One game, many approaches: How teachers can use a single game with any teaching methodology](https://llpjournal.org/2021/09/21/spano-one-game-to-rule-them-all.html)
+2. [Teaching language and literacy with the pedagogy of multiliteracies: simplified here for teachers and students](https://llpjournal.org/2022/05/11/dehaan-teaching-language-and-literacy-with-games-simplified-for-teachers.html)
+3. [How to teach languages with Among Us](https://llpjournal.org/2020/10/25/j-york-how-to-teach-languages-with-among-us.html)
+
+
  
 # 🆕 Latest publications
 <ul>
