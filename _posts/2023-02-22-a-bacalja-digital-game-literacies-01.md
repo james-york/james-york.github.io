@@ -47,7 +47,7 @@ sharing: true
 - **Volume and page numbers:** 5 (p. 23 – 31)
 - **Date of publication:** 2023/2/22
 - **Keywords:** digital game literacies, digital games, learning, pedagogy, schooling.
-- **Cite:** Bacalja, A. (2023). Digital game literacies and school learning: A sociocultural perspective. *Ludic Language Pedagogy*, 5, 23-31. 
+- **Cite:** Bacalja, A. (2023). Digital game literacies and school learning: A sociocultural perspective. *Ludic Language Pedagogy*, 5, 23-31. [https://doi.org/10.55853/llp_V5Art1](https://doi.org/10.55853/llp_V5Art1)
 
 ## Download
 
