@@ -50,7 +50,7 @@ sharing: true
 - **Volume and page numbers:** 5 (p. 1 – 22)
 - **Date of publication:** 2023/2/22
 - **Keywords:** TBLT, TRPG, Drama, Narration, Games
-- **Cite:** Schneider, C. (2023). On the similarities of slaying dragons and ordering food: A proposition for using a Task-Based Language Teaching Approach for playing Tabletop Role-playing Games. *Ludic Language Pedagogy*, 5, 1-22. 
+- **Cite:** Schneider, C. (2023). On the similarities of slaying dragons and ordering food: A proposition for using a Task-Based Language Teaching Approach for playing Tabletop Role-playing Games. *Ludic Language Pedagogy*, 5, 1-22. [https://doi.org/10.55853/llp_V5Art2](https://doi.org/10.55853/llp_V5Art2)
 
 ## Download
 
