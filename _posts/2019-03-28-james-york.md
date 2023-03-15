@@ -21,12 +21,12 @@ sharing: false
   <div class="card__image">
     <img class="image" src="/assets/images/Cheap-Profile-PETSCII.jpg"/>
     <div class="overlay overlay--bottom">
-      <p>Lecturer, Tokyo Denki University</p>
+      <p>Lecturer, Meiji University</p>
     </div>
   </div>
 </div>
 
-Email: [jamesyorkjp@gmail.com](mailto:jamesyorkjp@gmail.com)
+Email: [york@meiji.ac.jp](mailto:york@meiji.ac.jp)
 
 - **Ludic keywords**: *Board games, social deduction, party games, family games, Minecraft*
 - **Language keywords**: *Speaking, communication, Japanese, community*
