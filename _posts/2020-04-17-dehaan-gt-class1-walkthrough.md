@@ -54,7 +54,7 @@ sharing: true
 - **Volume and page numbers:** 2 (p. 41 – 69)
 - **Date of publication:** 2020/04/17
 - **Keywords:** Creativity, Critical thinking, Curriculum, Grading, Materials, Multiliteracies, Participation, Remixing, Tabletop games, Teacher mediation, Transformation.
-- **Cite:** deHaan, J. (2020). “Game Terakoya class 1” walkthrough: Directing students’ post-game discussions, academic work and participatory work through goals, curriculum, materials and interactions. *Ludic Language Pedagogy* (2), 41-69.
+- **Cite:** deHaan, J. (2020). “Game Terakoya class 1” walkthrough: Directing students’ post-game discussions, academic work and participatory work through goals, curriculum, materials and interactions. *Ludic Language Pedagogy* (2), 41-69. [https://doi.org/10.55853/llp_v2Wt1](https://doi.org/10.55853/llp_v2Wt1)
 - **Compendium resources:** [Available here](https://drive.google.com/open?id=1UODy98ylocZz8saRY-_u8eHO59eRYG1N).
 
 ## Download
