@@ -54,7 +54,7 @@ sharing: true
 - **Volume and page numbers:** 5 (p. 32 – 56)
 - **Date of publication:** 2023/03/26
 - **Keywords:** Ocarina of Time, Zelda, Video Games, Spanish, High School, Teaching, Foreign Language.
-- **Cite:** Al-Khanfar, S. (2023). Teaching Spanish with The Legend of Zelda: Ocarina of Time. *Ludic Language Pedagogy*, *5*, 32-56.
+- **Cite:** Al-Khanfar, S. (2023). Teaching Spanish with The Legend of Zelda: Ocarina of Time. *Ludic Language Pedagogy*, *5*, 32-56.[https://doi.org/10.55853/llp_v5Wt1](https://doi.org/10.55853/llp_v5Wt1)
 
 ## Download
 
