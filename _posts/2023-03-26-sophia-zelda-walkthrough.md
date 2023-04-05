@@ -18,6 +18,8 @@ tags:
 - high school
 - teaching
 - foreign language
+- sophia al-Khanfar
+- volume 5
 
 key: sophia-zelda-spanish
 show_title: false
