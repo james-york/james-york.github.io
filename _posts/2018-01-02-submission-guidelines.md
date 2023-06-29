@@ -135,7 +135,7 @@ A step-by-step guide to our open peer review process:
 - Publishers and editors will take reasonable steps to identify and prevent the publication of papers where research misconduct has occurred.
 - In no case shall the journal or its editors encourage misconduct, or knowingly allow such misconduct to take place.
 - In the event that the editors are made aware of any allegation of research misconduct, the editors shall deal with allegations appropriately.
-- The journal can be contacted at cpntact@llpjournal.org for retracting or correcting articles when needed.
+- The journal can be contacted at [contact@llpjournal.org](mailto:contact@llpjournal.org) for retracting or correcting articles when needed.
 - The editors are always open to publish corrections, clarifications, retractions and apologies when needed.
 
 ### 5. Copyright and Access
