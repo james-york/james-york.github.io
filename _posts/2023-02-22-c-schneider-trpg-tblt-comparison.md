@@ -13,8 +13,8 @@ tags:
 - 📔
 - volume 5
 - chris-schneider
-- TBLT
-- TRPG
+- tblt
+- trpg
 - drama
 - narration
 - games
