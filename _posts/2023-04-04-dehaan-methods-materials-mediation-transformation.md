@@ -55,7 +55,7 @@ sharing: true
 - **Volume and page numbers:** 5 (p. 88)
 - **Date of publication:** 2023/04/04
 - **Keywords:** Goals, Just playing games, Method, Materials, Mediation, Participation, Pedagogy of multiliteracies, Praxis, Zine
-- **Cite:** deHaan, J. (2023). Methods, materials and mediation for student-centered transformation and social participation around games. *Ludic Language Pedagogy*, *5*, 57–88.
+- **Cite:** deHaan, J. (2023). Methods, materials and mediation for student-centered transformation and social participation around games. *Ludic Language Pedagogy*, *5*, 57–88. [https://doi.org/10.55853/llp_v5Pg1](https://doi.org/10.55853/llp_v5Pg1)
 
 ## Download
 
