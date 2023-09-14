@@ -59,3 +59,8 @@ sharing: true
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-multimodal-literacy-and-gaming-literacy-from-towerfall.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
+
+
+## Read and comment online
+
+[Google Document version](https://docs.google.com/document/d/1brUjdAbMhxztjYYtACYPh_IwNa847ZFOBXcT_GalgFI/edit?usp=sharing)
