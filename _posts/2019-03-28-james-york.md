@@ -30,7 +30,7 @@ Email: [york@meiji.ac.jp](mailto:york@meiji.ac.jp)
 
 - **Ludic keywords**: *Board games, social deduction, party games, family games, Minecraft*
 - **Language keywords**: *Speaking, communication, Japanese, community*
-- **Pedagogy keywords**: *Task-based language teaching, game-based language teaching (GBLT), rapid iteration, teacher roles*
+- **Pedagogy keywords**: *Task-based language teaching, social pedagogy, rapid iteration, teacher roles*
 
 <!--more-->
 
