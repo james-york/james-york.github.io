@@ -62,10 +62,10 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/york-freedom-to-play-with-SPACE-zine.pdf"><i class="fas fa-file-download"></i> 📥 Download the main PDF </a>
 
-<a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/SPACE-to-play-zine.pdf"><i class="fas fa-file-download"></i> 📥 Download the ZINE! </a>
-
 
 <a class="button button--action button--rounded button--lg" href="https://docs.google.com/document/d/1zyqEjpFvrc3-wjLL7RbhZL3hECUbfTwDrAy-uTUqu3U/edit?usp=sharing"><i class="fas fa-file-download"></i> 📝 Read as a Google Doc </a>
+
+<a class="button button--action button--rounded button--lg" href="https://llpjournal.itch.io/creating-space-to-play-in-your-classroom-llp02"><i class="fas fa-file-download"></i> 📥 Grab the zine on itch.io </a>
 
 ## Abstract
 
