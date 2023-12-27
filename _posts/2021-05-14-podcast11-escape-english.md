@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 'LLP Podcast 11 - Escape English with Judith Buendgens-Kosten and students'
+title: 'LLP Podcast 11 - Escape English with Jules Buendgens-Kosten and students'
 tags:
 - podcast
-- Buendgens-Kosten
+- buendgens-kosten
 - adam-sheard
 - james-york
 - jonathan-dehaan
@@ -17,7 +17,7 @@ sharing: true
 date: 2021-03-20 12:00:00
 file: /assets/podcasts/LLPP11-Escape-Rooms.mp3
 excerpt: 
-summary: "In this episode, Adam, James, and Jonathan interview Judith and their students regarding their recent publication in LLP." 
+summary: "In this episode, Adam, James, and Jonathan interview Jules and their students regarding their recent publication in LLP." 
 duration: "44:55"
 explicit: "no"
 block: "no"
@@ -35,7 +35,7 @@ number: 11
 
 ## Content
 
-In this episode, hosts Adam, James, and Jonathan interview Judith Buendgens-Kosten and their students regarding their recent publication in LLP.
+In this episode, hosts Adam, James, and Jonathan interview Jules Buendgens-Kosten and their students regarding their recent publication in LLP.
 
 The interview format for each article or walkthrough episode is as follows:
 
@@ -49,7 +49,7 @@ The paper can be read here: [https://llpjournal.org/2021/02/08/bradford-et-al-en
 ## ◺◺◱ Social media 
 
 - [https://www.twitter.com/llpjournal](https://www.twitter.com/llpjournal9)
-- [https://twitter.com/JudithBK](https://twitter.com/JudithBK) -- Judith
+- [https://twitter.com/BuendgensKosten](https://twitter.com/BuendgensKosten) -- Jules
 - [https://twitter.com/edtechwithadam](https://twitter.com/edtechwithadam) -- Adam
 - [https://www.twitter.com/cheapshot](https://www.twitter.com/cheapshot) -- James
 - [https://www.twitter.com/jonathandehaan](https://www.twitter.com/jonathandehaan) -- Jonathan

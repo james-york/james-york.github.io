@@ -48,7 +48,7 @@ sharing: true
 ## Metadata
 
 - **Author:** [Niall McFadyen]({% post_url 2020-04-23-niall-mcfadyen %})
-- **Reviewed by:** Judith Buendgens-Kosten, [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Blair Matthews]({% post_url 2020-10-06-blair-matthews %}), [Casey Nedry]({% post_url 2019-03-28-casey-nedry %}), [Adam Sheard]({% post_url 2020-08-08-adam-sheard %})
+- **Reviewed by:** Jules Buendgens-Kosten, [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %}), [Blair Matthews]({% post_url 2020-10-06-blair-matthews %}), [Casey Nedry]({% post_url 2019-03-28-casey-nedry %}), [Adam Sheard]({% post_url 2020-08-08-adam-sheard %})
 
 - **Volume and page numbers:** 2 (p. 256 – 268)
 - **Date of publication:** 2020/10/25

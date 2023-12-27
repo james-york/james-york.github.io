@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Judith Buendgens-Kosten
+title: Jules Buendgens-Kosten
 tags:
 - author
 - board
-key: judith-bk
+key: jules-bk
 show_title: false
 pageview: true
 sidebar:
@@ -14,7 +14,7 @@ aside:
 sharing: false
 ---
 
-# Judith Buendgens-Kosten
+# Jules Buendgens-Kosten
 
 <div class="card">
   <div class="card__image">
@@ -37,15 +37,13 @@ Email: [buendgens-kosten@em.uni-frankfurt.de](mailto:buendgens-kosten@em.uni-fra
 
 ## 👨‍🏫 Profile
 
-Judith Buendgens-Kosten is a postdoctoral researcher at Goethe University Frankfurt. They hold an MA in Online and Distance Education from the Open University, UK, and a doctorate degree in English Linguistics from RWTH Aachen University, Germany. Their research interests encompass multilingual computer-assisted language learning and inclusive education in the EFL classroom.
+Jules Buendgens-Kosten is a postdoctoral researcher at Goethe University Frankfurt. They hold an MA in Online and Distance Education from the Open University, UK, and a doctorate degree in English Linguistics from RWTH Aachen University, Germany. Their research interests encompass multilingual computer-assisted language learning and inclusive education in the EFL classroom.
 
 ## 🧪 Research connections
-
-- [Orcid](https://orcid.org/0000-0001-6619-4459)
-- [ResearchGate](https://www.researchgate.net/profile/Judith-Buendgens-Kosten)
+- [ResearchGate](https://www.researchgate.net/profile/J-Buendgens-Kosten)
 
 
 
 ## 💬 Social connections
 
-- [Twitter](twitter.com/JudithBK)
+- [Twitter](https://twitter.com/BuendgensKosten)

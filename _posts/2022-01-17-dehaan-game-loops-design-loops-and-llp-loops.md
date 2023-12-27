@@ -48,7 +48,7 @@ sharing: true
 ## Metadata
 
 - **Authors:** [Jonathan deHaan]({% post_url 2019-03-28-jonathan-dehaan %})
-- **Reviewed by:** Daisy Abbot, [Judith Buendgens-Kosten]({% post_url 2021-09-16-judith-buendgens-kosten %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), Paul Horness.
+- **Reviewed by:** Daisy Abbot, [Jules Buendgens-Kosten]({% post_url 2021-09-16-jules-buendgens-kosten %}), [D.M. Jones]({% post_url 2019-03-28-dm-jones %}), Paul Horness.
 - **Volume and page numbers:** 4 (p. 1 – 13)
 - **Date of publication:** 2022/01/17
 - **Keywords:** Game design, Game loops, Iteration, Keep It Super Simple, Methods, Materials, Mediation, Pedagogy, Playtesting, Reflective questions.

@@ -21,7 +21,7 @@ tags:
 - meriam el houari
 - jason minh trakis 
 - julia aroha weber 
-- judith buendgens-kosten
+- jules buendgens-kosten
 key: judith-break-out-walkthrough
 show_title: false
 pageview: true
@@ -39,7 +39,7 @@ sharing: true
 <meta name="citation_author" content="El Houari, Meriam">
 <meta name="citation_author" content="Trakis, Jason Minh">
 <meta name="citation_author" content="Weber, Julia Aroha">
-<meta name="citation_author" content="Buendgens-Kosten, Judith">
+<meta name="citation_author" content="Buendgens-Kosten, Jules">
 <meta name="citation_publication_date" content="2021/02/08">
 <meta name="citation_journal_title" content="Ludic Language Pedagogy">
 <meta name="citation_volume" content="3">
@@ -55,7 +55,7 @@ sharing: true
 
 ## Metadata
 
-- **Authors:** Coleen Cheryl Bradford, Vanessa Brown, Meriam El Houari, Jason Minh Trakis, Julia Aroha Weber, Judith Buendgens-Kosten
+- **Authors:** Coleen Cheryl Bradford, Vanessa Brown, Meriam El Houari, Jason Minh Trakis, Julia Aroha Weber, Jules Buendgens-Kosten
 - **Reviewed by:** [Marc Jones]({% post_url 2020-04-21-marc-jones %}), [Stamatia Savvani]({% post_url 2020-09-17-stamatia-savvani %}), [Adam Sheard]({% post_url 2020-08-08-adam-sheard %})
 - **Volume and page numbers:** 3 (p. 1 – 20)
 - **Date of publication:** 2021/02/08
