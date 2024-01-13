@@ -51,6 +51,22 @@ LLP operates under a CC-BY-NC-ND license. Authors maintain the copyright of thei
 
 LLP is an open access journal which means that all content is freely available without charge to the user or his/her institution. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles, or use them for any other lawful purpose, without asking prior permission from the publisher or the author. This is in accordance with the BOAI definition of open access. 
 
+# Policy on Author Name Changes
+
+At LLP, we promote an inclusive and respectful academic environment. Recognizing the importance of identity and acknowledging that individuals may undergo name changes for various reasons, including gender identity affirmation, we have established the following policy regarding author name changes.
+
+**Name Change Requests:**
+
+Authors who wish to change their names after submitting a manuscript for publication in LLP may request a name change. This request should be made by emailing the editorial team at contact@llpjournal.org.
+
+**Consideration of Requests:**
+
+All name change requests will be handled with sensitivity and respect. The editorial team will consider and approve reasonable name change requests, recognizing the diverse reasons authors may have for making such requests.
+
+**Confidentiality:**
+
+All name change requests will be treated confidentially. The editorial team will not disclose the reason for the name change unless the author explicitly requests otherwise.
+
 # Other information
 
 - LLP does not mandate word counts.
