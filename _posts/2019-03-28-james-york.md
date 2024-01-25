@@ -49,7 +49,7 @@ James is a senior assistant professor at Meiji University where he teaches and c
 - [Orcid](https://orcid.org/0000-0003-1667-7107)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=Wqi7k0wAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/James_York3/)
-- [Academia.edu](https://dendai.academia.edu/JamesYork)
+- [Academia.edu](https://sauvage.academia.edu/JamesYork)
 
 ## 💬 Social connections
 
