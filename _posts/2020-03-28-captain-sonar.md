@@ -41,6 +41,7 @@ aside:
 - **Peer-reviewed:** ❌
 - **Date of publication:** 2020/04/07
 - **Keywords:** *Step-by-step, Lesson plan, Captain Sonar, Kotoba Rollers, Board game, English, Speaking, CLT, TBLT, Task-repetition*
+- **Cite:** York, J. (2020).Teaching English communication skills with the board game Captain Sonar. *Ludic Language Pedagogy*(2). 1-11. [https://doi.org/10.55853/llp_v2Pg13](https://doi.org/10.55853/llp_v2Pg13) 
 
 ## Tweet Synopsis 
 
