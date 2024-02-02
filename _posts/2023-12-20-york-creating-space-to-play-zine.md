@@ -56,7 +56,7 @@ sharing: true
 - **Volume and page numbers:** 5 (p. 89-99)
 - **Date of publication:** 2023/12/20
 - **Keywords:** SPACE, play, pedagogy, zine, constraints, safe, participation, agency, critical, experiences.
-- **Cite:** York, J. (2023). Creating SPACE to play in your classroom (An LLP zine). *Ludic Language Pedagogy*, *5*, 89-99.
+- **Cite:** York, J. (2023). Creating SPACE to play in your classroom (An LLP zine). *Ludic Language Pedagogy*, *5*, 89-99. [https://doi.org/10.55853/llp_v5Pg2](https://doi.org/10.55853/llp_v5Pg2)
 
 ## Download
 
