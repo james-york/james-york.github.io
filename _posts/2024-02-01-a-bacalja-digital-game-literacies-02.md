@@ -52,7 +52,7 @@ sharing: true
 - **Volume and page numbers:** 6 (p. 1 – 20)
 - **Date of publication:** 2024/2/1
 - **Keywords:** Digital games, Curriculum Inquiry, Pedagogy, Schooling, L1 English, Literacies.
-- **Cite:** Bacalja, A., Nash, B., Clutton M., De Kruiff, J., & White, B. (2024). Designing Game-Centred Curricula: A Critical Inquiry. *Ludic Language Pedagogy*, 6, 1-20.
+- **Cite:** Bacalja, A., Nash, B., Clutton M., De Kruiff, J., & White, B. (2024). Designing Game-Centred Curricula: A Critical Inquiry. *Ludic Language Pedagogy*, 6, 1-20. [https://doi.org/10.55853/llp_V5Art3](https://doi.org/10.55853/llp_V5Art3)
 
 ## Download
 
