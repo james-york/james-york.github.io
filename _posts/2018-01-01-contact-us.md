@@ -14,7 +14,79 @@ aside:
 
 LLP is a non-profit project to bring together people and conversations around how best to integrate games and play into language teaching and learning.
 
+# 🆕 LLP Membership
+
+## Become a member
+
+You can become a member by filling out the following form:
+
+<a class="button button--action button--rounded button--lg" href="https://forms.gle/mWYHU1Q7R1PRmyth8"><i class="fas fa-file-download"></i> 👉 Become a member! 👥 </a>
+
+### Reason 1
+
+We are aiming to get LLP registered as an "official" academic society in Japan. This means we need 100 members! Help us get there by signing up.
+
+### Reason 2
+
+Expenses are mostly for DOIs (Crossref charges us to have them), as well as server upkeep. This is not sustainable, and one of the reasons we want to do a push for the community to support this. We want to start a membership program for LLP and are able to support ourselves financially. 
+
+Want to know more about our plans? Check this [Google document](https://docs.google.com/document/d/1i4GDrCrZb0Nv3PMI6negjnIgO7kTTn-RlYVcrCY16Nw/edit?usp=sharing).
+
+## What do members get?
+
+- The privilege of being part of the most edupunk organization in the world - Ludic Language Pedagogy.
+- Add professional affiliation and experience to your resume.
+- Eligibility to vote in officer elections. 
+- Run for officer positions.
+- Member-only meet-up after the annual conference.
+- Eligibility to compete for Best Paper Award.
+- Eligibility to compete for Best Educational Game Award.
+- Eligibility to compete for Best Reviewer Award
+- Eligibility to compete for Best Community Member
+- Eligibility to apply for the LLP Scholarship.
+- PETSCII profile pic (optional).
+- Place in the Hall of Fame.
+
+Other buffs based on tier level 👇
+
+<table>
+<thead>
+  <tr>
+    <th>TIER</th>
+    <th>Price per year</th>
+    <th>Additional rewards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>🟢 UNCOMMON</td>
+    <td>Free</td>
+    <td>Digital membership certificate</td>
+  </tr>
+  <tr>
+    <td>🔵 RARE</td>
+    <td>$10</td>
+    <td>LLP-stamped membership certificate. Discount registration rates for our conferences and other events.. <br>10% Discount on LLP merch </td>
+  </tr>
+  <tr>
+    <td>🟣 EPIC</td>
+    <td>$50</td>
+    <td>LLP-stamped membership certificate<br>Discount registration rates for our conferences and other events.<br>Limited Edition LLP Sticker<br>25% Discount on LLP merch </td>
+  </tr>
+  <tr>
+    <td>🟠 LEGENDARY</td>
+    <td>$100</td>
+    <td>LLP-stamped membership certificate<br>Discount registration rates for our conferences and other events.<br>Limited Edition LLP Sticker<br>Legendary tag on Discord<br>50% Discount on LLP merch </td>
+  </tr>
+</tbody>
+</table>
+
+Merchandise includes stickers, t-shirts and hoodies. [Visit the store for more info!](https://ko-fi.com/llpjournal)
+
+
 # 📰 Newsletter
+
+We send out a monthly newsletter with updates from the community. Sign up here:
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
