@@ -28,16 +28,18 @@ MA student at ICU Graduate School of Education and Psychology
 
 Email: [fabiospanox@gmail.com](mailto:fabiospanox@gmail.com)
 
-- **Ludic keywords**: *D&D, Pathfinder, RPG, turn-based strategy, GMing, video-games, basketball*
-- **Language keywords**: *English, Japanese*
-- **Pedagogy keywords**: *Teacher roles, teacher agency in GBL, GBLT, game-based teaching, TBLT*
+- **Ludic keywords**: *D&D. TTRPG, turn-based, GMing, video-games, basketball, Japanese drums.*
+- **Language keywords**: *Italian, English, Japanese, Sardinian*
+- **Pedagogy keywords**: *Teacher agency, Instructional design, design of games for education, AI in games for education, GBLT, LLP, TBLT*
 
 <!--more-->
 
 ## 👨‍🏫 Profile
 
-My main area of interest is game-based language teaching (GBLT) with a big stress on the T. Like the other fellows here on LLP I am trying to fight the misconceptions that games are easy-to-use teaching shortcuts. I am currently researching teacher agency in game-based classes and trying to create new ways to make pedagogically solid ludic teaching solutions involving games which are accessible to teachers with low game literacy.
+Having learned English with games myself I have become obsessed (the good kind of obsesses) to give my students a similar awesome experience. After clashing with the disappointment in CALL I started repurposing social deduction games to teach English to in a junior high school in Japan. It was so amazing that I just could not stop there and started an education MA, culminating with my thesis: “Co-designing a Game-Based Language Teaching Framework: Analysis of the Teacher’s Perspectives and the Effects on Students’ Motivation and Learning Outcome”.
+It was so good I just could not stop there x2. In my Ph.D. studies, I am now exploring the design of games in education more in-depth. Applying instructional design theories and practices and paying particular attention to how AI features are being used in the design of games for learning.
 
 ## 🧪 Research connections
 
-- [Academia](https://independent.academia.edu/FabioSpano)
+- [Research Gate]( https://www.researchgate.net/profile/Fabio-Spano-3)
+- [ORCID](https://orcid.org/0000-0003-2928-3748)
