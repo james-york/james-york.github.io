@@ -24,7 +24,7 @@ sharing: false
   </div>
 </div>
 
-MA student at ICU Graduate School of Education and Psychology
+Ph.D. Student in Education at International Christian University in Tokyo
 
 Email: [fabiospanox@gmail.com](mailto:fabiospanox@gmail.com)
 
