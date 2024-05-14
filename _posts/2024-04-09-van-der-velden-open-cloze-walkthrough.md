@@ -46,7 +46,7 @@ sharing: true
 
 ## Metadata
 
-- **Author:** Monika van der Velden
+- **Author:** [Monika van der Velden]({% post_url 2024-04-18-monika-van-der-velden %})
 - **Reviewed by:** [Martin Sedaghat]({% post_url 2023-02-21-martin-sedaghat %}), [Abdulsamad Humaidan
 ]({% post_url 2020-04-21-abdulsamad-humaidan %})
 - **Volume and page numbers:** 6 (p. 21 – 43)
