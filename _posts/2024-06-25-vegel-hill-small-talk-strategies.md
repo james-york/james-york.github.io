@@ -49,7 +49,7 @@ sharing: true
 
 ## Metadata
 
-- **Author:** [Anton Vegel]({% post_url 2022-02-17-anton-vegel %}), Richard Hill
+- **Author:** [Anton Vegel]({% post_url 2022-02-17-anton-vegel %}), [Richard Hill]({% post_url 2024-06-25-richard-hill %})
 - **Reviewed by:** [Fred Poole]({% post_url 2019-03-28-fred-poole %}), [Jules Buendgens-Kosten]({% post_url 2021-09-16-jules-buendgens-kosten %})
 - **Volume and page numbers:** 6 (p. 44 – 65)
 - **Date of publication:** 2024/06/25
