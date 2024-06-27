@@ -12,30 +12,22 @@ aside:
   toc: true
 ---
 
-LLP is a non-profit project to bring together people and conversations around how best to integrate games and play into language teaching and learning.
+LLP is a non-profit organization to bring together people and create conversations around how best to integrate games and play into language teaching and learning.
 
 # 🆕 LLP Membership
 
-## Reason 1
-
-We are aiming to get LLP registered as an "official" academic society in Japan. This means we need 100 members! Help us get there by signing up.
-
-## Reason 2
-
-Expenses are mostly for DOIs (Crossref charges us to have them), as well as server upkeep. This is not sustainable, and one of the reasons we want to do a push for the community to support this. We want to start a membership program for LLP and are able to support ourselves financially. 
-
 ## Become a member
 
-Membership costs are shown in the table below.
+You can be come a member at the following link:
 
-We have two types of membership
+<a class="button button--action button--rounded button--lg" href="https://forms.gle/mWYHU1Q7R1PRmyth8"><i class="fas fa-file-download"></i> 👉 Become a member! 👥 </a>
+
+We have two types of membership, both of which can be applied for with the above form ☝️
 
 - **Monthly subscriptions** -- on [ko-fi](https://ko-fi.com/llpjournal)
   - Perks can be found on the ko-fi page.
 - **Yearly subscriptions** -- paid by PayPal ([email us](mailto:contact@llpjournal.org))
   - You will be issued an invoice and receipt by James York, editor in chief.
-
-Also, please do not forget to fill out the following form: <a class="button button--action button--rounded button--lg" href="https://forms.gle/mWYHU1Q7R1PRmyth8"><i class="fas fa-file-download"></i> 👉 Become a member! 👥 </a>
 
 ## What do members get?
 
@@ -87,6 +79,16 @@ Also, please do not forget to fill out the following form: <a class="button butt
 </table>
 
 Merchandise includes stickers, t-shirts and hoodies. [Visit the store for more info!](https://ko-fi.com/llpjournal)
+
+## Why become a member?
+
+### Reason 1
+
+We are aiming to get LLP registered as an "official" academic society in Japan. This means we need 100 members! Help us get there by signing up.
+
+### Reason 2
+
+Expenses are mostly for DOIs (Crossref charges us to have them), as well as server upkeep. This is not sustainable, and one of the reasons we want to do a push for the community to support this. We want to start a membership program for LLP and are able to support ourselves financially. 
 
 
 # 📰 Newsletter
