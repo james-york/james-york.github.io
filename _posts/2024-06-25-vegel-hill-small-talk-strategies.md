@@ -59,6 +59,11 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/vegel-hill-small-talk-strategies-card-game.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
 
+## Compendium materials
+
+Anton and Richard have made their game available as a free downloadable resource. Please check the following website:
+[https://sites.google.com/view/smalltalkcardgame/small-talk-strategies-card-game](https://sites.google.com/view/smalltalkcardgame/small-talk-strategies-card-game).
+
 ## Key Points
 
 - **Background**: EFL contexts require instructors to create opportunities for natural or improvised communication which can reflect ‘real world’ conversations.
