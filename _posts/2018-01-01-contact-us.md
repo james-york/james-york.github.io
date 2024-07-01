@@ -11,8 +11,20 @@ sidebar:
 aside:
   toc: true
 ---
+# Contact Us
 
 LLP is a non-profit organization to bring together people and create conversations around how best to integrate games and play into language teaching and learning.
+
+## 🏢 Address
+
+Meiji University
+1-9-1 Eifuku, Suginami-ku, Tokyo 168-8555
+TEL : +81-3-5300-1121 (operator)
+
+## 📧 Email
+
+[contact@llpjournal.org](mailto:contact@llpjournal.org)
+
 
 # 🆕 LLP Membership
 
@@ -124,15 +136,3 @@ We send out a monthly newsletter with updates from the community. Sign up here:
 </div>
 
 <!--End mc_embed_signup-->
-
-# Contact Us
-
-## 🏢 Address
-
-Meiji University
-1-9-1 Eifuku, Suginami-ku, Tokyo 168-8555
-TEL : +81-3-5300-1121(operator)
-
-## 📧 Email
-
-[contact@llpjournal.org](mailto:contact@llpjournal.org)
