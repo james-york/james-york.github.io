@@ -74,17 +74,17 @@ We have two types of membership, both of which can be applied for with the above
   </tr>
   <tr>
     <td>🔵 RARE</td>
-    <td>$10</td>
-    <td>LLP-stamped membership certificate. Discount registration rates for our conferences and other events.. <br>10% Discount on LLP merch </td>
+    <td>$60</td>
+    <td>LLP-stamped membership certificate. Discount registration rates for our conferences and other events. <br>10% Discount on LLP merch </td>
   </tr>
   <tr>
     <td>🟣 EPIC</td>
-    <td>$50</td>
+    <td>$100</td>
     <td>LLP-stamped membership certificate<br>Discount registration rates for our conferences and other events.<br>Limited Edition LLP Sticker<br>25% Discount on LLP merch </td>
   </tr>
   <tr>
     <td>🟠 LEGENDARY</td>
-    <td>$100</td>
+    <td>$240</td>
     <td>LLP-stamped membership certificate<br>Discount registration rates for our conferences and other events.<br>Limited Edition LLP Sticker<br>Legendary tag on Discord<br>50% Discount on LLP merch </td>
   </tr>
 </tbody>

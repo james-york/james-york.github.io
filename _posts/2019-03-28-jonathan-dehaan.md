@@ -5,6 +5,7 @@ tags:
 - editor
 - author
 - reviewer
+- member-epic
 key: jonathan-dehaan-profile
 show_title: false
 pageview: true

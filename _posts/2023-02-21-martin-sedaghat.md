@@ -4,6 +4,7 @@ title: Martin Sedaghat
 tags:
 - reviewer
 - board
+- member-rare
 key: martin-sedaghat
 show_title: false
 pageview: true
