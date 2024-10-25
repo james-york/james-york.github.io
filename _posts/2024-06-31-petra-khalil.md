@@ -32,8 +32,7 @@ Email: [petra [at] italianoconpetra.com](mailto:petra@italianoconpetra.com)
 
 ## 👨‍🏫 Profile
 
-Petra is a certified teacher of Italian as a second language with 9 years of experience, working for various institutions and individuals. She has a bachelor's degree in Languages from Sapienza Università di Roma and holds DITALS II certification. She is currently writing her Master's thesis — which is about designing a videogame-based Italian L2 course with a task-based language teaching approach — at Università degli Studi Roma Tre. She is also working on the creation of an educational offer that includes Italian L2 courses based on videogames, role-playing games and board games.
-
+Petra Khalil is a certified teacher of Italian as a second and foreign language with 9 years of experience, working for various institutions and individuals. She has a bachelor's degree in Languages, cultures, literatures and translation from Sapienza Università di Roma, and a master's degree in Teaching Italian as a Second Language from Università degli Studi Roma Tre. She holds DITALS I and DITALS II certifications. Her master's thesis dealt with the design of an Italian L2 course based on a commercial videogame, with a task-based language teaching approach. She is now working on the creation of an educational offer that includes Italian L2 courses based on tabletop role-playing games, board games and videogames.
 
 ## 💬 Social connections
 
