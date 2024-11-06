@@ -51,7 +51,6 @@ sharing: true
 - **Volume and page numbers:** 6 (p. 94 – 107)
 - **Date of publication:** 2024/11/05
 - **Keywords:** Tabletop games, Task-based, Socio-cognitive, Collaborative dialogues, Language Related Episodes
-
 - **Cite:** 
 
 > Reid, R. (2024). An investigation of the language learning opportunities in collaborative dialogues during tabletop game play. *Ludic Language Pedagogy*, *6*, 94-107.
