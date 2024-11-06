@@ -5,12 +5,14 @@ source "https://rubygems.org"
 # gem 'jekyll-archives'
 
 
-gem 'jekyll-feed'
+gem 'jekyll-feed', '~> 0.17.0'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jemoji'
 gem 'jekyll-twitter-plugin'
 gemspec
+
+gem 'eventmachine'
 
 gem "jekyll", "~> 4.1"
 

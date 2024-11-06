@@ -19,9 +19,9 @@ sharing: false
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="/assets/images/Cheap-Profile-PETSCII.jpg"/>
+    <img class="image" src="/assets/images/james-york-profile-p8.png"/>
     <div class="overlay overlay--bottom">
-      <p>Lecturer, Meiji University</p>
+      <p>Senior Assistant Professor, Meiji University</p>
     </div>
   </div>
 </div>
@@ -38,11 +38,10 @@ Email: [york@meiji.ac.jp](mailto:york@meiji.ac.jp)
 
 James is a senior assistant professor at Meiji University where he teaches and conducts research on the application of games and play in language and literacy teaching. He is currently exploring projects in the following areas:
 
-- Teaching cyberpragmatics through analysis and participation in Reddit communities.
-- "Doing things with games and play" (Having a societal impact with game design).
-- The language of games and play (genre analysis, game literacy, learning about the games industry).
-- A PBL class focused on the SDGs.
+- The [York Game Lab](https://www.yorkgamelab.com/) -- his seminar class which is focused on creating educational games for a variety of clients.
 - A task-based language teaching approach to learning English communication skills with board and video games. 
+- The history of video games.
+
 
 ## 🧪 Research connections
 
