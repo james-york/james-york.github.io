@@ -52,7 +52,7 @@ sharing: true
 - **Volume and page numbers:** 6 (p. 21 – 43)
 - **Date of publication:** 2024/04/09
 - **Keywords:** Linguaskill, Ludic Language Pedagogy, Open cloze, SLA, Test preparation
-- **Cite:** van der Velden, M. (2024). Cambridge Linguaskill preparation: teaching “open cloze” questions with ludic activities. *Ludic Language Pedagogy*, *6*, 21-43.
+- **Cite:** van der Velden, M. (2024). Cambridge Linguaskill preparation: teaching “open cloze” questions with ludic activities. *Ludic Language Pedagogy*, *6*, 21-43. [https://doi.org/10.55853/llp_v6Wt1](https://doi.org/10.55853/llp_v6Wt1) 
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/van-der-Velden-walkthrough-open-cloze-tasks.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
