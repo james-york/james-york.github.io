@@ -55,7 +55,7 @@ sharing: true
 - **Keywords:** Board Games, Card Games, Gamemaster, Ludic, Language, Pedagogy
 - **Cite:** 
 
-> Reed, J. (2024). Sitting in the Gamemaster’s chair. *Ludic Language Pedagogy*, *6*, 108-122.
+> Reed, J. (2024). Sitting in the Gamemaster’s chair. *Ludic Language Pedagogy*, *6*, 108-122. [https://doi.org/10.55853/llp_v6Pg1](https://doi.org/10.55853/llp_v6Pg1)
 
 ## Download
 
