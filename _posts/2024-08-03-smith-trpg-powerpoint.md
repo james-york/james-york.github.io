@@ -54,7 +54,7 @@ sharing: true
 - **Keywords:** Tabletop Games, Dungeons and Dragons, EFL Education, Creative Thinking, PowerPoint 
 - **Cite:** 
 
-> Smith, E. (2024). Dungeons and Dragons meet PowerPoint: an interactive ICT tabletop experience for EFL learners. *Ludic Language Pedagogy*, *6*, 66-93.
+> Smith, E. (2024). Dungeons and Dragons meet PowerPoint: an interactive ICT tabletop experience for EFL learners. *Ludic Language Pedagogy*, *6*, 66-93. [https://doi.org/10.55853/llp_v6Wt2](https://doi.org/10.55853/llp_v6Wt2)
 
 ## Download
 
