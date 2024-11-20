@@ -30,12 +30,14 @@ docs-en:
   children:
   - title: Home
     url: /about.html
-  - title: Mission
+  - title: About LLP
     url: /2018/01/01/llp-mission.html
   - title: Inclusivity Statement
     url: /2020/06/23/llp-inclusivity-statement.html
   - title: People
     url: /2018/01/24/people.html
+  - title: 🎟️ Membership
+    url: /2024/01/01/membership
 
 - title: Content
   children:
