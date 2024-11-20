@@ -54,7 +54,7 @@ sharing: true
 - **Volume and page numbers:** 6 (p. 44 – 65)
 - **Date of publication:** 2024/06/25
 - **Keywords:** Communicative competence, Game affordances, Game development, GBLT, Interaction, Playtesting, Small talk, Spontaneously spoken speech
-- **Cite:** Vegel, A. & Hill, R. (2024). Small talk strategies card game for English language learners: Development and future directions. *Ludic Language Pedagogy*, *6*, 44-65.
+- **Cite:** Vegel, A. & Hill, R. (2024). Small talk strategies card game for English language learners: Development and future directions. *Ludic Language Pedagogy*, *6*, 44-65. [https://doi.org/10.55853/llp_v6Ar1](https://doi.org/10.55853/llp_v6Ar1)
 ## Download
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/vegel-hill-small-talk-strategies-card-game.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
