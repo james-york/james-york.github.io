@@ -10,6 +10,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jemoji'
 gem 'jekyll-twitter-plugin'
+gem 'csv'
 gemspec
 
 gem 'eventmachine'
