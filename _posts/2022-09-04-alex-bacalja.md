@@ -3,6 +3,7 @@ layout: article
 title: Alex Bacalja
 tags:
 - reviewer
+- author
 key: alex-bacalja
 show_title: false
 pageview: true
