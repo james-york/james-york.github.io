@@ -58,7 +58,7 @@ sharing: true
 
 - **Cite:** 
 
-> Raza, F. & Asad, A. (2025). Designing game-based L2 courses for university-level learners. *Ludic Language Pedagogy*, *7*, 17-41.
+> Raza, F. & Asad, A. (2025). Designing game-based L2 courses for university-level learners. *Ludic Language Pedagogy*, *7*, 17-41. [	https://doi.org/10.55853/llp_v7Ar1](https://doi.org/10.55853/llp_v7Ar1)
 
 ## Download
 
