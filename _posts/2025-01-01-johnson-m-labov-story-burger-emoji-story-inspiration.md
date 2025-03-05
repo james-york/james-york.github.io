@@ -55,7 +55,7 @@ sharing: true
 - **Keywords:** community of practice, EFL, emoji, materials design, oral storytelling, visual aids
 - **Cite:** 
 
-> Johnson, M. (2025). Labov’s Story Burger and Emoji Story Inspiration. *Ludic Language Pedagogy*, *7*, 1-16.
+> Johnson, M. (2025). Labov’s Story Burger and Emoji Story Inspiration. *Ludic Language Pedagogy*, *7*, 1-16. [https://doi.org/10.55853/v7Pg1](https://doi.org/10.55853/v7Pg1)
 
 ## Download
 
