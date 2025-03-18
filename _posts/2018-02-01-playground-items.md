@@ -26,7 +26,7 @@ The LLP Playground is full of amazing teaching and research items which can be s
   {% if post.tags contains 'playground' %}
   <li>
   <a href="{{ post.url }}">
-    <p><b>{{ post.title }}</b></p></a>
+    <b>{{ post.title }}</b></a>
     <p>Published: {{ post.date | date_to_string }}</p> 
   </li>
   {% endif %}
