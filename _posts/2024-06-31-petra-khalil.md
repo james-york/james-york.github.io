@@ -24,15 +24,15 @@ sharing: false
 <p>Università degli Studi Roma Tre</p>
 Email: [petra [at] italianoconpetra.com](mailto:petra@italianoconpetra.com)
 
-- **Ludic keywords**: *board games, videogames, tabletop role-playing games*
-- **Language keywords**: *Italian L2*
-- **Pedagogy keywords**: *task-based language teaching*
+- **Ludic keywords**: *board games, tabletop role-playing games, traditional Italian games, videogames*
+- **Language keywords**: *Italian L2/FL*
+- **Pedagogy keywords**: *Task-based language teaching, Dogme language teaching, Pedagogy of multiliteracies*
 
 <!--more-->
 
 ## 👨‍🏫 Profile
 
-Petra Khalil is a certified teacher of Italian as a second and foreign language with 9 years of experience, working for various institutions and individuals. She has a bachelor's degree in Languages, cultures, literatures and translation from Sapienza Università di Roma, and a master's degree in Teaching Italian as a Second Language from Università degli Studi Roma Tre. She holds DITALS I and DITALS II certifications. Her master's thesis dealt with the design of an Italian L2 course based on a commercial videogame, with a task-based language teaching approach. She is now working on the creation of an educational offer that includes Italian L2 courses based on tabletop role-playing games, board games and videogames.
+Petra Khalil is a certified (DITALS I, DITALS II) teacher of Italian as a second and foreign language with 10 years of experience, working for various institutions and individuals. She has a Bachelor’s degree in Languages, Cultures, Literatures and Translation from Sapienza Università di Roma, and a Master’s degree in Teaching Italian as a Second Language from Università degli Studi Roma Tre. She is now working on the creation of an educational offer that includes Italian L2/FL courses based on traditional Italian games, tabletop role-playing games, board games and videogames.
 
 ## 💬 Social connections
 
