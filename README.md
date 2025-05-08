@@ -21,7 +21,7 @@ Keywords such as but not limited to: curriculum, goals, student needs and differ
 
 
 # 📫  Have a question? Want to chat? Ran into a problem?
-Get in touch with us on [Slack](https://bit.ly/llpslack) or message us directly: [contact@llpjournal.org](mailto:contact@llpjournal.org)
+Get in touch with us on [Discord](https://discord.gg/je9QZsnntf) or message us directly: [contact@llpjournal.org](mailto:contact@llpjournal.org)
 
 # 📘  License
 Ludic Languaege Pedagogy items are released under the under terms of the MIT License unless otherwise stated.
