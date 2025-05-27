@@ -10,6 +10,7 @@ key: rob-mccollum
 role: editor-in-chief
 institution: Southern Utah University
 country: USA
+key: rob-mccollum
 show_title: false
 pageview: true
 sidebar:

@@ -5,9 +5,12 @@ tags:
 - author
 - board
 key: jules-bk
+<<<<<<< HEAD
 institution: Goethe University Frankfurt
 country: Germany
 role: board
+=======
+>>>>>>> 6af69f6cbcd8c060448831aed5ae1ffe7a862902
 show_title: false
 pageview: true
 sidebar:
