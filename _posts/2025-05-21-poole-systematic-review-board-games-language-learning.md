@@ -53,7 +53,7 @@ sharing: true
 - **Keywords:** Board games, Ludic language pedagogy, Systematic review
 - **Cite:** 
 
-> Poole, F. (2025). A systematic review of board games used in language learning contexts. *Ludic Language Pedagogy*, *7*, 53-65.
+> Poole, F. (2025). A systematic review of board games used in language learning contexts. *Ludic Language Pedagogy*, *7*, 53-65. [https://doi.org/10.55853/llp_v7Ar2](https://doi.org/10.55853/llp_v7Ar2)
 
 ## Download
 
