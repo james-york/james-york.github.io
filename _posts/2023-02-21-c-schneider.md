@@ -5,6 +5,8 @@ tags:
 - reviewer
 - author
 key: chris-schneider
+institution: Korea University Seoul
+country: South Korea
 show_title: false
 pageview: true
 sidebar:

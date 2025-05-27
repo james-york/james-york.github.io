@@ -5,6 +5,8 @@ tags:
 - previous reviewer
 - author
 key: peter-hourdequin
+institution: Tokoha University
+country: Japan
 show_title: false
 pageview: true
 sidebar:

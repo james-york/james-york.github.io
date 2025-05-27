@@ -4,6 +4,8 @@ title: Kazuna Furusawa
 tags:
 - author
 key: kazuna-furusawa
+institution: University of Shizuoka
+country: Japan
 show_title: false
 pageview: true
 sidebar:

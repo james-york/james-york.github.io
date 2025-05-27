@@ -5,6 +5,8 @@ tags:
 - author
 - previous reviewer
 key: beatrice-hughes
+institution: University of Gloustershire
+country: UK
 show_title: false
 pageview: true
 sidebar:

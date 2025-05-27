@@ -4,6 +4,8 @@ title: Vita V. Kogan
 tags:
 - reviewer
 key: vita-kogan
+institution: Middlebury Institute of International Studies
+country: USA
 show_title: false
 pageview: true
 sidebar:

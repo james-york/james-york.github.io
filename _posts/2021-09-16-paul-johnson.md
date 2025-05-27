@@ -5,6 +5,8 @@ tags:
 - reviewer
 - author
 key: paul-johnson
+institution: University of Wellington
+country: New Zealand
 show_title: false
 pageview: true
 sidebar:

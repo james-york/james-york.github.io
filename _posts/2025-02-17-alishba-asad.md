@@ -5,6 +5,8 @@ tags:
 - member-common
 - author
 key: alishba-asad
+institution: University of St Andrews
+country: UK
 show_title: false
 pageview: true
 sidebar:

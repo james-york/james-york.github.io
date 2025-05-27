@@ -5,6 +5,8 @@ tags:
 - reviewer
 - author
 key: fabio-spano
+institution: International Christian University
+country: Japan
 show_title: false
 pageview: true
 sidebar:

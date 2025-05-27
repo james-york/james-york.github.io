@@ -4,6 +4,8 @@ title: Abdulsamad Humaidan
 tags:
 - reviewer
 key: abdulsamad-humaidan
+institution: University of Illinois Urbana-Champaign
+country: USA
 show_title: false
 pageview: true
 sidebar:
@@ -19,7 +21,7 @@ sharing: false
   <div class="card__image">
     <img class="image" src="/assets/images/AbdulsamadHumaidan.jpg"/>
     <div class="overlay overlay--bottom">
-      <p>Doctoral Candidate and ESL Instructor</p>
+      <p>University of Illinois Urbana-Champaign</p>
     </div>
   </div>
 </div>	

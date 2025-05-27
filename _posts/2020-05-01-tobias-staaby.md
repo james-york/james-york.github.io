@@ -3,6 +3,8 @@ layout: article
 title: Tobias Staaby
 tags:
 key: tobias-staaby
+institution: Western Norway University
+country: Norway
 show_title: false
 pageview: true
 sidebar:

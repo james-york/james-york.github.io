@@ -4,6 +4,8 @@ title: Petra Khalil
 tags:
 - member-rare
 key: petra-khalil
+institution: --
+country: Italy
 show_title: false
 pageview: true
 sidebar:

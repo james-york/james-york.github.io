@@ -4,6 +4,8 @@ title: Sophia Al-Khanfar
 tags:
 - author
 key: sophia-al-khanfar
+institution: Colfax-Mingo High School
+country: USA
 show_title: false
 pageview: true
 sidebar:

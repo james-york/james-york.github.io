@@ -6,6 +6,8 @@ tags:
 - author
 - reviewer
 key: travis-compton
+institution: Kansai Gaidai University
+country: Japan
 show_title: false
 pageview: true
 sidebar:

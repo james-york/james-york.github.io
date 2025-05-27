@@ -4,6 +4,8 @@ title: Chris McNutt
 tags:
 - member-rare
 key: chris-mcnutt
+institution: Human Restoration Project
+country: USA
 show_title: false
 pageview: true
 sidebar:

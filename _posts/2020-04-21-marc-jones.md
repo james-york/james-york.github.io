@@ -4,6 +4,8 @@ title: Marc Jones
 tags:
 - reviewer
 key: marc-jones
+institution: --
+country: Japan
 show_title: false
 pageview: true
 sidebar:

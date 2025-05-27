@@ -4,6 +4,8 @@ title: James Erekson
 tags:
 - reviewer
 key: james-erekson
+institution: University of Northern Colorado
+country: USA
 show_title: false
 pageview: true
 sidebar:

@@ -4,6 +4,8 @@ title: Stamatia Savvani
 tags:
 - reviewer
 key: stamatia-savvani
+institution: University of Essex
+country: UK
 show_title: false
 pageview: true
 sidebar:

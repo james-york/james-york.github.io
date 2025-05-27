@@ -5,6 +5,8 @@ tags:
 - author
 - previous reviewer
 key: terry-fredrickson
+institution: --
+country: Thailand
 show_title: false
 pageview: true
 sidebar:

@@ -5,6 +5,8 @@ tags:
 - reviewer
 key: brandon-essary-review
 show_title: false
+institution: Elon University
+country: USA
 pageview: true
 sidebar:
   nav: docs-en

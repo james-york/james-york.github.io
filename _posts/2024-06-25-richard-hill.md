@@ -4,6 +4,8 @@ title: Richard Hill
 tags:
 - author
 key: richard-page
+institution: Mie University
+country: Japan
 show_title: false
 pageview: true
 sidebar:

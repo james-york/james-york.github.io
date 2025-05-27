@@ -5,6 +5,8 @@ tags:
 - member-common
 - author
 key: fasih-raza
+institution: Texas State University
+country: USA
 show_title: false
 pageview: true
 sidebar:

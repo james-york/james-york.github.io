@@ -4,6 +4,8 @@ title: Shi Haoting
 tags:
 - reviewer
 key: shi-haoting
+institution: --
+country: --
 show_title: false
 pageview: true
 sidebar:
