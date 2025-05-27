@@ -53,7 +53,7 @@ sharing: true
 - **Keywords:** Reading, Extensive Reading, Video Games, RPGs, Digital Game-based Learning
 - **Cite:** 
 
-> Compton, T. (2025). Extensive RPGing? An evaluation of RPG video games for use in extensive reading. *Ludic Language Pedagogy*, *7*, 42-52.
+> Compton, T. (2025). Extensive RPGing? An evaluation of RPG video games for use in extensive reading. *Ludic Language Pedagogy*, *7*, 42-52. [https://doi.org/10.55853/llp_v7Pg2](https://doi.org/10.55853/llp_v7Pg2)
 
 ## Download
 
