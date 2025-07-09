@@ -21,14 +21,14 @@ sharing: false
   <div class="card__image">
     <img class="image" src="/assets/images/Brandon-Essary.png"/>
     <div class="overlay overlay--bottom">
-      <p>Associate Professor of Italian at Elon University</p>
+      <p>Professor of Italian at Elon University</p>
     </div>
   </div>
 </div>
 
 Email: [dbessary@elon.edu](mailto:bessary@elon.edu)
 
-- **Ludic keywords**: *Video Games, Nintendo Switch, PlayStation 4, Xbox One, games with complex narratives that demonstrate literary elements, game-based learning, gameful learning*
+- **Ludic keywords**: *Video Games, Nintendo, PlayStation, Xbox, games with complex narratives that demonstrate literary elements, game-based learning, gameful learning*
 - **Language keywords**: *Italian, Romance languages*
 - **Pedagogy keywords**: *SoTL, teaching language, culture, and literature with video games, medieval literature, space theory, sacred and profane theory*
 
