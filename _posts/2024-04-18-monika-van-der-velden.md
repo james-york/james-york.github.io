@@ -4,7 +4,7 @@ title: Monika van der Velden
 tags:
 - author
 key: monika-page
-institution: Univesrity of Technology of Troyes
+institution: University of Technology of Troyes
 country: France
 show_title: false
 pageview: true
