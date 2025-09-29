@@ -5,7 +5,7 @@ tags:
 - reviewer
 - author
 key: paul-johnson
-institution: University of Wellington
+institution: Te Herenga Waka | Victoria University of Wellington
 country: New Zealand
 show_title: false
 pageview: true
@@ -22,7 +22,7 @@ sharing: false
   <div class="card__image">
     <img class="image" src="/assets/images/paul-johnson.png"/>
     <div class="overlay overlay--bottom">
-      <p>Instructor/Woosong University, Korea</p>
+      <p>PhD candidate at Te Herenga Waka | Victoria University of Wellington, New Zealand</p>
     </div>
   </div>
 </div>
