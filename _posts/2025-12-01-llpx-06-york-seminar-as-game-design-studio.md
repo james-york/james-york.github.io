@@ -56,4 +56,4 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/LLPx-symposium-all-papers.pdf"><i class="fas fa-file-download"></i> 📥 Download the full PDF here</a>
 
-You can also browse other papers in the publication on [this page]({% post_url 2025-11-01-llpx-symposium-pcp %}).
+You can also browse other papers in the publication on [this page]({% post_url 2025-12-01-llpx-symposium-pcp %}).

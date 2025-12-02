@@ -23,9 +23,6 @@ Here you can find a selection of all the papers that were submitted in a single 
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/LLPx-symposium-all-papers.pdf"><i class="fas fa-file-download"></i> 📥 Download the full PDF here</a>
 
-# 📺 Videos of the event
-
-
 # 🗒️ Individual papers
 
 ## 👩‍🏫 Supporting Teachers on Their Ludic Journey
