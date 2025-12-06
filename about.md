@@ -87,7 +87,7 @@ If you want to get a good grounding on what LLP is, we recommend starting with t
   {% assign articles_found = 0 %}
   {% for post in site.posts %}
   {% if articles_found <= 4 %}
-    {% if post.tags contains 'playground' or post.tags contains 'article' or post.tags contains 'walkthrough' %}
+    {% if post.tags contains 'playground' or post.tags contains 'article' or post.tags contains 'walkthrough' or post.tags contains 'llpx-symposium-2025' %}
       {% assign articles_found = articles_found | plus: 1 %}
      {% if post.tags contains 'playground' %}
         {% assign tagger = "🏞" %}
@@ -153,8 +153,3 @@ If you want to get a good grounding on what LLP is, we recommend starting with t
   {% endif %}
   {% endfor %}
 </ul>
-
-
-# 🌐 On the web
-
-<a class="twitter-timeline" data-width="500" data-height="300" data-theme="dark" href="https://twitter.com/llpjournal">Tweets by llpjournal</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
