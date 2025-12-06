@@ -18,5 +18,3 @@ We maintain a public collection of all *Ludic Language Pedagogy* articles on Len
 👉 [View the LLP Articles Collection on Lens.org](https://link.lens.org/FOI7eNYAJbc)
 
 We encourage authors and readers to explore the collection to see the impact and reach of our published work.
-
-<iframe src="https://lens.org/lens/embed/attribution" scrolling="no" height="30px" width="100%"></iframe>
