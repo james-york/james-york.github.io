@@ -60,7 +60,7 @@ sharing: true
 - **Keywords:** Connected Learning, Critical Game Literacy, Game-Based Learning, Gamification, Game Design, Iceberg Model, Ludic Language Pedagogy, Memes, Pedagogy of Multiliteracies, Playful Pedagogy
 - **Cite:**  
 
-> York, J. (2025). The games and education iceberg: Going beyond the surface to deeper learning. *Ludic Language Pedagogy, 7,* 105-129.
+> York, J. (2025). The games and education iceberg: Going beyond the surface to deeper learning. *Ludic Language Pedagogy, 7,* 105-129. [https://doi.org/10.55853/llp_v7Pg4](https://doi.org/10.55853/llp_v7Pg4)
 
 
 ## Download
