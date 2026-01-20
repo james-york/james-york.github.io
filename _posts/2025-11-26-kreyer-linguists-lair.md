@@ -54,7 +54,7 @@ sharing: true
 - **Keywords:** Linguistics, TEFL, Game-based learning, Student engagement
 - **Cite:**  
 
-> Kreyer, R. (2025). The Linguist’s Lair: A fun way of testing linguistic knowledge, *Ludic Language Pedagogy*, 7, 130-153.
+> Kreyer, R. (2025). The Linguist’s Lair: A fun way of testing linguistic knowledge, *Ludic Language Pedagogy*, 7, 130-153. [https://doi.org/10.55853/llp_v7Pg5](https://doi.org/10.55853/llp_v7Pg5)
 
 
 ## Download
