@@ -77,7 +77,7 @@ Nakashima, Nguyen Quynh Chau, Kaede Odate, Karua Suzuki, Maho Tsuzuki, Kanon Uen
 - **Keywords:** Experiential learning, Self-discovery, Games, Ludic language pedagogy, Growth
 - **Cite:**  
 
-> deHaan, J., Kajimura, J., Kawaguchi, S., Kira, H., Koike, A., Mizuno, A., Nakashima, K., Chau, N. Q., Odate, K., Suzuki, K., Tsuzuki, M., & Ueno, K. (2025). Journeys of self-discovery and growth through experiential learning in and around games. *Ludic Language Pedagogy, 7,* 66–104.
+> deHaan, J., Kajimura, J., Kawaguchi, S., Kira, H., Koike, A., Mizuno, A., Nakashima, K., Chau, N. Q., Odate, K., Suzuki, K., Tsuzuki, M., & Ueno, K. (2025). Journeys of self-discovery and growth through experiential learning in and around games. *Ludic Language Pedagogy, 7,* 66–104. [https://doi.org/10.55853/llp_v7Pg3](https://doi.org/10.55853/llp_v7Pg3)
 
 
 ## Download
