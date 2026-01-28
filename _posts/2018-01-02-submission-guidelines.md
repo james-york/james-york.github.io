@@ -79,7 +79,7 @@ Submissions in this category typically map out and find gaps in relevant scholar
 We welcome papers that aim to:
 
 - push the field forwards
-- question the field’s current trajectory
+- question the field's current trajectory
 - end with more questions than they started with
 - create a manifesto or a call to action.
 
@@ -115,8 +115,8 @@ A step-by-step guide to our open peer review process:
 - Financial support in any regard, including from funding bodies or internal grants, must be declared.
 - Acknowledgements may be placed after the conclusion.
 - We will not consider submissions that are 1) under review for publication or 2) have already been published elsewhere. Previously rejected manuscripts will be considered if you have reworked them based on previous comments.
-- Manuscripts that contain large portions of the author’s previously published work are considered self-plagiarism and will not be considered. Authors will be banned from submitting their work for a one-year period in such instances.
-- Manuscripts that contain large portions of another author’s published work(s) are considered plagiarism and will not be considered. Authors will be permanently banned from submitting their work to the journal in such instances.
+- Manuscripts that contain large portions of the author's previously published work are considered self-plagiarism and will not be considered. Authors will be banned from submitting their work for a one-year period in such instances.
+- Manuscripts that contain large portions of another author's published work(s) are considered plagiarism and will not be considered. Authors will be permanently banned from submitting their work to the journal in such instances.
 
 ### 3. Peer-review process
 - All of the journal's content is subjected to peer-review.
@@ -161,3 +161,22 @@ A step-by-step guide to our open peer review process:
 ### 10. Name of journal
 - The title of the journal reflects the content we expect authors to submit. Submissions that do not include a reference to a ludic approach to teaching language or literacy skills with a focus on the underlying pedagogy will not be accepted.
 - If readers feel that the journal title is misleading in any way, we are open to discussion. Contact the editors at [contact@llpjournal.org](mailto:contact@llpjournal.org).
+
+# Generative AI policy
+
+Ludic Language Pedagogy recognises that generative artificial intelligence tools are increasingly used in research and academic writing. While such tools may support certain aspects of academic work, their use must be transparent, ethical, and consistent with academic integrity.
+
+Generative AI tools (e.g., large language models, image generators, or automated data analysis systems) do not meet the criteria for authorship. Accordingly, AI tools must not be listed as authors or co-authors on any submission. Human authors remain fully responsible for the accuracy and originality of all submitted content, including material(s) produced with AI assistance.
+
+Where GenAI tools are used, the following conditions apply:
+
+- If AI tools are used to generate text, the nature and purpose of the AI use must be declared explicitly in the Acknowledgements section. AI-generated text must not replace the original interpretation by the author(s), and all claims must be supported by appropriate academic references.
+- If AI tools are used to generate images, diagrams, audio, video, or other media (including game(s) design), the use of AI must be clearly stated in the relevant caption(s). A brief description of the process and tool used must be provided.
+- If AI tools are used to generate synthetic data, including teaching or reading materials, the process used must be explicitly mentioned in the manuscript.
+- If AI tools are used for data analysis, including text and data mining, coding, or pattern detection, authors must provide a clear description of how the tool was used in a Methods or Methodology section of the paper.
+
+Regardless of the tool used, LLP considers it the authors' responsibility to ensure that AI-generated outputs do not include plagiarised material; creative content originating from third parties are properly cited or used with permission; and AI tools are not used to fabricate data, falsify results, or mislead readers.
+
+All descriptions of AI use should include, where applicable, the name and version of the AI tool or model; the provider or platform through which it was accessed; the date(s) of use; any relevant customisation, fine-tuning, or data inputs supplied by the authors; any known limitations, biases, or competing interests associated with the tool's use.
+
+The editorial team reserves the right to request further clarification regarding AI use and to reject submissions where AI use is deemed unethical, insufficiently disclosed, or incompatible with the scope of the journal.
