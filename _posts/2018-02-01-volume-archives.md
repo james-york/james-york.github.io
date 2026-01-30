@@ -17,8 +17,8 @@ comments: false
 # 🏦 Volumes by date
 
 <ul>
-  {% assign sorted_posts = site.posts | sort: 'title' | reverse %}
-  {% for post in  sorted_posts %}
+  {% assign sorted_posts = site.posts | sort: 'title' %}
+  {% for post in sorted_posts %}
   {% if post.tags contains 'volume archive' %}
   <li>
   <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
