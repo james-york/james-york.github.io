@@ -1,4 +1,3 @@
-
 <footer class="footer py-4 js-page-footer">
   <div class="main">
 
@@ -18,19 +17,35 @@
       {%- if _site_author.bio -%}
         <meta itemprop="description" content="{{ _site_author.bio }}">
       {%- endif -%}
+
       <div class="footer__author-links">
         {%- include author-links.html author=_site_author -%}
       </div>
     </div>
+
+    <!-- Journal policy links (Scopus-visible) -->
+    <nav class="footer__policy-links mt-2" aria-label="Journal policies" style="text-align:center;">
+      <div class="footer__policies">
+        <a href="/2018/01/02/ethics-and-malpractice-statement/">Policies</a> ·
+        <a href="/2018/01/02/ethics-and-malpractice-statement/#2-authors-and-author-responsibilities">Publication Ethics</a> ·
+        <a href="/2018/01/02/ethics-and-malpractice-statement/#4-peer-review-process">Peer Review</a> ·
+        <a href="/2018/01/02/ethics-and-malpractice-statement/#6-generative-ai-policy">Generative AI</a> ·
+        <a href="/2018/01/02/ethics-and-malpractice-statement/#7-copyright-and-access">Copyright & Access</a> ·
+        <a href="/2018/01/02/ethics-and-malpractice-statement/#8-revenue-sources">Revenue and advertising</a> ·
+      </div>
+    </nav>
+
     {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
     {%- assign _locale_copyright_dates = __return -%}
     <div class="site-info mt-2">
       <div>
-        {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
-        {%- assign _locale_copyright_dates = __return -%}
         © {{ site.title }} {{ _locale_copyright_dates }},
-        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
-        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+        Powered by
+        <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a>
+        &amp;
+        <a title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </br>
+      Content licensed under CC BY-NC-ND 4.0
       </div>
     </div>
   </div>
