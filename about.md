@@ -142,7 +142,7 @@ If you want to get a good grounding on what LLP is, we recommend starting with t
   {% endfor %}
 </ul>
 
-# 🏦 Previous Volumes
+# 🏦 Volumes
 
 <ul>
   {% for post in site.posts %}
