@@ -1,0 +1,87 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+      fr      : &FR       Archives
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /archive.html
+
+docs-en:
+
+- title: Quick links
+  children:
+  - title: Home
+    url: /about.html
+  - title: About LLP
+    url: /2018/01/01/llp-mission.html
+  - title: Inclusivity Statement
+    url: /2020/06/23/llp-inclusivity-statement.html
+  - title: People
+    url: /2018/01/24/people.html
+  - title: 🎟️ Membership
+    url: /2024/01/01/membership
+
+- title: Content
+  children:
+  - title: 🏞 Playground Items
+    url: /2018/02/01/playground-items.html
+  - title: 📔 Articles and Walkthroughs
+    url: /2018/02/01/articles.html
+  - title: 🏦 Volumes
+    url: /2018/02/01/volume-archives.html
+  - title: 🎟 LLPx (Conference details)
+    url: /2020/10/07/LLPx.html
+  - title: 🎙 Podcasts
+    url: /2018/02/01/podcasts.html
+  - title: 📺 Videos
+    url: /2021/01/05/videos.html
+  - title: 🆓 LLP Compendium
+    url: /2020/04/03/llp-compendium.html
+
+- title: How to Submit
+  children:
+  - title: 👾 Submission Guidelines
+    url: /2018/01/02/submission-guidelines.html
+  - title: 📝 Manuscript Templates
+    url: /2018/01/02/submission-guidelines.html#submission-types
+  - title: 📤 Submit your work
+    url: /2018/01/03/submit-work.html
+  - title: ⚖ Ethics and Malpractice
+    url: /2018/01/02/ethics-and-malpractice-statement.html
+
+- title: Review with us
+  children:
+  - title: 🤝 Become a reviewer
+    url: /2018/01/04/review-with-us.html
+  - title: 👁 Open Peer Review
+    url: /2018/01/04/review-with-us.html#-we-practice-open-not-blind-peer-review
+
+- title: Community
+  children:
+  - title: 💬 LLP Discord
+    url: https://discord.gg/je9QZsnntf
+  - title: 💌 Newsletter
+    url: /2018/01/01/contact-us.html#-newsletter
+  - title: 🏢 Contact Us
+    url: /2018/01/01/contact-us.html
+  - title: 🎨 LLP Art assets
+    url: /2020/01/01/llp-press-kit.html
+  

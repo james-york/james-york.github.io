@@ -1,0 +1,52 @@
+<footer class="footer py-4 js-page-footer">
+  <div class="main">
+
+    {%- assign _site_author = site.author -%}
+    {%- if _site_author.type == 'organization' -%}
+      {%- assign _site_author_itemtype = 'http://schema.org/Organization' -%}
+    {%- else -%}
+      {%- assign _site_author_itemtype = 'http://schema.org/Person' -%}
+    {%- endif -%}
+
+    <div itemscope itemtype="{{ _site_author_itemtype }}">
+      <meta itemprop="name" content="{{ _site_author.name }}">
+      {%- assign _site_author_url = _site_author.url | default: '/'-%}
+      {%- include snippets/get-nav-url.html path=_site_author_url -%}
+      {%- assign _site_author_url = __return -%}
+      <meta itemprop="url" content="{{ _site_author_url }}">
+      {%- if _site_author.bio -%}
+        <meta itemprop="description" content="{{ _site_author.bio }}">
+      {%- endif -%}
+
+      <div class="footer__author-links">
+        {%- include author-links.html author=_site_author -%}
+      </div>
+    </div>
+
+    <!-- Journal policy links (Scopus-visible) -->
+    <nav class="footer__policy-links mt-2" aria-label="Journal policies" style="text-align:center;">
+      <div class="footer__policies">
+        <a href="https://llpjournal.org/2018/01/02/ethics-and-malpractice-statement.html">Policies</a> ·
+        <a href="https://llpjournal.org/2018/01/02/ethics-and-malpractice-statement.html#2-authors-and-author-responsibilities">Publication Ethics</a> ·
+        <a href="https://llpjournal.org/2018/01/02/ethics-and-malpractice-statement.html#4-peer-review-process">Peer Review</a> ·
+        <a href="https://llpjournal.org/2018/01/02/ethics-and-malpractice-statement.html#6-generative-ai-policy">Generative AI</a> ·
+        <a href="https://llpjournal.org/2018/01/02/ethics-and-malpractice-statement.html#7-copyright-and-access">Copyright & Access</a> ·
+        <a href="https://llpjournal.org/2018/01/02/ethics-and-malpractice-statement.html#8-revenue-sources">Revenue and advertising</a> ·
+      </div>
+    </nav>
+
+    {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
+    {%- assign _locale_copyright_dates = __return -%}
+    <div class="site-info mt-2">
+      <div>
+        © {{ site.title }} {{ _locale_copyright_dates }},
+        Powered by
+        <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a>
+        &amp;
+        <a title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </br>
+      Content licensed under CC BY-NC-ND 4.0
+      </div>
+    </div>
+  </div>
+</footer>
