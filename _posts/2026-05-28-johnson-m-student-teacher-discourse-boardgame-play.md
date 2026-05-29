@@ -49,7 +49,7 @@ sharing: true
 ## Metadata
 
 - **Authors:** [Mark Johnson]({% post_url 2023-11-28-mark-j %})
-- **Reviewed by:** [Ken Tran]({ % post_url 2025-06-26-ken-tran % }) and [Bailing He]({% post_url 2025-08-19-bailing-he %})
+- **Reviewed by:** [Ken Tran](https://llpjournal.org/2025/06/26/ken-tran.html) and [Bailing He]({% post_url 2025-08-19-bailing-he %})
 - **Volume and page numbers:** 8 (p. 1 – 20)
 - **Date of publication:** 2026/05/28
 - **Keywords:** Classroom discourse, EFL, Game-based language learning, Power dynamics, Sinclair and Coulthard’s framework
