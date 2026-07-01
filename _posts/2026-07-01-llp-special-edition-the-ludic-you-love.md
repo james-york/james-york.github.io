@@ -30,6 +30,8 @@ This collection brings together educators, researchers, and practitioners who sh
 
 Together, these papers offer a snapshot of the diverse ways play continues to inspire language learning communities around the world.
 
+We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-robb-mccollum %}) and [Ken Tran]({% post_url 2025-06-26-ken-tran %}) for their hard work making this happen, [James York]({% post_url 2019-03-28-james-york %}) for formatting, and [Martin Sedaghat]({% post_url 2023-02-21-martin-sedaghat %}) for the front cover artwork.
+
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/ludic-you-love-complete.pdf"><i class="fas fa-file-download"></i> 📥 Download the complete special issue</a>
 
 # 🎲 Contents

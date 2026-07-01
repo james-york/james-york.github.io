@@ -60,4 +60,4 @@ This paper explores how a familiar board game can be reimagined for reflection, 
 - [Read the paper page](https://llpjournal.org/2026/07/01/ludic-you-love-01-snakes-and-ladders)
 - [Open the Google Doc](https://docs.google.com/document/d/1L5jsETjzKC6ZQpo2T1vr1M2i4rLzsjL7pHBCN-NBEFA/edit)
 
-You can also browse other papers in the special issue on [this page]({% post_url 2026-06-18-llp-special-edition-the-ludic-you-love %}).
+You can also browse other papers in the special issue on [this page]({% post_url 2026-07-01-llp-special-edition-the-ludic-you-love %}).

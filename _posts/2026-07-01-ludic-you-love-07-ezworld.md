@@ -59,4 +59,4 @@ This paper explores how EZWorld can be used to teach financial literacy through 
 - [Read the paper page](https://llpjournal.org/2026/07/01/ludic-you-love-07-ezworld)
 - [Open the Google Doc](https://docs.google.com/document/d/1X2wCAqyHQexOytJzh0VUwIfNc9nBFrDqkG4b8C8apXk/edit?usp=sharing)
 
-You can also browse other papers in the special issue on [this page]({% post_url 2026-06-18-llp-special-edition-the-ludic-you-love %}).
+You can also browse other papers in the special issue on [this page]({% post_url 2026-07-01-llp-special-edition-the-ludic-you-love %}).

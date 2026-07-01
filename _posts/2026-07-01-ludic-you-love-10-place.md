@@ -60,4 +60,4 @@ This paper explores how attention to place can shape playful language learning e
 - [Read the paper page](https://llpjournal.org/2026/07/01/ludic-you-love-10-place)
 - [Open the Google Doc](https://docs.google.com/document/d/1p_xdR5DLNy_2_zC9K-rWT6C5hwrSTNx3xs1pd3FfWYM/edit?usp=sharing)
 
-You can also browse other papers in the special issue on [this page]({% post_url 2026-06-18-llp-special-edition-the-ludic-you-love %}).
+You can also browse other papers in the special issue on [this page]({% post_url 2026-07-01-llp-special-edition-the-ludic-you-love %}).

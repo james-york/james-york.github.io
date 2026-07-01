@@ -60,4 +60,4 @@ This paper explores how wordless picturebooks can be used to support language le
 - [Read the paper page](https://llpjournal.org/2026/07/01/ludic-you-love-08-picturebooks)
 - [Open the Google Doc](https://docs.google.com/document/d/1-MlMAfm8Enp546BAkw0LoBYFre_iAiOToHX4xpYv48E/edit?usp=sharing)
 
-You can also browse other papers in the special issue on [this page]({% post_url 2026-06-18-llp-special-edition-the-ludic-you-love %}).
+You can also browse other papers in the special issue on [this page]({% post_url 2026-07-01-llp-special-edition-the-ludic-you-love %}).
