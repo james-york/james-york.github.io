@@ -62,6 +62,11 @@ sharing: true
 
 <a class="button button--action button--rounded button--lg" href="/assets/publication-pdfs/Johnson-analysis-of-EFL-student-teacher-discourse-during-collaborative-board-game-play.pdf"><i class="fas fa-file-download"></i> 📥 Download the PDF </a>
 
+## Compendium items
+
+- [Subtitle file]({{ "/assets/compendium/mark-j-lesson-transcript.srt" | relative_url }})
+- [Transcription as text]({{ "/assets/compendium/mark-j-lesson-transcript.txt" | relative_url }})
+
 ## KEY POINTS
 
 - **Background**: Analysis of classroom discourse between learners and teachers has revealed power asymmetry in many learning situations.
