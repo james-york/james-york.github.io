@@ -42,7 +42,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-01-snakes-and-ladders"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> deHaan, J. (2026). *Snakes and Ladders: Roll, Reflect, Remix!* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 1–11. DOI TO BE ADDED.
+> deHaan, J. (2026). *Snakes and Ladders: Roll, Reflect, Remix!* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 1–11. https://doi.org/10.55853/llp_lyl01.
 
 ---
 
@@ -52,7 +52,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-02-story-cubes"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Johnson, M. (2026). *Rory's Story Cubes: An analog storytelling game engine.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 12–22. DOI TO BE ADDED.
+> Johnson, M. (2026). *Rory's Story Cubes: An analog storytelling game engine.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 12–22. https://doi.org/10.55853/llp_lyl02.
 
 ---
 
@@ -62,7 +62,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-03-dream-adventure"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Trần, L. K. (2026). *Teaching descriptive adjectives using Du Ký (Dream Adventure).* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 23–31. DOI TO BE ADDED.
+> Trần, L. K. (2026). *Teaching descriptive adjectives using Du Ký (Dream Adventure).* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 23–31. https://doi.org/10.55853/llp_lyl03.
 
 ---
 
@@ -72,7 +72,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-04-dobble"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> van der Velden, M. (2026). *Seeing words differently: Using Dobble for vocabulary learning.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 32–38. DOI TO BE ADDED.
+> van der Velden, M. (2026). *Seeing words differently: Using Dobble for vocabulary learning.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 32–38. https://doi.org/10.55853/llp_lyl04.
 
 ---
 
@@ -82,7 +82,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-05-things-in-rings"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Trần, L. K. (2026). *Teaching nouns using Things in Rings and the concept of Venn diagram.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 39–46. DOI TO BE ADDED.
+> Trần, L. K. (2026). *Teaching nouns using Things in Rings and the concept of Venn diagram.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 39–46. https://doi.org/10.55853/llp_lyl05.
 
 ---
 
@@ -92,7 +92,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-06-around-the-world"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Lubbers, Z. (2026). *Around the World: A basketball-inspired language game.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 47–50. DOI TO BE ADDED.
+> Lubbers, Z. (2026). *Around the World: A basketball-inspired language game.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 47–50. https://doi.org/10.55853/llp_lyl06.
 
 ---
 
@@ -102,7 +102,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-07-ezworld"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Trần, L. K. (2026). *Teaching financial literacy using EZWorld.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 51–60. DOI TO BE ADDED.
+> Trần, L. K. (2026). *Teaching financial literacy using EZWorld.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 51–60. https://doi.org/10.55853/llp_lyl07.
 
 ---
 
@@ -112,17 +112,17 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-08-picturebooks"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Sedaghat, M. (2026). *Picture This: Wordless picturebooks in the language classroom.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 61–68. DOI TO BE ADDED.
+> Sedaghat, M. (2026). *Picture This: Wordless picturebooks in the language classroom.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 61–68. https://doi.org/10.55853/llp_lyl08.
 
 ---
 
 ## ✨ Story-asking: Imaginative, Co-created Stories
 
-**Diane Neubauer**
+**Diane Neubauer and Reed Riggs**
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-09-story-asking"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Neubauer, D. (2026). *Story-asking: Imaginative, co-created stories.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 69–74. DOI TO BE ADDED.
+> Neubauer, D. & Riggs, R. (2026). *Story-asking: Imaginative, co-created stories.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 69–74. https://doi.org/10.55853/llp_lyl09.
 
 ---
 
@@ -132,7 +132,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-10-place"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Richardson, D. (2026). *Playing with place.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 75–80. DOI TO BE ADDED.
+> Richardson, D. (2026). *Playing with place.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 75–80. https://doi.org/10.55853/llp_lyl10.
 
 ---
 
@@ -142,7 +142,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-11-wonder-flower"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Raj, E. X. (2026). *Wonder Flower: Planting seeds of life and language in a pixelated city.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 81–84. DOI TO BE ADDED.
+> Raj, E. X. (2026). *Wonder Flower: Planting seeds of life and language in a pixelated city.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 81–84. https://doi.org/10.55853/llp_lyl11.
 
 ---
 
@@ -152,7 +152,7 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-12-persona5r"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> Compton, T. (2026). *“Take Your Heart”: Why Persona 5 Royal may be the best JRPG for language learning.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 85–91. DOI TO BE ADDED.
+> Compton, T. (2026). *“Take Your Heart”: Why Persona 5 Royal may be the best JRPG for language learning.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 85–91. https://doi.org/10.55853/llp_lyl12.
 
 ---
 
@@ -162,4 +162,4 @@ We'd like to thank special issue editors [Robb McCollum]({% post_url 2022-07-16-
 
 <a class="button button--action button--rounded button" href="https://llpjournal.org/2026/07/01/ludic-you-love-13-smash-bros"><i class="fas fa-external-link-alt"></i> Read the paper</a>
 
-> York, J. (2026). *Super Smash Bros. Ultimate.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 92–105. DOI TO BE ADDED.
+> York, J. (2026). *Super Smash Bros. Ultimate.* *Ludic Language Pedagogy Special Issue: The Ludic You Love,* 92–105. https://doi.org/10.55853/llp_lyl13.
