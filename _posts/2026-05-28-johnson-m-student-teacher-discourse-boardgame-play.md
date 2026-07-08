@@ -56,7 +56,7 @@ sharing: true
 
 - **Cite:** 
 
-> Johnson, M. (2026). Analysis of EFL student-teacher discourse during collaborative board game play. *Ludic Language Pedagogy*, *8*, 1-20. 
+> Johnson, M. (2026). Analysis of EFL student-teacher discourse during collaborative board game play. *Ludic Language Pedagogy*, *8*, 1-20. https://doi.org/10.55853/LLP_v8Ar1
 
 ## Download
 
