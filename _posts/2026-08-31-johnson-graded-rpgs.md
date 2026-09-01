@@ -60,7 +60,7 @@ sharing: true
 - **Keywords:** Digital game-based language learning, DGBLL, graded readers, extensive reading, extensive RPGing, graded digital roleplaying games, graded digital RPG, word profiling, RPG Maker MZ
 - **Cite:**
 
-> Johnson, P. (2026). Playtesting a Graded Digital Roleplaying Game for Second Language Learning, *Ludic Language Pedagogy*, 8, 39-54.
+> Johnson, P. (2026). Playtesting a Graded Digital Roleplaying Game for Second Language Learning, *Ludic Language Pedagogy*, 8, 39-54. [https://doi.org/10.55853/llp_v8Pg2](https://doi.org/10.55853/llp_v8Pg2)
 
 
 ## Download
