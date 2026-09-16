@@ -54,7 +54,7 @@ sharing: true
 ## Metadata
 
 - **Authors:** [James York]({% post_url 2019-03-28-james-york %})
-- **Reviewed by:** [Mark Johnson]({% post_url 2023-11-28-mark-j %}), [Fabio Spano]({% post_url 2020-10-05-fabio-spano %}), [Petra Khalil]({% post_url 2024-07-01-petra-khalil %})
+- **Reviewed by:** [Mark Johnson]({% post_url 2023-11-28-mark-j %}), [Fabio Spano]({% post_url 2020-10-05-fabio-spano %}), [Petra Khalil]({% post_url 2024-06-31-petra-khalil %})
 - **Volume and page numbers:** 7 (pp. 105–129)
 - **Date of publication:** 2025/11/18
 - **Keywords:** Connected Learning, Critical Game Literacy, Game-Based Learning, Gamification, Game Design, Iceberg Model, Ludic Language Pedagogy, Memes, Pedagogy of Multiliteracies, Playful Pedagogy
