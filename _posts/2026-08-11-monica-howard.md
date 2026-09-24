@@ -2,7 +2,7 @@
 layout: article
 title: Monica Howard
 tags:
-- reviwer
+- reviewer
 - member-epic
 key: monica-howard-page
 institution: Boise State University
