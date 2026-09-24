@@ -2,7 +2,8 @@
 layout: article
 title: Monica Howard
 tags:
-- author
+- reviwer
+- member-epic
 key: monica-howard-page
 institution: Boise State University
 country: United States
